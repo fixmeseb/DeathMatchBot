@@ -1,8 +1,0 @@
-inorganic 
-wax 
-metallic 
-rubber 
-stone 
-wooden 
-plastic 
-lava 

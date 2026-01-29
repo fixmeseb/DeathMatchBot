@@ -1,9 +1,0 @@
-Beer
-Red Wine
-White Wine
-Tequila
-Vodka
-Water
-Hard Cider
-Mead
-Champagne

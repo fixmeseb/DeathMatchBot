@@ -1,0 +1,56 @@
+{
+    "apathetic": {
+        "Name": "apathetic",
+        "Tagline": "apathetic ",
+        "Description": "having or showing little or no emotion.",
+        "Link": "https://www.dictionary.com/browse/apathetic"
+    },
+    "depressed": {
+        "Name": "depressed",
+        "Tagline": "depressed ",
+        "Description": "sad and gloomy; dejected; downcast.",
+        "Link": "https://www.dictionary.com/browse/depressed"
+    },
+    "downcast": {
+        "Name": "downcast",
+        "Tagline": "downcast ",
+        "Description": "dejected in spirit; depressed.",
+        "Link": "https://www.dictionary.com/browse/downcast"
+    },
+    "languid": {
+        "Name": "languid",
+        "Tagline": "languid ",
+        "Description": "lacking in vigor or vitality; slack or slow.",
+        "Link": "https://www.dictionary.com/browse/languid"
+    },
+    "lazy": {
+        "Name": "lazy",
+        "Tagline": "lazy ",
+        "Description": "averse or disinclined to work, activity, or exertion; indolent.",
+        "Link": "https://www.dictionary.com/browse/lazy"
+    },
+    "lethargic": {
+        "Name": "lethargic",
+        "Tagline": "lethargic ",
+        "Description": "of, relating to, or affected with lethargy; drowsy; sluggish; apathetic.",
+        "Link": "https://www.dictionary.com/browse/lethargic"
+    },
+    "procrastinating": {
+        "Name": "procrastinating",
+        "Tagline": "procrastinating ",
+        "Description": "to be putting off till another day or time; to be defering; to be delaying.",
+        "Link": "https://www.dictionary.com/browse/procrastinating"
+    },
+    "relaxed": {
+        "Name": "relaxed",
+        "Tagline": "relaxed ",
+        "Description": "to be free of or relieved from tension or anxiety.",
+        "Link": "https://www.dictionary.com/browse/relaxed"
+    },
+    "slacker": {
+        "Name": "slacker",
+        "Tagline": "slacker ",
+        "Description": "a person who evades his or her duty or work; shirker.",
+        "Link": "https://www.dictionary.com/browse/slacker"
+    }    
+}

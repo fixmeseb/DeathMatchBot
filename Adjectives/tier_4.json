@@ -1,0 +1,1436 @@
+{
+  "abnormal": {
+    "Name": "abnormal",
+    "Tagline": "abnormal ",
+    "Description": "not normal, average, typical, or usual; deviating from a standard.",
+    "Link": "https://www.dictionary.com/browse/abnormal"
+  },
+  "acerbic": {
+    "Name": "acerbic",
+    "Tagline": "acerbic ",
+    "Description": "sour or astringent in taste.",
+    "Link": "https://www.dictionary.com/browse/acerbic"
+  },
+  "acetic": {
+    "Name": "acetic",
+    "Tagline": "acetic ",
+    "Description": "pertaining to, derived from, or producing vinegar or acetic acid.",
+    "Link": "https://www.dictionary.com/browse/acetic"
+  },
+  "aerobic": {
+    "Name": "aerobic",
+    "Tagline": "aerobic ",
+    "Description": "(of an organism or tissue) requiring the presence of air or free oxygen for life.",
+    "Link": "https://www.dictionary.com/browse/aerobic"
+  },
+  "agnostic": {
+    "Name": "agnostic",
+    "Tagline": "agnostic ",
+    "Description": "a person who holds that the existence of the ultimate cause, as God, and the essential nature of things are unknown and unknowable, or that human knowledge is limited to experience.",
+    "Link": "https://www.dictionary.com/browse/agnostic"
+  },
+  "aloof": {
+    "Name": "aloof",
+    "Tagline": "aloof ",
+    "Description": "reserved or reticent; indifferent; disinterested.",
+    "Link": "https://www.dictionary.com/browse/aloof"
+  },
+  "alternate-universal": {
+    "Name": "alternate universe",
+    "Tagline": "alternate universe ",
+    "Description": "of, relating to, or from another universe.",
+    "Link": "[No Link]"
+  },
+  "ambidextirous": {
+    "Name": "ambidextirous",
+    "Tagline": "ambidextirous ",
+    "Description": "able to use both hands equally well.",
+    "Link": "https://www.dictionary.com/browse/ambidextirous"
+  },
+  "anaerobic": {
+    "Name": "anaerobic",
+    "Tagline": "anaerobic ",
+    "Description": "(of an organism or tissue) living in the absence of air or free oxygen.",
+    "Link": "https://www.dictionary.com/browse/anaerobic"
+  },
+  "anathematic": {
+    "Name": "anathematic",
+    "Tagline": "anathematic ",
+    "Description": "loathsome; disgusting; hateful.",
+    "Link": "https://www.dictionary.com/browse/anathematic"
+  },
+  "anime": {
+    "Name": "anime",
+    "Tagline": "anime ",
+    "Description": "Resembling or characteristic of anime, a type of animation that originated in Japan.",
+    "Link": "https://en.wikipedia.org/wiki/Anime"
+  },
+  "antidisestablishmentarianist": {
+    "Name": "antidisestablishmentarianist",
+    "Tagline": "antidisestablishmentarianist ",
+    "Description": "Antidisestablishmentarianism is a position that advocates that a state Church should continue to receive government patronage, rather than be disestablished.",
+    "Link": "https://en.wikipedia.org/wiki/Antidisestablishmentarianism"
+  },
+  "arabic": {
+    "Name": "arabic",
+    "Tagline": "arabic ",
+    "Description": "of, belonging to, or derived from the language or literature of the Arabs.",
+    "Link": "https://www.dictionary.com/browse/arabic"
+  },
+  "aroused": {
+    "Name": "aroused",
+    "Tagline": "aroused ",
+    "Description": "to be stimulated sexually.",
+    "Link": "https://www.dictionary.com/browse/aroused"
+  },
+  "artificial": {
+    "Name": "artificial",
+    "Tagline": "artificial ",
+    "Description": "made by human skill; produced by humans (opposed to natural).",
+    "Link": "https://www.dictionary.com/browse/artificial"
+  },
+  "ascetic": {
+    "Name": "ascetic",
+    "Tagline": "ascetic ",
+    "Description": "a person who dedicates his or her life to a pursuit of contemplative ideals and practices extreme self-denial or self-mortification for religious reasons.",
+    "Link": "https://www.dictionary.com/browse/ascetic"
+  },
+  "astrological": {
+    "Name": "astrological",
+    "Tagline": "astrological ",
+    "Description": "of or relating to the study that assumes and attempts to interpret the influence of the heavenly bodies on human affairs.",
+    "Link": "https://www.dictionary.com/browse/astrological"
+  },
+  "atheistic": {
+    "Name": "atheistic",
+    "Tagline": "atheistic ",
+    "Description": "pertaining to or characteristic of atheists or atheism; containing, suggesting, or disseminating atheism.",
+    "Link": "https://www.dictionary.com/browse/atheistic"
+  },
+  "authoritarian": {
+    "Name": "authoritarian",
+    "Tagline": "authoritarian ",
+    "Description": "favoring complete obedience or subjection to authority as opposed to individual freedom.",
+    "Link": "https://www.dictionary.com/browse/authoritarian"
+  },
+  "AWOL": {
+    "Name": "AWOL",
+    "Tagline": "AWOL ",
+    "Description": "away from military duties without permission, but without the intention of deserting.",
+    "Link": "https://en.wikipedia.org/wiki/Desertion"
+  },
+  "batteries-not-included": {
+    "Name": "batteries-not-included",
+    "Tagline": "batteries-not-included ",
+    "Description": "batteries are not included.",
+    "Link": "[No Link]"
+  },
+  "beautiful": {
+    "Name": "beautiful",
+    "Tagline": "beautiful ",
+    "Description": "having beauty; possessing qualities that give great pleasure or satisfaction to see, hear, think about, etc.; delighting the senses or mind.",
+    "Link": "https://www.dictionary.com/browse/beautiful"
+  },
+  "bejeweled": {
+    "Name": "bejeweled",
+    "Tagline": "bejeweled ",
+    "Description": "decorated with or as if with jewels.",
+    "Link": "https://www.dictionary.com/browse/bejeweled"
+  },
+  "bionic": {
+    "Name": "bionic",
+    "Tagline": "bionic ",
+    "Description": "utilizing electronic devices and mechanical parts to assist humans in performing difficult, dangerous, or intricate tasks, as by supplementing or duplicating parts of the body.",
+    "Link": "https://www.dictionary.com/browse/bionic"
+  },
+  "bipedal": {
+    "Name": "bipedal",
+    "Tagline": "bipedal ",
+    "Description": "having two feet.",
+    "Link": "https://www.dictionary.com/browse/bipedal"
+  },
+  "biracial": {
+    "Name": "biracial",
+    "Tagline": "biracial ",
+    "Description": "consisting of, representing, or combining members of two separate racial groups.",
+    "Link": "https://www.dictionary.com/browse/biracial"
+  },
+  "black": {
+    "Name": "black",
+    "Tagline": "black ",
+    "Description": "being a color that lacks hue and brightness and absorbs light without reflecting any of the rays composing it.",
+    "Link": "https://www.dictionary.com/browse/black"
+  },
+  "blue": {
+    "Name": "blue",
+    "Tagline": "blue ",
+    "Description": "of the color of blue.",
+    "Link": "https://www.dictionary.com/browse/blue"
+  },
+  "blurry": {
+    "Name": "blurry",
+    "Tagline": "blurry ",
+    "Description": "blurred; indistinct.",
+    "Link": "https://www.dictionary.com/browse/blurry"
+  },
+  "breathing": {
+    "Name": "breathing",
+    "Tagline": "breathing ",
+    "Description": "currently breathing.",
+    "Link": "https://www.dictionary.com/browse/breathing"
+  },
+  "cage-free": {
+    "Name": "cage-free",
+    "Tagline": "cage-free ",
+    "Description": "not raised in a cage.",
+    "Link": "[No Link]"
+  },
+  "cannibalistic": {
+    "Name": "cannibalistic",
+    "Tagline": "cannibalistic ",
+    "Description": "someone who practices cannibalism.",
+    "Link": "https://www.dictionary.com/browse/cannibalistic"
+  },
+  "capitalized": {
+    "Name": "capitalized",
+    "Tagline": "capitalized ",
+    "Description": "to be writen or printed in capital letters or with an initial capital letter.",
+    "Link": "https://www.dictionary.com/browse/capitalized"
+  },
+  "charged": {
+    "Name": "charged",
+    "Tagline": "charged ",
+    "Description": "having an electric charge.",
+    "Link": "https://www.dictionary.com/browse/charged"
+  },
+  "chilled": {
+    "Name": "chilled",
+    "Tagline": "chilled ",
+    "Description": "kept cool.",
+    "Link": "https://www.dictionary.com/browse/chilled"
+  },
+  "CIA": {
+    "Name": "CIA",
+    "Tagline": "CIA ",
+    "Description": "a member of the Central Intelligence Agency: the U.S. federal agency that coordinates governmental intelligence activities outside the United States.",
+    "Link": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+  },
+  "classical": {
+    "Name": "classical",
+    "Tagline": "classical ",
+    "Description": "of, pertaining to, characterized by, or adhering to the well-ordered, chiefly homophonic musical style of the latter half of the 18th and the early 19th centuries.",
+    "Link": "https://www.dictionary.com/browse/classical"
+  },
+  "colorful": {
+    "Name": "colorful",
+    "Tagline": "colorful ",
+    "Description": "abounding in color.",
+    "Link": "https://www.dictionary.com/browse/colorful"
+  },
+  "commemorative": {
+    "Name": "commemorative",
+    "Tagline": "commemorative ",
+    "Description": "serving to commemorate.",
+    "Link": "https://www.dictionary.com/browse/commemorative"
+  },
+  "compressed": {
+    "Name": "compressed",
+    "Tagline": "compressed ",
+    "Description": "pressed into less space; condensed.",
+    "Link": "https://www.dictionary.com/browse/compressed"
+  },
+  "congressional": {
+    "Name": "congressional",
+    "Tagline": "congressional ",
+    "Description": "of or relating to the Congress of the U.S.",
+    "Link": "https://www.dictionary.com/browse/congressional"
+  },
+  "constant": {
+    "Name": "constant",
+    "Tagline": "constant ",
+    "Description": "not changing or varying; uniform; regular; invariable.",
+    "Link": "https://www.dictionary.com/browse/constant"
+  },
+  "controversial": {
+    "Name": "controversial",
+    "Tagline": "controversial ",
+    "Description": "of, relating to, or characteristic of controversy, or prolonged public dispute, debate, or contention; polemical.",
+    "Link": "https://www.dictionary.com/browse/controversial"
+  },
+  "corporeal": {
+    "Name": "corporeal",
+    "Tagline": "corporeal ",
+    "Description": "of the nature of the physical body; bodily.",
+    "Link": "https://www.dictionary.com/browse/corporeal"
+  },
+  "corpulent": {
+    "Name": "corpulent",
+    "Tagline": "corpulent ",
+    "Description": "large or bulky of body; portly; stout; fat.",
+    "Link": "https://www.dictionary.com/browse/corpulent"
+  },
+  "credible": {
+    "Name": "credible",
+    "Tagline": "credible ",
+    "Description": "capable of being believed; believable.",
+    "Link": "https://www.dictionary.com/browse/credible"
+  },
+  "criminal": {
+    "Name": "criminal",
+    "Tagline": "criminal ",
+    "Description": "of the nature of or involving crime.",
+    "Link": "https://www.dictionary.com/browse/criminal"
+  },
+  "dapper": {
+    "Name": "dapper",
+    "Tagline": "dapper ",
+    "Description": "neat; trim; smart.",
+    "Link": "https://www.dictionary.com/browse/dapper"
+  },
+  "delicious": {
+    "Name": "delicious",
+    "Tagline": "delicious ",
+    "Description": "highly pleasing to the senses, especially to taste or smell.",
+    "Link": "https://www.dictionary.com/browse/delicious"
+  },
+  "delightful": {
+    "Name": "delightful",
+    "Tagline": "delightful ",
+    "Description": "giving great pleasure or delight; highly pleasing.",
+    "Link": "https://www.dictionary.com/browse/delightful"
+  },
+  "dialectical": {
+    "Name": "dialectical",
+    "Tagline": "dialectical ",
+    "Description": "of, relating to, or of the nature of logical argumentation.",
+    "Link": "https://www.dictionary.com/browse/dialectical"
+  },
+  "domestic": {
+    "Name": "domestic",
+    "Tagline": "domestic ",
+    "Description": "of or relating to the home, the household, household affairs, or the family.",
+    "Link": "https://www.dictionary.com/browse/domestic"
+  },
+  "domesticated": {
+    "Name": "domesticated",
+    "Tagline": "domesticated ",
+    "Description": "to be converted to domestic uses; to be tamed.",
+    "Link": "https://www.dictionary.com/browse/domesticated"
+  },
+  "drillable": {
+    "Name": "drillable",
+    "Tagline": "drillable ",
+    "Description": "to be able to be drilled.",
+    "Link": "https://www.dictionary.com/browse/drillable"
+  },
+  "dripping": {
+    "Name": "dripping",
+    "Tagline": "dripping ",
+    "Description": "the act of being something that drips.",
+    "Link": "https://www.dictionary.com/browse/dripping"
+  },
+  "educated": {
+    "Name": "educated",
+    "Tagline": "educated ",
+    "Description": "having undergone education.",
+    "Link": "https://www.dictionary.com/browse/educated"
+  },
+  "emboweled": {
+    "Name": "emboweled",
+    "Tagline": "emboweled ",
+    "Description": "to not be disemboweled.",
+    "Link": "https://www.dictionary.com/browse/emboweled"
+  },
+  "empty": {
+    "Name": "empty",
+    "Tagline": "empty ",
+    "Description": "containing nothing; having none of the usual or appropriate contents.",
+    "Link": "https://www.dictionary.com/browse/empty"
+  },
+  "evil": {
+    "Name": "evil",
+    "Tagline": "evil ",
+    "Description": "morally wrong or bad; immoral; wicked.",
+    "Link": "https://www.dictionary.com/browse/evil"
+  },
+  "expensive": {
+    "Name": "expensive",
+    "Tagline": "expensive ",
+    "Description": "entailing great expense; very high-priced; costly.",
+    "Link": "https://www.dictionary.com/browse/expensive"
+  },
+  "extracellular": {
+    "Name": "extracellular",
+    "Tagline": "extracellular ",
+    "Description": "outside a cell or cells.",
+    "Link": "https://www.dictionary.com/browse/extracellular"
+  },
+  "extracurricular": {
+    "Name": "extracurricular",
+    "Tagline": "extracurricular ",
+    "Description": "outside the regular curriculum or program of courses.",
+    "Link": "https://www.dictionary.com/browse/extracurricular"
+  },
+  "extrajudicial": {
+    "Name": "extrajudicial",
+    "Tagline": "extrajudicial ",
+    "Description": "outside of judicial proceedings; beyond the action or authority of a court.",
+    "Link": "https://www.dictionary.com/browse/extrajudicial"
+  },
+  "fabulous": {
+    "Name": "fabulous",
+    "Tagline": "fabulous ",
+    "Description": "exceptionally good or unusual; wonderful; superb.",
+    "Link": "https://www.dictionary.com/browse/fabulous"
+  },
+  "fake": {
+    "Name": "fake",
+    "Tagline": "fake ",
+    "Description": "not genuine; counterfeit.",
+    "Link": "https://www.dictionary.com/browse/fake"
+  },
+  "false": {
+    "Name": "false",
+    "Tagline": "false ",
+    "Description": "not true or correct; erroneous.",
+    "Link": "https://www.dictionary.com/browse/false"
+  },
+  "fancy": {
+    "Name": "fancy",
+    "Tagline": "fancy ",
+    "Description": "ornamental; decorative; not plain.",
+    "Link": "https://www.dictionary.com/browse/fancy"
+  },
+  "fascist": {
+    "Name": "fascist",
+    "Tagline": "fascist ",
+    "Description": "a person who believes in or sympathizes with fascism.",
+    "Link": "https://www.dictionary.com/browse/fascist"
+  },
+  "FBI": {
+    "Name": "FBI",
+    "Tagline": "FBI ",
+    "Description": "a member of the Federal Bureau of Investigation: the federal agency charged with investigations for the Attorney General and with safeguarding national security.",
+    "Link": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation"
+  },
+  "filtered": {
+    "Name": "filtered",
+    "Tagline": "filtered ",
+    "Description": "to have been processed or treated with a filter.",
+    "Link": "https://www.dictionary.com/browse/filtered"
+  },
+  "flavored": {
+    "Name": "flavored",
+    "Tagline": "flavored ",
+    "Description": "(of food or drink) having been given a particular taste by the addition of a flavoring.",
+    "Link": "https://www.dictionary.com/browse/flavored"
+  },
+  "fortuitous": {
+    "Name": "fortuitous",
+    "Tagline": "fortuitous ",
+    "Description": "happening or produced by chance; accidental.",
+    "Link": "https://www.dictionary.com/browse/fortuitous"
+  },
+  "free": {
+    "Name": "free",
+    "Tagline": "free ",
+    "Description": "without cost, payment, or charge.",
+    "Link": "https://www.dictionary.com/browse/free"
+  },
+  "full": {
+    "Name": "full",
+    "Tagline": "full ",
+    "Description": "completely filled; containing all that can be held; filled to utmost capacity.",
+    "Link": "https://www.dictionary.com/browse/full"
+  },
+  "functional": {
+    "Name": "functional",
+    "Tagline": "functional ",
+    "Description": "capable of operating or functioning.",
+    "Link": "https://www.dictionary.com/browse/functional"
+  },
+  "fuscia": {
+    "Name": "fuscia",
+    "Tagline": "fuscia ",
+    "Description": "a bright, purplish-red color.",
+    "Link": "https://www.dictionary.com/browse/fuscia"
+  },
+  "future": {
+    "Name": "future",
+    "Tagline": "future ",
+    "Description": "that is to be or come hereafter.",
+    "Link": "https://www.dictionary.com/browse/future"
+  },
+  "genderbent": {
+    "Name": "genderbent",
+    "Tagline": "genderbent ",
+    "Description": "When a character's gender is changed, usually in fanfictions or fanart.",
+    "Link": "https://www.urbandictionary.com/define.php?term=genderbent"
+  },
+  "generic": {
+    "Name": "generic",
+    "Tagline": "generic ",
+    "Description": "of, applicable to, or referring to all the members of a genus, class, group, or kind; general.",
+    "Link": "https://www.dictionary.com/browse/generic"
+  },
+  "germane": {
+    "Name": "germane",
+    "Tagline": "germane ",
+    "Description": "closely or significantly related; relevant; pertinent.",
+    "Link": "https://www.dictionary.com/browse/germane"
+  },
+  "gilded": {
+    "Name": "gilded",
+    "Tagline": "gilded ",
+    "Description": "covered or highlighted with gold or something of a golden color.",
+    "Link": "https://www.dictionary.com/browse/gilded"
+  },
+  "girded": {
+    "Name": "girded",
+    "Tagline": "girded ",
+    "Description": "to be encircled or binded with a belt or band.",
+    "Link": "https://www.dictionary.com/browse/girded"
+  },
+  "gory": {
+    "Name": "gory",
+    "Tagline": "gory ",
+    "Description": "covered or stained with gore; bloody.",
+    "Link": "https://www.dictionary.com/browse/gory"
+  },
+  "green": {
+    "Name": "green",
+    "Tagline": "green ",
+    "Description": "of the color of growing foliage, between yellow and blue in the spectrum.",
+    "Link": "https://www.dictionary.com/browse/green"
+  },
+  "hacker": {
+    "Name": "hacker",
+    "Tagline": "hacker ",
+    "Description": "a person or thing that hacks.",
+    "Link": "https://www.dictionary.com/browse/hacker"
+  },
+  "hairy": {
+    "Name": "hairy",
+    "Tagline": "hairy ",
+    "Description": "covered with hair; having much hair.",
+    "Link": "https://www.dictionary.com/browse/hairy"
+  },
+  "heavy": {
+    "Name": "heavy",
+    "Tagline": "heavy ",
+    "Description": "of great weight; hard to lift or carry.",
+    "Link": "https://www.dictionary.com/browse/heavy"
+  },
+  "heck": {
+    "Name": "heck",
+    "Tagline": "heck ",
+    "Description": "of or relating to heck.",
+    "Link": "https://www.dictionary.com/browse/heck"
+  },
+  "human": {
+    "Name": "human",
+    "Tagline": "human ",
+    "Description": "of, pertaining to, characteristic of, or having the nature of people.",
+    "Link": "https://www.dictionary.com/browse/human"
+  },
+  "humane": {
+    "Name": "humane",
+    "Tagline": "humane ",
+    "Description": "characterized by tenderness, compassion, and sympathy for people and animals, especially for the suffering or distressed.",
+    "Link": "https://www.dictionary.com/browse/humane"
+  },
+  "humanoid": {
+    "Name": "humanoid",
+    "Tagline": "humanoid ",
+    "Description": "having human characteristics or form; resembling human beings.",
+    "Link": "https://www.dictionary.com/browse/humanoid"
+  },
+  "hyper-realistic": {
+    "Name": "hyper-realistic",
+    "Tagline": "hyper-realistic ",
+    "Description": "being more realistic than realistic.",
+    "Link": "[No Link]"
+  },
+  "icy": {
+    "Name": "icy",
+    "Tagline": "icy ",
+    "Description": "made of, full of, or covered with ice.",
+    "Link": "https://www.dictionary.com/browse/icy"
+  },
+  "idiosyncratic": {
+    "Name": "idiosyncratic",
+    "Tagline": "idiosyncratic ",
+    "Description": "pertaining to the nature of idiosyncrasy, or something peculiar to an individual.",
+    "Link": "https://www.dictionary.com/browse/idiosyncratic"
+  },
+  "impartial": {
+    "Name": "impartial",
+    "Tagline": "impartial ",
+    "Description": "not partial or biased; fair; just.",
+    "Link": "https://www.dictionary.com/browse/impartial"
+  },
+  "imperfect": {
+    "Name": "imperfect",
+    "Tagline": "imperfect ",
+    "Description": "of, relating to, or characterized by defects or weaknesses.",
+    "Link": "https://www.dictionary.com/browse/imperfect"
+  },
+  "imperfectly normal": {
+    "Name": "imperfectly normal",
+    "Tagline": "imperfectly normal ",
+    "Description": "not normal; unordinary.",
+    "Link": "[No Link]"
+  },
+  "impressed": {
+    "Name": "impressed",
+    "Tagline": "impressed ",
+    "Description": "to be affected deeply or strongly in mind or feelings; to be influenced in opinion.",
+    "Link": "https://www.dictionary.com/browse/impressed"
+  },
+  "impressionist": {
+    "Name": "impressionist",
+    "Tagline": "impressionist ",
+    "Description": "a person who follows or adheres to the theories, methods, and practices of impressionism, especially in the fields of painting, music, or literature.",
+    "Link": "https://www.dictionary.com/browse/impressionist"
+  },
+  "inconspicuous": {
+    "Name": "inconspicuous",
+    "Tagline": "inconspicuous ",
+    "Description": "not conspicuous, noticeable, or prominent.",
+    "Link": "https://www.dictionary.com/browse/inconspicuous"
+  },
+  "incorrect": {
+    "Name": "incorrect",
+    "Tagline": "incorrect ",
+    "Description": "not correct as to fact; inaccurate; wrong.",
+    "Link": "https://www.dictionary.com/browse/incorrect"
+  },
+  "infected": {
+    "Name": "infected",
+    "Tagline": "infected ",
+    "Description": "to be affected or contaminated (a person, organ, wound, etc.) with disease-producing germs.",
+    "Link": "https://www.dictionary.com/browse/infected"
+  },
+  "inhuman": {
+    "Name": "inhuman",
+    "Tagline": "inhuman ",
+    "Description": "not human.",
+    "Link": "https://www.dictionary.com/browse/inhuman"
+  },
+  "inhumane": {
+    "Name": "inhumane",
+    "Tagline": "inhumane ",
+    "Description": "not humane; lacking humanity, kindness, compassion, etc.",
+    "Link": "https://www.dictionary.com/browse/inhumane"
+  },
+  "insatiable": {
+    "Name": "insatiable",
+    "Tagline": "insatiable ",
+    "Description": "not satiable; incapable of being satisfied or appeased.",
+    "Link": "https://www.dictionary.com/browse/insatiable"
+  },
+  "insectile": {
+    "Name": "insectile",
+    "Tagline": "insectile ",
+    "Description": "pertaining to or like an insect.",
+    "Link": "https://www.dictionary.com/browse/insectile"
+  },
+  "insolent": {
+    "Name": "insolent",
+    "Tagline": "insolent ",
+    "Description": "boldly rude or disrespectful; contemptuously impertinent; insulting.",
+    "Link": "https://www.dictionary.com/browse/insolent"
+  },
+  "insufferable": {
+    "Name": "insufferable",
+    "Tagline": "insufferable ",
+    "Description": "not to be endured; intolerable; unbearable.",
+    "Link": "https://www.dictionary.com/browse/insufferable"
+  },
+  "interracial": {
+    "Name": "interracial",
+    "Tagline": "interracial ",
+    "Description": "of, involving, or for members of different racial groups.",
+    "Link": "https://www.dictionary.com/browse/interracial"
+  },
+  "invading": {
+    "Name": "invading",
+    "Tagline": "invading ",
+    "Description": "to be entering forcefully as an enemy; to be going into with hostile intent.",
+    "Link": "https://www.dictionary.com/browse/invading"
+  },
+  "invertebrate": {
+    "Name": "invertebrate",
+    "Tagline": "invertebrate ",
+    "Description": "not vertebrate; without a backbone.",
+    "Link": "https://www.dictionary.com/browse/invertebrate"
+  },
+  "ironic": {
+    "Name": "ironic",
+    "Tagline": "ironic ",
+    "Description": "using words to convey a meaning that is the opposite of its literal meaning; containing or exemplifying irony.",
+    "Link": "https://www.dictionary.com/browse/ironic"
+  },
+  "irregular": {
+    "Name": "irregular",
+    "Tagline": "irregular ",
+    "Description": "without symmetry, even shape, formal arrangement, etc.",
+    "Link": "https://www.dictionary.com/browse/irregular"
+  },
+  "JFK's": {
+    "Name": "JFK's",
+    "Tagline": "JFK's ",
+    "Description": "owned by John F. Kennedy, the 35th president of the United States of America.",
+    "Link": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+  },
+  "jocular": {
+    "Name": "jocular",
+    "Tagline": "jocular ",
+    "Description": "given to, characterized by, intended for, or suited to joking or jesting; waggish; facetious.",
+    "Link": "https://www.dictionary.com/browse/jocular"
+  },
+  "KFC's": {
+    "Name": "KFC's",
+    "Tagline": "KFC's ",
+    "Description": "of or relating to the restaurant chain Kentucky Fried Chicken.",
+    "Link": "https://en.wikipedia.org/wiki/KFC"
+  },
+  "LARPing": {
+    "Name": "LARPing",
+    "Tagline": "LARPing ",
+    "Description": "currently performing Live Action Role Playing. LARP is a type of interactive role-playing game in which the participants portray characters through physical action, often in costume and with props.",
+    "Link": "https://en.wikipedia.org/wiki/Live_action_role-playing_game"
+  },
+  "left-handed": {
+    "Name": "left-handed",
+    "Tagline": "left-handed ",
+    "Description": "having the left hand more dominant or effective than the right; preferably using the left hand.",
+    "Link": "https://www.dictionary.com/browse/left-handed"
+  },
+  "left": {
+    "Name": "left",
+    "Tagline": "left ",
+    "Description": "of, relating to, or located on or near the side of a person or thing that is turned toward the west when the subject is facing north (opposed to right).",
+    "Link": "https://www.dictionary.com/browse/left"
+  },
+  "Libertarian": {
+    "Name": "Libertarian",
+    "Tagline": "Libertarian ",
+    "Description": "a person who advocates liberty, especially with regard to thought or conduct.",
+    "Link": "https://en.wikipedia.org/wiki/Libertarianism"
+  },
+  "loquacious": {
+    "Name": "loquacious",
+    "Tagline": "loquacious ",
+    "Description": "talking or tending to talk much or freely; talkative; chattering; babbling; garrulous.",
+    "Link": "https://www.dictionary.com/browse/loquacious"
+  },
+  "lucid": {
+    "Name": "lucid",
+    "Tagline": "lucid ",
+    "Description": "easily understood; completely intelligible or comprehensible.",
+    "Link": "https://www.dictionary.com/browse/lucid"
+  },
+  "macroscopic": {
+    "Name": "macroscopic",
+    "Tagline": "macroscopic ",
+    "Description": "visible to the naked eye.",
+    "Link": "https://www.dictionary.com/browse/macroscopic"
+  },
+  "magnanimous": {
+    "Name": "magnanimous",
+    "Tagline": "magnanimous ",
+    "Description": "generous in forgiving an insult or injury; free from petty resentfulness or vindictiveness.",
+    "Link": "https://www.dictionary.com/browse/magnanimous"
+  },
+  "manual": {
+    "Name": "manual",
+    "Tagline": "manual ",
+    "Description": "done, operated, worked, etc., by the hand or hands rather than by an electrical or electronic device.",
+    "Link": "https://www.dictionary.com/browse/manual"
+  },
+  "Marxist": {
+    "Name": "Marxist",
+    "Tagline": "Marxist ",
+    "Description": "an adherent of Karl Marx or his theories.",
+    "Link": "https://www.dictionary.com/browse/Marxist"
+  },
+  "mellifluous": {
+    "Name": "mellifluous",
+    "Tagline": "mellifluous ",
+    "Description": "sweetly or smoothly flowing; sweet-sounding.",
+    "Link": "https://www.dictionary.com/browse/mellifluous"
+  },
+  "MIA": {
+    "Name": "MIA",
+    "Tagline": "MIA ",
+    "Description": "missing in action.",
+    "Link": "https://en.wikipedia.org/wiki/Desertion"
+  },
+  "milky": {
+    "Name": "milky",
+    "Tagline": "milky ",
+    "Description": "of or like milk, especially in appearance or consistency.",
+    "Link": "https://www.dictionary.com/browse/milky"
+  },
+  "misanthropist": {
+    "Name": "misanthropist",
+    "Tagline": "misanthropist ",
+    "Description": "a hater of humankind.",
+    "Link": "https://www.dictionary.com/browse/misanthropist"
+  },
+  "miserly": {
+    "Name": "miserly",
+    "Tagline": "miserly ",
+    "Description": "of, like, or befitting a miser; penurious; stingy.",
+    "Link": "https://www.dictionary.com/browse/miserly"
+  },
+  "modern": {
+    "Name": "modern",
+    "Tagline": "modern ",
+    "Description": "of or relating to present and recent time; not ancient or remote.",
+    "Link": "https://www.dictionary.com/browse/modern"
+  },
+  "modular": {
+    "Name": "modular",
+    "Tagline": "modular ",
+    "Description": "composed of standardized units or sections for easy construction or flexible arrangement.",
+    "Link": "https://www.dictionary.com/browse/modular"
+  },
+  "monk": {
+    "Name": "monk",
+    "Tagline": "monk ",
+    "Description": "a man who has withdrawn from the world for religious reasons, especially as a member of an order of cenobites living according to a particular rule and under vows of poverty, chastity, and obedience.",
+    "Link": "https://www.dictionary.com/browse/monk"
+  },
+  "monochromatic": {
+    "Name": "monochromatic",
+    "Tagline": "monochromatic ",
+    "Description": "of or having one color.",
+    "Link": "https://www.dictionary.com/browse/monochromatic"
+  },
+  "monoracial": {
+    "Name": "monoracial",
+    "Tagline": "monoracial ",
+    "Description": "consisting of, representing, or combining members of one racial group.",
+    "Link": "[No Link]"
+  },
+  "monotheistic": {
+    "Name": "monotheistic",
+    "Tagline": "monotheistic ",
+    "Description": "pertaining to, characterized by, or adhering to monotheism, the doctrine that there is only one God.",
+    "Link": "https://www.dictionary.com/browse/monotheistic"
+  },
+  "mutant": {
+    "Name": "mutant",
+    "Tagline": "mutant ",
+    "Description": "undergoing or resulting from mutation.",
+    "Link": "https://www.dictionary.com/browse/mutant"
+  },
+  "necrotic": {
+    "Name": "necrotic",
+    "Tagline": "necrotic ",
+    "Description": "of or relating to death.",
+    "Link": "https://www.dictionary.com/browse/necrotic"
+  },
+  "negative": {
+    "Name": "negative",
+    "Tagline": "negative ",
+    "Description": "expressing or containing negation or denial.",
+    "Link": "https://www.dictionary.com/browse/negative"
+  },
+  "neutral": {
+    "Name": "neutral",
+    "Tagline": "neutral ",
+    "Description": "not taking part or giving assistance in a dispute or war between others.",
+    "Link": "https://www.dictionary.com/browse/neutral"
+  },
+  "nihilistic": {
+    "Name": "nihilistic",
+    "Tagline": "nihilistic ",
+    "Description": "of or believing in nihilism, or the total rejection of established laws and institutions.",
+    "Link": "https://www.dictionary.com/browse/nihilistic"
+  },
+  "non-GMO": {
+    "Name": "non-GMO",
+    "Tagline": "non-GMO ",
+    "Description": "not a genetically modified organism: an organism or microorganism whose genetic material has been altered by means of genetic engineering.",
+    "Link": "https://www.dictionary.com/browse/non-GMO"
+  },
+  "nordic": {
+    "Name": "nordic",
+    "Tagline": "nordic ",
+    "Description": "of, relating to, or characteristic of a Germanic people of northern European origin, exemplified by the Scandinavians.",
+    "Link": "https://www.dictionary.com/browse/nordic"
+  },
+  "normal": {
+    "Name": "normal",
+    "Tagline": "normal ",
+    "Description": "conforming to the standard or the common type; usual; not abnormal; regular; natural.",
+    "Link": "https://www.dictionary.com/browse/normal"
+  },
+  "NSA": {
+    "Name": "NSA",
+    "Tagline": "NSA ",
+    "Description": "a member of the National Security Agency.",
+    "Link": "https://www.dictionary.com/browse/NSA"
+  },
+  "object-oriented": {
+    "Name": "object-oriented",
+    "Tagline": "object-oriented ",
+    "Description": "pertaining to or denoting a system, programming language, etc., that supports the use of objects, as an entire image, a routine, or a data structure.",
+    "Link": "https://www.dictionary.com/browse/object-oriented"
+  },
+  "objective": {
+    "Name": "objective",
+    "Tagline": "objective ",
+    "Description": "not influenced by personal feelings, interpretations, or prejudice; based on facts; unbiased.",
+    "Link": "https://www.dictionary.com/browse/objective"
+  },
+  "okay": {
+    "Name": "okay",
+    "Tagline": "okay ",
+    "Description": "all right; proceeding normally; satisfactory or under control.",
+    "Link": "https://www.dictionary.com/browse/okay"
+  },
+  "omniracial": {
+    "Name": "omniracial",
+    "Tagline": "omniracial ",
+    "Description": "consisting of, representing, or combining members of every racial group.",
+    "Link": "https://www.dictionary.com/browse/omniracial"
+  },
+  "oppressed": {
+    "Name": "oppressed",
+    "Tagline": "oppressed ",
+    "Description": "to be burdened with cruel or unjust impositions or restraints; to be subjected to a burdensome or harsh exercise of authority or power.",
+    "Link": "https://www.dictionary.com/browse/oppressed"
+  },
+  "orange": {
+    "Name": "orange",
+    "Tagline": "orange ",
+    "Description": "of the color orange; reddish-yellow.",
+    "Link": "https://www.dictionary.com/browse/orange"
+  },
+  "parochial": {
+    "Name": "parochial",
+    "Tagline": "parochial ",
+    "Description": "of, relating to, or financially supported by one or more church parishes.",
+    "Link": "https://www.dictionary.com/browse/parochial"
+  },
+  "partisan": {
+    "Name": "partisan",
+    "Tagline": "partisan ",
+    "Description": "an adherent or supporter of a person, group, party, or cause, especially a person who shows a biased, emotional allegiance.",
+    "Link": "https://www.dictionary.com/browse/partisan"
+  },
+  "paternalist": {
+    "Name": "paternalist",
+    "Tagline": "paternalist ",
+    "Description": "the system, principle, or practice of managing or governing individuals, businesses, nations, etc., in an outwardly benevolent, but often condescending or controlling way.",
+    "Link": "https://www.dictionary.com/browse/paternalist"
+  },
+  "pecuniary": {
+    "Name": "pecuniary",
+    "Tagline": "pecuniary ",
+    "Description": "of or relating to money.",
+    "Link": "https://www.dictionary.com/browse/pecuniary"
+  },
+  "pedestrian": {
+    "Name": "pedestrian",
+    "Tagline": "pedestrian ",
+    "Description": "a person who goes or travels on foot; walker.",
+    "Link": "https://www.dictionary.com/browse/pedestrian"
+  },
+  "perceptible": {
+    "Name": "perceptible",
+    "Tagline": "perceptible ",
+    "Description": "capable of being perceived; recognizable; appreciable.",
+    "Link": "https://www.dictionary.com/browse/perceptible"
+  },
+  "perfectly normal": {
+    "Name": "perfectly normal",
+    "Tagline": "perfectly normal ",
+    "Description": "completely ordinary.",
+    "Link": "https://www.dictionary.com/browse/perfectly normal"
+  },
+  "philosophical": {
+    "Name": "philosophical",
+    "Tagline": "philosophical ",
+    "Description": "of or relating to philosophy.",
+    "Link": "https://www.dictionary.com/browse/philosophical"
+  },
+  "planar": {
+    "Name": "planar",
+    "Tagline": "planar ",
+    "Description": "of or relating to this universe or world.",
+    "Link": "https://www.dictionary.com/browse/planar"
+  },
+  "polysynthetic": {
+    "Name": "polysynthetic",
+    "Tagline": "polysynthetic ",
+    "Description": "characterized by a prevalence of relatively long words containing a large number of affixes to express syntactic relationships and meanings. Many American Indian languages are polysynthetic.",
+    "Link": "https://www.dictionary.com/browse/polysynthetic"
+  },
+  "polytheistic": {
+    "Name": "polytheistic",
+    "Tagline": "polytheistic ",
+    "Description": "pertaining to, characterized by, or adhering to polytheism, the doctrine that there is more than one god or many gods.",
+    "Link": "https://www.dictionary.com/browse/polytheistic"
+  },
+  "poor": {
+    "Name": "poor",
+    "Tagline": "poor ",
+    "Description": "having little or no money, goods, or other means of support.",
+    "Link": "https://www.dictionary.com/browse/poor"
+  },
+  "positive": {
+    "Name": "positive",
+    "Tagline": "positive ",
+    "Description": "explicitly stated, stipulated, or expressed.",
+    "Link": "https://www.dictionary.com/browse/positive"
+  },
+  "postmodern": {
+    "Name": "postmodern",
+    "Tagline": "postmodern ",
+    "Description": "after modern.",
+    "Link": "https://www.dictionary.com/browse/postmodern"
+  },
+  "prime": {
+    "Name": "prime",
+    "Tagline": "prime ",
+    "Description": "of the first importance; demanding the fullest consideration.",
+    "Link": "https://www.dictionary.com/browse/prime"
+  },
+  "promotional": {
+    "Name": "promotional",
+    "Tagline": "promotional ",
+    "Description": "being offered as part of the act of promoting.",
+    "Link": "https://www.dictionary.com/browse/promotional"
+  },
+  "prophylactic": {
+    "Name": "prophylactic",
+    "Tagline": "prophylactic ",
+    "Description": "defending or protecting from disease or infection, as a drug.",
+    "Link": "https://www.dictionary.com/browse/prophylactic"
+  },
+  "pseudo-realistic": {
+    "Name": "pseudo-realistic",
+    "Tagline": "pseudo-realistic ",
+    "Description": "semi-realistic.",
+    "Link": "https://www.dictionary.com/browse/pseudo-realistic"
+  },
+  "pseudo-scientific": {
+    "Name": "pseudo-scientific",
+    "Tagline": "pseudo-scientific ",
+    "Description": "falsely or mistakenly claimed or regarded as being based on scientific method.",
+    "Link": "https://www.dictionary.com/browse/pseudo-scientific"
+  },
+  "rainbow": {
+    "Name": "rainbow",
+    "Tagline": "rainbow ",
+    "Description": "many-colored.",
+    "Link": "https://www.dictionary.com/browse/rainbow"
+  },
+  "rapper": {
+    "Name": "rapper",
+    "Tagline": "rapper ",
+    "Description": "a person who performs rap music, especially professionally.",
+    "Link": "https://www.dictionary.com/browse/rapper"
+  },
+  "rational": {
+    "Name": "rational",
+    "Tagline": "rational ",
+    "Description": "agreeable to reason; reasonable; sensible.",
+    "Link": "https://www.dictionary.com/browse/rational"
+  },
+  "ravagenly good looking": {
+    "Name": "ravagenly good looking",
+    "Tagline": "ravagenly good looking ",
+    "Description": "someone who has an exceptionaly good looking face or other attractive quality.",
+    "Link": "https://www.dictionary.com/browse/handsome"
+  },
+  "reasonable": {
+    "Name": "reasonable",
+    "Tagline": "reasonable ",
+    "Description": "agreeable to reason or sound judgment; logical.",
+    "Link": "https://www.dictionary.com/browse/reasonable"
+  },
+  "red": {
+    "Name": "red",
+    "Tagline": "red ",
+    "Description": "any of various colors resembling the color of blood; the primary color at one extreme end of the visible spectrum, an effect of light with a wavelength between 610 and 780 nanometers.",
+    "Link": "https://www.dictionary.com/browse/red"
+  },
+  "reduced": {
+    "Name": "reduced",
+    "Tagline": "reduced ",
+    "Description": "that is or has been brought down to a smaller extent, size, amount, number, etc.",
+    "Link": "https://www.dictionary.com/browse/reduced"
+  },
+  "repetitive": {
+    "Name": "repetitive",
+    "Tagline": "repetitive ",
+    "Description": "pertaining to or characterized by the act of repeating, or doing, saying, or writing something again; repeated action, performance, production, or presentation.",
+    "Link": "https://www.dictionary.com/browse/repetitive"
+  },
+  "rich": {
+    "Name": "rich",
+    "Tagline": "rich ",
+    "Description": "having wealth or great possessions; abundantly supplied with resources, means, or funds; wealthy.",
+    "Link": "https://www.dictionary.com/browse/rich"
+  },
+  "rickrolled": {
+    "Name": "rickrolled",
+    "Tagline": "rickrolled ",
+    "Description": "someone who has recently viewed a copy of Rick Astley's song Never Gonna Give You Up.",
+    "Link": "https://www.dictionary.com/browse/rickrolled"
+  },
+  "right-handed": {
+    "Name": "right-handed",
+    "Tagline": "right-handed ",
+    "Description": "having the right hand more dominant or effective than the left; preferably using the right hand.",
+    "Link": "https://www.dictionary.com/browse/right-handed"
+  },
+  "right": {
+    "Name": "right",
+    "Tagline": "right ",
+    "Description": "of, relating to, or located on or near the side of a person or thing that is turned toward the east when the subject is facing north (opposed to left).",
+    "Link": "https://www.dictionary.com/browse/right"
+  },
+  "robot": {
+    "Name": "robot",
+    "Tagline": "robot ",
+    "Description": "a machine that resembles a human and does mechanical, routine tasks on command.",
+    "Link": "https://www.dictionary.com/browse/robot"
+  },
+  "romantic": {
+    "Name": "romantic",
+    "Tagline": "romantic ",
+    "Description": "of, relating to, or of the nature of romance; characteristic or suggestive of the world of romance.",
+    "Link": "https://www.dictionary.com/browse/romantic"
+  },
+  "room temperature": {
+    "Name": "room temperature",
+    "Tagline": "room temperature ",
+    "Description": "at a comfortable temperature range indoors, usually considered to be 68 to 77°F (20 to 25°C).",
+    "Link": "https://www.dictionary.com/browse/room temperature"
+  },
+  "salted": {
+    "Name": "salted",
+    "Tagline": "salted ",
+    "Description": "seasoned, cured, or otherwise treated with salt.",
+    "Link": "https://www.dictionary.com/browse/salted"
+  },
+  "sanguine": {
+    "Name": "sanguine",
+    "Tagline": "sanguine ",
+    "Description": "cheerfully optimistic, hopeful, or confident.",
+    "Link": "https://www.dictionary.com/browse/sanguine"
+  },
+  "scientific": {
+    "Name": "scientific",
+    "Tagline": "scientific ",
+    "Description": "of or relating to science or the sciences.",
+    "Link": "https://www.dictionary.com/browse/scientific"
+  },
+  "scrupulous": {
+    "Name": "scrupulous",
+    "Tagline": "scrupulous ",
+    "Description": "having scruples, or moral or ethical standards; having or showing a strict regard for what one considers right; principled.",
+    "Link": "https://www.dictionary.com/browse/scrupulous"
+  },
+  "secluded": {
+    "Name": "secluded",
+    "Tagline": "secluded ",
+    "Description": "sheltered or screened from general activity, view, etc.",
+    "Link": "https://www.dictionary.com/browse/secluded"
+  },
+  "sensible": {
+    "Name": "sensible",
+    "Tagline": "sensible ",
+    "Description": "having, using, or showing good sense or sound judgment.",
+    "Link": "https://www.dictionary.com/browse/sensible"
+  },
+  "sexually driven": {
+    "Name": "sexually driven",
+    "Tagline": "sexually driven ",
+    "Description": "someone driven by sex or sexual activities.",
+    "Link": "https://www.dictionary.com/browse/sexually driven"
+  },
+  "sharpened": {
+    "Name": "sharpened",
+    "Tagline": "sharpened ",
+    "Description": "to have been made or to have become sharp or sharper.",
+    "Link": "https://www.dictionary.com/browse/sharpened"
+  },
+  "shiny": {
+    "Name": "shiny",
+    "Tagline": "shiny ",
+    "Description": "bright or glossy in appearance.",
+    "Link": "https://www.dictionary.com/browse/shiny"
+  },
+  "short": {
+    "Name": "short",
+    "Tagline": "short ",
+    "Description": "having little length; not long.",
+    "Link": "https://www.dictionary.com/browse/short"
+  },
+  "Sierra Leonean": {
+    "Name": "Sierra Leonean",
+    "Tagline": "Sierra Leonean ",
+    "Description": "of or hailing from the country of Sierra Leonea.",
+    "Link": "https://www.dictionary.com/browse/Sierra Leonean"
+  },
+  "simian": {
+    "Name": "simian",
+    "Tagline": "simian ",
+    "Description": "of or relating to any of the monkeys or apes.",
+    "Link": "https://www.dictionary.com/browse/simian"
+  },
+  "skinny": {
+    "Name": "skinny",
+    "Tagline": "skinny ",
+    "Description": "very lean or thin; emaciated.",
+    "Link": "https://www.dictionary.com/browse/skinny"
+  },
+  "slightly taller than average": {
+    "Name": "slightly taller than average",
+    "Tagline": "slightly taller than average ",
+    "Description": "someone who is slightly taller than the average person.",
+    "Link": "https://www.dictionary.com/browse/slightly taller than average"
+  },
+  "smooth": {
+    "Name": "smooth",
+    "Tagline": "smooth ",
+    "Description": "free from projections or unevenness of surface; not rough.",
+    "Link": "https://www.dictionary.com/browse/smooth"
+  },
+  "sober": {
+    "Name": "sober",
+    "Tagline": "sober ",
+    "Description": "not intoxicated or drunk.",
+    "Link": "https://www.dictionary.com/browse/sober"
+  },
+  "socratic": {
+    "Name": "socratic",
+    "Tagline": "socratic ",
+    "Description": "of or relating to Socrates or his philosophy, followers, etc., or to the Socratic method.",
+    "Link": "https://www.dictionary.com/browse/socratic"
+  },
+  "sorry": {
+    "Name": "sorry",
+    "Tagline": "sorry ",
+    "Description": "feeling regret, compunction, sympathy, pity, etc.",
+    "Link": "https://www.dictionary.com/browse/sorry"
+  },
+  "spackled": {
+    "Name": "spackled",
+    "Tagline": "spackled ",
+    "Description": "to be or have been patched with Spackle, a brand of quick-drying, plasterlike material for patching plasterwork.",
+    "Link": "https://www.dictionary.com/browse/spackled"
+  },
+  "speckled": {
+    "Name": "speckled",
+    "Tagline": "speckled ",
+    "Description": "to have been marked with small specks, spots, or marks, as on skin.",
+    "Link": "https://www.dictionary.com/browse/speckled"
+  },
+  "spoon-like": {
+    "Name": "spoon-like",
+    "Tagline": "spoon-like ",
+    "Description": "to share qualities with a spoon, or to be similar to a spoon.",
+    "Link": "https://www.dictionary.com/browse/spoon-like"
+  },
+  "squishy": {
+    "Name": "squishy",
+    "Tagline": "squishy ",
+    "Description": "soft and wet.",
+    "Link": "https://www.dictionary.com/browse/squishy"
+  },
+  "stigmatic": {
+    "Name": "stigmatic",
+    "Tagline": "stigmatic ",
+    "Description": "to be marked with supernatural stigmata, marks of disgrace or infamy.",
+    "Link": "https://www.dictionary.com/browse/stigmatic"
+  },
+  "stingy": {
+    "Name": "stingy",
+    "Tagline": "stingy ",
+    "Description": "reluctant to give or spend; not generous; penurious.",
+    "Link": "https://www.dictionary.com/browse/stingy"
+  },
+  "strange": {
+    "Name": "strange",
+    "Tagline": "strange ",
+    "Description": "unusual, extraordinary, or curious; odd; queer.",
+    "Link": "https://www.dictionary.com/browse/strange"
+  },
+  "stretched": {
+    "Name": "stretched",
+    "Tagline": "stretched ",
+    "Description": "to have been drawn out or extended (oneself, a body, limbs, wings, etc.) to the full length or extent (often followed by out).",
+    "Link": "https://www.dictionary.com/browse/stretched"
+  },
+  "subjected": {
+    "Name": "subjected",
+    "Tagline": "subjected ",
+    "Description": "being under domination, control, or influence (often followed by to).",
+    "Link": "https://www.dictionary.com/browse/subjected"
+  },
+  "succulent": {
+    "Name": "succulent",
+    "Tagline": "succulent ",
+    "Description": "rich in desirable qualities.",
+    "Link": "https://www.dictionary.com/browse/succulent"
+  },
+  "suggestive": {
+    "Name": "suggestive",
+    "Tagline": "suggestive ",
+    "Description": "that suggests or implies something improper or indecent; risqué.",
+    "Link": "https://www.dictionary.com/browse/suggestive"
+  },
+  "supercalifragilisticexpialidociousistic": {
+    "Name": "supercalifragilisticexpialidociousistic",
+    "Tagline": "supercalifragilisticexpialidociousistic ",
+    "Description": "to be or relating to supercalifragilisticexpialidocious.",
+    "Link": "https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious"
+  },
+  "suspicious": {
+    "Name": "suspicious",
+    "Tagline": "suspicious ",
+    "Description": "tending to cause or excite suspicion; questionable.",
+    "Link": "https://www.dictionary.com/browse/suspicious"
+  },
+  "systematic": {
+    "Name": "systematic",
+    "Tagline": "systematic ",
+    "Description": "having, showing, or involving a system, method, or plan.",
+    "Link": "https://www.dictionary.com/browse/systematic"
+  },
+  "tall for a dwarf but short for a human": {
+    "Name": "tall for a dwarf but short for a human",
+    "Tagline": "tall for a dwarf but short for a human ",
+    "Description": "someone who would be considered tall for a dwarf (the race from fantasy such as those works by J.R.R. Tolkein) but would be considered short for a human.",
+    "Link": "https://www.dictionary.com/browse/short"
+  },
+  "textured": {
+    "Name": "textured",
+    "Tagline": "textured ",
+    "Description": "to have a particular texture.",
+    "Link": "https://www.dictionary.com/browse/textured"
+  },
+  "theistic": {
+    "Name": "theistic",
+    "Tagline": "theistic ",
+    "Description": "someone who shares the belief in one God as the creator and ruler of the universe, without rejection of revelation (distinguished from deism).",
+    "Link": "https://www.dictionary.com/browse/theistic"
+  },
+  "thicc": {
+    "Name": "thicc",
+    "Tagline": "thicc ",
+    "Description": "Typically, a person who is THICC will have an hourglass or pear-shaped figure, with particularly large buttocks and thighs.",
+    "Link": "https://www.dictionary.com/browse/thicc"
+  },
+  "thoroughly discredited": {
+    "Name": "thoroughly discredited",
+    "Tagline": "thoroughly discredited ",
+    "Description": "to be completely discredited.",
+    "Link": "https://www.dictionary.com/browse/thoroughly discredited"
+  },
+  "true": {
+    "Name": "true",
+    "Tagline": "true ",
+    "Description": "being in accordance with the actual state or conditions; conforming to reality or fact; not false.",
+    "Link": "https://www.dictionary.com/browse/true"
+  },
+  "two-eyed": {
+    "Name": "two-eyed",
+    "Tagline": "two-eyed ",
+    "Description": "to possess two eyes.",
+    "Link": "https://www.dictionary.com/browse/two-eyed"
+  },
+  "ugly": {
+    "Name": "ugly",
+    "Tagline": "ugly ",
+    "Description": "very unattractive or unpleasant to look at; offensive to the sense of beauty; displeasing in appearance.",
+    "Link": "https://www.dictionary.com/browse/ugly"
+  },
+  "unconstitutional": {
+    "Name": "unconstitutional",
+    "Tagline": "unconstitutional ",
+    "Description": "not constitutional; unauthorized by or inconsistent with the constitution, as of a country.",
+    "Link": "https://www.dictionary.com/browse/unconstitutional"
+  },
+  "unjust": {
+    "Name": "unjust",
+    "Tagline": "unjust ",
+    "Description": "not just; lacking in justice or fairness.",
+    "Link": "https://www.dictionary.com/browse/unjust"
+  },
+  "unlike a spoon": {
+    "Name": "unlike a spoon",
+    "Tagline": "unlike a spoon ",
+    "Description": "not sharing qualities with a spoon.",
+    "Link": "https://www.dictionary.com/browse/unlike a spoon"
+  },
+  "unsatisfactory": {
+    "Name": "unsatisfactory",
+    "Tagline": "unsatisfactory ",
+    "Description": "not satisfactory; not satisfying or meeting one's demands; inadequate.",
+    "Link": "https://www.dictionary.com/browse/unsatisfactory"
+  },
+  "untold": {
+    "Name": "untold",
+    "Tagline": "untold ",
+    "Description": "not told; not related; not revealed.",
+    "Link": "https://www.dictionary.com/browse/untold"
+  },
+  "utilitarian": {
+    "Name": "utilitarian",
+    "Tagline": "utilitarian ",
+    "Description": "of, relating to, or adhering to the doctrine of utilitarianism.",
+    "Link": "https://www.dictionary.com/browse/utilitarian"
+  },
+  "verbed": {
+    "Name": "verbed",
+    "Tagline": "verbed ",
+    "Description": "to have been verbed.",
+    "Link": "https://www.dictionary.com/browse/verbed"
+  },
+  "vibrating": {
+    "Name": "vibrating",
+    "Tagline": "vibrating ",
+    "Description": "to be moving to and fro or up and down quickly and repeatedly; quivering; trembling.",
+    "Link": "https://www.dictionary.com/browse/vibrating"
+  },
+  "vile": {
+    "Name": "vile",
+    "Tagline": "vile ",
+    "Description": "highly offensive, unpleasant, or objectionable.",
+    "Link": "https://www.dictionary.com/browse/vile"
+  },
+  "visceral": {
+    "Name": "visceral",
+    "Tagline": "visceral ",
+    "Description": "characterized by or proceeding from instinct rather than intellect.",
+    "Link": "https://www.dictionary.com/browse/visceral"
+  },
+  "wet": {
+    "Name": "wet",
+    "Tagline": "wet ",
+    "Description": "moistened, covered, or soaked with water or some other liquid.",
+    "Link": "https://www.dictionary.com/browse/wet"
+  },
+  "whimsical": {
+    "Name": "whimsical",
+    "Tagline": "whimsical ",
+    "Description": "given to whimsy or fanciful notions; capricious.",
+    "Link": "https://www.dictionary.com/browse/whimsical"
+  },
+  "wrong": {
+    "Name": "wrong",
+    "Tagline": "wrong ",
+    "Description": "deviating from truth or fact; erroneous.",
+    "Link": "https://www.dictionary.com/browse/wrong"
+  }
+}

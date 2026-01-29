@@ -1,3 +1,0 @@
-The winner of the pillow fight is whoever gets in less trouble when both contestants' parents break up the fight.
-Assume both contestants and their parents can understand the other contestant and their parents.
-Assume that both contestants are ignorant of the victory conditions, and are instead attempting to win the pillow fight.

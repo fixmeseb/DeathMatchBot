@@ -1,0 +1,74 @@
+{
+    "angelic": {
+        "Name": "angelic",
+        "Tagline": "angelic ",
+        "Description": "of or belonging to angels; sharing characteristics with that of an angel.",
+        "Link": "https://www.dictionary.com/browse/angelic"
+    },
+    "demonic": {
+        "Name": "demonic",
+        "Tagline": "demonic ",
+        "Description": "of or belonging to demons; sharing characteristics with that of a demon.",
+        "Link": "https://www.dictionary.com/browse/demonic"
+    },
+    "divine": {
+        "Name": "divine",
+        "Tagline": "divine ",
+        "Description": "of or relating to a god, especially the Supreme Being.",
+        "Link": "https://www.dictionary.com/browse/divine"
+    },
+    "extraplanar": {
+        "Name": "extraplanar",
+        "Tagline": "extraplanar ",
+        "Description": "of or beyond the planes of existence.",
+        "Link": "https://www.dictionary.com/browse/extraplanar"
+    },
+    "extraterrestrial": {
+        "Name": "extraterrestrial",
+        "Tagline": "extraterrestrial ",
+        "Description": "of or from outside the earth or its atmosphere.",
+        "Link": "https://www.dictionary.com/browse/extraterrestrial"
+    },
+    "heavenly": {
+        "Name": "heavenly",
+        "Tagline": "heavenly ",
+        "Description": "of, belonging to, or coming from the heaven of God, the angels, etc.",
+        "Link": "https://www.dictionary.com/browse/heavenly"
+    },
+    "hellish": {
+        "Name": "hellish",
+        "Tagline": "hellish ",
+        "Description": "of or belonging to devils; sharing characteristics with that of a devil.",
+        "Link": "https://www.dictionary.com/browse/hellish"
+    },
+    "infernal": {
+        "Name": "infernal",
+        "Tagline": "infernal ",
+        "Description": "hellish; fiendish; diabolical.",
+        "Link": "https://www.dictionary.com/browse/infernal"
+    },
+    "interplanar": {
+        "Name": "interplanar",
+        "Tagline": "interplanar ",
+        "Description": "of or belonging to a different plane of existence.",
+        "Link": "https://www.dictionary.com/browse/interplanar"
+    },
+    "intraplanar": {
+        "Name": "intraplanar",
+        "Tagline": "intraplanar ",
+        "Description": "from within a plane of existence.",
+        "Link": "https://www.dictionary.com/browse/intraplanar"
+    },
+    "satanic": {
+        "Name": "satanic",
+        "Tagline": "satanic ",
+        "Description": "characteristic of or befitting Satan; extremely wicked; devillike; diabolical.",
+        "Link": "https://www.dictionary.com/browse/satanic"
+    },
+    "terrestrial": {
+        "Name": "terrestrial",
+        "Tagline": "terrestrial ",
+        "Description": "pertaining to, consisting of, or representing the earth as distinct from other planets.",
+        "Link": "https://www.dictionary.com/browse/terrestrial"
+    }    
+}

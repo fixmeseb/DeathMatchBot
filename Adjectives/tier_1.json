@@ -1,0 +1,110 @@
+{
+  "fast as lightning": {
+    "Name": "fast as lightning",
+    "Tagline": "fast as lightning ",
+    "Description": "Incredibly quickly or speedily.",
+    "Link": "https://www.dictionary.com/browse/fast_as_lightning"
+  },
+  "fast": {
+    "Name": "fast",
+    "Tagline": "fast ",
+    "Description": "moving or able to move, operate, function, or take effect quickly; quick; swift; rapid.",
+    "Link": "https://www.dictionary.com/browse/fast"
+  },
+  "flaming": {
+    "Name": "flaming",
+    "Tagline": "flaming ",
+    "Description": "emitting flames; blazing; burning; fiery.",
+    "Link": "https://www.dictionary.com/browse/flaming"
+  },
+  "flying": {
+    "Name": "flying",
+    "Tagline": "flying ",
+    "Description": "making flight or passing through the air; that flies.",
+    "Link": "https://www.dictionary.com/browse/flying"
+  },
+  "impenetrable": {
+    "Name": "impenetrable",
+    "Tagline": "impenetrable ",
+    "Description": "not penetrable; that cannot be penetrated, pierced, entered, etc.",
+    "Link": "https://www.dictionary.com/browse/impenetrable"
+  },
+  "invisible": {
+    "Name": "invisible",
+    "Tagline": "invisible ",
+    "Description": "not visible; not perceptible by the eye.",
+    "Link": "https://www.dictionary.com/browse/invisible"
+  },
+  "necromancer": {
+    "Name": "necromancer",
+    "Tagline": "necromancer ",
+    "Description": "a person who uses witchcraft or sorcery, especially to reanimate dead people or to foretell the future by communicating with them.",
+    "Link": "https://en.wikipedia.org/wiki/Necromancy"
+  },
+  "omniscient": {
+    "Name": "omniscient",
+    "Tagline": "omniscient ",
+    "Description": "having complete or unlimited knowledge, awareness, or understanding; perceiving all things.",
+    "Link": "https://www.dictionary.com/browse/omniscient"
+  },
+  "protection_IV": {
+    "Name": "Protection IV",
+    "Tagline": "Protection IV ",
+    "Description": "The highest level of the Protection enchantment in Minecraft. Protection IV absorbs 16% of damage per armor piece.",
+    "Link": "https://minecraft.wiki/w/Protection"
+  },
+  "regenerative": {
+    "Name": "regenerative",
+    "Tagline": "regenerative ",
+    "Description": "tending to regenerate.",
+    "Link": "https://www.dictionary.com/browse/regenerative"
+  },
+  "skeletal": {
+    "Name": "skeletal",
+    "Tagline": "skeletal ",
+    "Description": "of, relating to, or like a skeleton.",
+    "Link": "https://www.dictionary.com/browse/skeletals"
+  },
+  "Spider-": {
+    "Name": "Spider-",
+    "Tagline": "Spider-",
+    "Description": "Characterizes someone as having powers identical to, or similar to, the American Superhero Spider-Man. ",
+    "Link": "https://spiderman.fandom.com/wiki/Spider_Powers"
+  },
+  "stretchy": {
+    "Name": "stretchy",
+    "Tagline": "tretchy ",
+    "Description": "capable of being stretched; elastic.",
+    "Link": "https://www.dictionary.com/browse/stretchy"
+  },
+  "strong": {
+    "Name": "strong",
+    "Tagline": "strong ",
+    "Description": "having, showing, or able to exert great bodily or muscular power; physically vigorous or robust.",
+    "Link": "https://www.dictionary.com/browse/strong"
+  },
+  "Super-": {
+    "Name": "Super-",
+    "Tagline": "Super-",
+    "Description": "Characterizes someone as having powers identical to, or similar to, the American superhero Superman.",
+    "Link": "https://superman.fandom.com/wiki/Superman%27s_Powers_and_Abilities"
+  },
+  "undead": {
+    "Name": "undead",
+    "Tagline": "undead ",
+    "Description": "no longer alive but animated by a supernatural force, as a vampire or zombie.",
+    "Link": "https://www.dictionary.com/browse/undead"
+  },
+  "vampire": {
+    "Name": "vampire",
+    "Tagline": "vampire ",
+    "Description": "a preternatural being, commonly believed to be a reanimated corpse, that is said to suck the blood of sleeping persons at night.",
+    "Link": "https://en.wikipedia.org/wiki/Vampire"
+  },
+  "wild_wild_west": {
+    "Name": "Wild Wild West",
+    "Tagline": "Wild Wild West ",
+    "Description": "Denotes someone as being of the wild wild west.",
+    "Link": "https://en.wikipedia.org/wiki/Old_West"
+  }
+}

@@ -1,0 +1,373 @@
+{
+    "abandoned_mineshaft": {
+        "Name": "An abandoned mineshaft",
+        "Tagline": " in an abandoned mineshaft",
+        "Description": "Mineshafts are underground generated structures found in Overworld biomes. They are mazes of tunnels which may have valuable ores exposed on the walls or floor.",
+        "Image": "https://i.imgur.com/zHkA9ej.jpg",
+        "Link": "https://minecraft.wiki/w/Mineshaft"
+    },
+    "airplace_in": {
+        "Name": "Inside an airplane",
+        "Tagline": " in an airplane",
+        "Description": "An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. Worldwide, commercial aviation transports more than four billion passengers annually on airliners and transports more than 200 billion tonne-kilometers of cargo annually, which is less than 1% of the world's cargo movement. Most airplanes are flown by a pilot on board the aircraft, but some are designed to be remotely or computer-controlled such as drones.",
+        "Image": "https://i.imgur.com/3UtpC9B.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Airplane"
+    },
+    "airplane_on": {
+        "Name": "On top of an airplane",
+        "Tagline": " on top of an airplane",
+        "Description": "An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. Worldwide, commercial aviation transports more than four billion passengers annually on airliners and transports more than 200 billion tonne-kilometers of cargo annually, which is less than 1% of the world's cargo movement. Most airplanes are flown by a pilot on board the aircraft, but some are designed to be remotely or computer-controlled such as drones.",
+        "Image": "https://i.imgur.com/3UtpC9B.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Airplane"
+    },
+    "arcade": {
+        "Name": "An arcade",
+        "Tagline": " in an arcade",
+        "Description": "An amusement arcade (often referred to as a video arcade, amusements or simply arcade) is a venue where people play arcade games such as video games, pinball machines, electro-mechanical games, redemption games, merchandisers (such as claw cranes), or coin-operated billiards or air hockey tables. In some countries, some types of arcades are also legally permitted to provide gambling machines such as slot machines or pachinko machines. Games are usually housed in cabinets. The term used for ancestors of these venues in the beginning of the 20th century was penny arcades.",
+        "Image": "https://i.imgur.com/rhadmkb.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Amusement_arcade"
+    },
+    "area_51": {
+        "Name": "Area 51",
+        "Tagline": " in Area 51",
+        "Description": "Area 51 is the common name of a highly classified United States Air Force (USAF) facility located within the Nevada Test and Training Range. A remote detachment administered by Edwards Air Force Base, the facility is officially called Homey Airport (KXTA) or Groom Lake, named after the salt flat situated next to its airfield. Details of the facility's operations are not publicly known, but the USAF says that it is an open training range, and it most likely supports the development and testing of experimental aircraft and weapons systems. The USAF acquired the site in 1955, primarily for flight testing the Lockheed U-2 aircraft. The intense secrecy surrounding the base has made it the frequent subject of conspiracy theories and a central component of unidentified flying object (UFO) folklore. The base has never been declared a secret base, but all research and occurrences in Area 51 are Top Secret/Sensitive Compartmented Information (TS/SCI). The CIA publicly acknowledged the existence of the base for the first time on June 25, 2013, following a Freedom of Information Act (FOIA) request filed in 2005, and they declassified documents detailing the history and purpose of Area 51.",
+        "Image": "https://i.imgur.com/LhFL32y.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Area_51"
+    },
+    "asteroid": {
+        "Name": "An astroid",
+        "Tagline": " on an asteroid",
+        "Description": "Asteroids are minor planets, especially of the inner Solar System. Larger asteroids have also been called planetoids. These terms have historically been applied to any astronomical object orbiting the Sun that did not resolve into a disc in a telescope and was not observed to have characteristics of an active comet such as a tail. As minor planets in the outer Solar System were discovered that were found to have volatile-rich surfaces similar to comets, these came to be distinguished from the objects found in the main asteroid belt.",
+        "Image": "https://i.imgur.com/fYcStd4.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Asteroid"
+    },
+    "basketball_court": {
+        "Name": "A basketball court",
+        "Tagline": " on a basketball court",
+        "Description": "In basketball, the basketball court is the playing surface, consisting of a rectangular floor, with baskets at each end. In professional or organized basketball, especially when played indoors, it is usually made out of a wood, often maple, and highly polished and completed with a 10 foot rim. Outdoor surfaces are generally made from standard paving materials such as concrete or asphalt.",
+        "Image": "https://i.imgur.com/kwfK1Rm.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Basketball_court"
+    },
+    "batcave": {
+        "Name": "The Batcave",
+        "Tagline": " in the Batcave",
+        "Description": "The Batcave is a subterranean location appearing in American comic books published by DC Comics. It is the headquarters of the superhero Batman, whose secret identity is Bruce Wayne, consisting of caves beneath his personal residence, Wayne Manor.",
+        "Image": "https://i.imgur.com/kUJ2OTB.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Batcave"
+    },
+    "big_field": {
+        "Name": "A 53,820 mile^2 field",
+        "Tagline": " in a 53,820 mile^2 field",
+        "Description": "A giant 53,820 mile^2 field is a massive, perfectly flat grassy field.",
+        "Image": "https://i.imgur.com/KxQ7bxE.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Field_(agriculture)"
+    },
+    "boxing_ring": {
+        "Name": "A boxing ring",
+        "Tagline": " in a boxing ring",
+        "Description": "A boxing ring, often referred to simply as a ring or euphemistically the squared circle, is the space in which a boxing match occurs. A modern ring consists of a square raised platform with a post at each corner. Four ropes are attached to the posts and pulled parallel under tension with turnbuckles to form the boundary of the competition area.",
+        "Image": "https://i.imgur.com/9oEqUPv.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Boxing_ring"
+    },
+    "buckingham_palace": {
+        "Name": "Buckingham Palace",
+        "Tagline": " in Buckingham Palace",
+        "Description": "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning. The palace has 775 rooms, and the garden is the largest private garden in London. The state rooms, used for official and state entertaining, are open to the public each year for most of August and September and on some days in winter and spring.",
+        "Image": "https://i.imgur.com/RJVlqny.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Buckingham_Palace"
+    },
+    "costco": {
+        "Name": "A Costco",
+        "Tagline": " in a Costco",
+        "Description": "Costco Wholesale Corporation (trading as Costco) is an American multinational corporation which operates a chain of membership-only warehouse clubs. As of 2015, Costco was the second largest retailer in the world after Walmart, and the world's largest retailer of choice and prime beef, organic foods, rotisserie chicken, and wine as of 2016. In 2019, Costco was ranked #14 on the Fortune 500 rankings of the largest United States corporations by total revenue.",
+        "Image": "https://i.imgur.com/LSsl7n3.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Costco"
+    },
+    "death_star_throne_room": {
+        "Name": "The Death Star Throne Room",
+        "Tagline": " in the Death Star Throne Room",
+        "Description": "The Emperor's throne room on the first Death Star was located in an observation dome at the top of a tower placed directly next to the station's superlaser. The platform served as Palpatine's watchtower in order to view the laser's firing demonstrations. The Emperor's chamber could only be reached through a massive circular doorway with a large metal beam that rotated to unlock the door. In the main chamber, the Emperor's throne was elevated above the floor by a short staircase and flanked by his Royal Guards and Imperial Senate Guards. There were numerous control consoles surrounding Palpatine's throne, and the room was decorated with large statues made of black stone.",
+        "Image": "https://i.imgur.com/lNY65BI.png",
+        "Link": "https://starwars.fandom.com/wiki/Emperor%27s_throne_room#Death_Star_I"
+    },
+    "defy_gravity": {
+        "Name": "Defy Gravity's foam trampoline pit",
+        "Tagline": " in the Defy Gravity's foam trampoline pit",
+        "Description": "DefyGravity is a cutting-edge Trampoline Sports Arena unlike anything you have ever experienced. Part entertainment venue and part sports gym, DefyGravity is the ultimate destination for active social outings, memorable birthday parties, intense individual workouts, competitive team sports, and creative fundraisers. DefyGravity is a 13,000 sq. ft. facility with wall-to-wall steel-frame trampolines including the world-famous Angled Wall Trampolines, an expansive Olympic Foam Pit and one of the largest Trampoline Dodgeball cages in America. Come play, relieve stress, and turn on the adrenaline in the Triangle’s most unique and exhilarating atmosphere. Located in Durham, just off the Page Road Exit of I-40. ",
+        "Image": "https://i.imgur.com/p2vl7Mm.jpg",
+        "Link": "http://www.defygravity.us/durham/About"
+    },
+    "eiffel_tower": {
+        "Name": "The Eiffel Tower",
+        "Tagline": " on The Eiffel Tower",
+        "Description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. The tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris. Its base is square, measuring 125 metres (410 ft) on each side. During its construction, the Eiffel Tower surpassed the Washington Monument to become the tallest man-made structure in the world, a title it held for 41 years until the Chrysler Building in New York City was finished in 1930. It was the first structure to reach a height of 300 m. Due to the addition of a broadcasting aerial at the top of the tower in 1957, it is now taller than the Chrysler Building by 5.2 metres (17 ft). Excluding transmitters, the Eiffel Tower is the second tallest free-standing structure in France after the Millau Viaduct.",
+        "Image": "https://i.imgur.com/FjclBtF.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    "escape_pod": {
+        "Name": "An escape pod",
+        "Tagline": " in an escape pod",
+        "Description": "Escape pods, also known as life pods, were small escape crafts intended for use in emergencies. They were standard aboard all deep-space starships. Some were fitted with hyperdrives.",
+        "Image": "https://i.imgur.com/MuW6mCn.png",
+        "Link": "https://starwars.fandom.com/wiki/Escape_pod"
+    },
+    "food_court_mall": {
+        "Name": "Mall Food Court",
+        "Tagline": " in a mall food court",
+        "Description": "A food court is generally an indoor plaza or common area within a facility that is contiguous with the counters of multiple food vendors and provides a common area for self-serve dinner. Food courts may be found in shopping malls, airports, and parks. In various regions, it may be a standalone development.",
+        "Image": "https://i.imgur.com/9g6RDng.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Food_court"
+    },
+    "gettysburg": {
+        "Name": "Gettysburg (during the Battle of Gettysburg)",
+        "Tagline": " in Gettysburg (during the Battle of Gettysburg)",
+        "Description": "Gettysburg is a borough and town in the U.S. state of Pennsylvania. It’s known for Gettysburg National Battlefield, site of a turning point in the Civil War, now part of Gettysburg National Military Park. The park also includes the Gettysburg Museum and Visitor Center, displaying Civil War artifacts, and Gettysburg National Cemetery, where a memorial marks the site of Abraham Lincoln’s 1863 Gettysburg Address.",
+        "Image": "https://i.imgur.com/qBDPuNn.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"
+    },
+    "gotham": {
+        "Name": "Gotham City",
+        "Tagline": " in Gotham City",
+        "Description": "Gotham City is the home of Batman. and the Bat-Family place of residence was first identified as Gotham City in Batman #4 (Winter 1940).",
+        "Image": "https://i.imgur.com/A9cuSam.jpg",
+        "Link": "https://batman.fandom.com/wiki/Gotham_City"
+    },
+    "hockey_rink": {
+        "Name": "A Hockey Rink",
+        "Tagline": " on a Hockey Rink",
+        "Description": "An ice hockey rink is an ice rink that is specifically designed for ice hockey, a competitive team sport. Alternatively it is used for other sports such as broomball, ringette and rink bandy. It is a rectangle with rounded corners and surrounded by walls approximately 1.22 metres high called the boards.",
+        "Image": "https://i.imgur.com/zSABgw4.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Ice_hockey_rink"
+    },
+    "home_depot": {
+        "Name": "A Home Depot",
+        "Tagline": " in a Home Depot",
+        "Description": "The Home Depot, Inc., commonly known as Home Depot, is the largest home improvement retailer in the United States, supplying tools, construction products, and services. The company is headquartered in incorporated Cobb County, Georgia, with an Atlanta mailing address.",
+        "Image": "https://i.imgur.com/siqJsIv.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Home_Depot"
+    },
+    "icecrown": {
+        "Name": "Icecrown Citadel",
+        "Tagline": " in Icecrown Citadel",
+        "Description": "Icecrown Citadel is the greatest fortress of the Scourge and the last bastion of the dread Lich King. Located in the frozen wastes of Icecrown on the continent of Northrend, the Citadel is built around the Frozen Throne that once held the spirit of Ner'zhul until he joined with Arthas Menethil to become the new Lich King. Constructed from saronite, the Citadel is inhabited by some of the strongest and vilest of the Lich King's minions - a great army of the living dead standing between their dark master and those who seek to destroy him.",
+        "Image": "https://i.imgur.com/f9k6C1b.jpg",
+        "Link": "https://wow.gamepedia.com/Icecrown_Citadel"
+    },
+    "ikea_food_court": {
+        "Name": "An IKEA food court",
+        "Tagline": " in an IKEA food courts",
+        "Description": "IKEA is a multinational conglomerate that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other useful goods and occasionally home services. Founded in Sweden in 1943 by 17-year-old Ingvar Kamprad, IKEA has been the world's largest furniture retailer since 2008.",
+        "Image": "https://i.imgur.com/CRB9pjM.jpg",
+        "Link": "https://en.wikipedia.org/wiki/IKEA"
+    },
+    "interrogation_room": {
+        "Name": "An Interrogation Room",
+        "Tagline": " in an Interrogation Room",
+        "Description": "An interrogation room is a room used by law enforcement for interrogation or questioning of suspects. These rooms are typically characterized by having a table with two chairs, and a one-way mirror in them for observers to watch the interrogation.",
+        "Image": "https://i.imgur.com/qOyALzv.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Interrogation"
+    },
+    "iss": {
+        "Name": "The ISS",
+        "Tagline": " in the ISS",
+        "Description": "The International Space Station (ISS) is a modular space station (habitable artificial satellite) in low Earth orbit. It is a multinational collaborative project involving five participating space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada). The ownership and use of the space station is established by intergovernmental treaties and agreements. The station serves as a microgravity and space environment research laboratory in which scientific research is conducted in astrobiology, astronomy, meteorology, physics, and other fields. The ISS is suited for testing the spacecraft systems and equipment required for possible future long-duration missions to the Moon and Mars. The ISS consists of pressurised habitation modules, structural trusses, photovoltaic solar arrays, thermal radiators, docking ports, experiment bays and robotic arms. Major ISS modules have been launched by Russian Proton and Soyuz rockets and US Space Shuttles. The station is serviced by a variety of visiting spacecraft: the Russian Soyuz and Progress, the SpaceX Dragon 2 and Cygnus, the Japanese H-II Transfer Vehicle, and, formerly, the European Automated Transfer Vehicle. The Dragon spacecraft allows the return of pressurised cargo to Earth, which is used, for example, to repatriate scientific experiments for further analysis. As of September 2019, 239 astronauts, cosmonauts, and space tourists from 19 different nations have visited the space station, many of them multiple times; this includes 151 Americans, 47 Russians, nine Japanese, eight Canadians, and five Italians. Mass: 419,725 kg (925,335 lb), Length: 73.0 m (239.4 ft), Width: 109.0 m (357.5 ft), Pressurised volume: 915.6 m3 (32,333 cu ft), Atmospheric pressure: 101.3 kPa (14.7 psi; 1.0 atm), Perigee altitude: 418 km (259.7 mi) AMSL, Apogee altitude: 420 km (261.0 mi) AMSL, Orbital inclination: 51.64°, Orbital speed: 7.66 km/s (27,600 km/h; 17,100 mph), Orbital period: 92.68 minutes, Orbits per day: 15.54 ",
+        "Image": "https://i.imgur.com/d53h6UZ.jpg",
+        "Link": "https://en.wikipedia.org/wiki/International_Space_Station"
+    },
+    "kosciusko": {
+        "Name": "Kosciusko, St. Louis",
+        "Tagline": " in Kosciusko, St. Louis",
+        "Description": "Kosciusko (Pronounced: kuh-SHOO-sco) is a mostly non-residential neighborhood located in St. Louis, Missouri. It begins at the Mississippi River front in the east and goes up to 7th Boulevard and 8th Street in the west. Interstate 55 is a northern border, and St. George and Dorcas Streets border the south of this neighborhood. Kosciusko is named in honor of Tadeusz Kościuszko, an American Revolutionary war general of Polish descent.",
+        "Image": "https://i.imgur.com/WllKyE3.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Kosciusko,_St._Louis"
+    },
+    "mcdonalds": {
+        "Name": "A McDonald's",
+        "Tagline": " in a McDonald's",
+        "Description": "McDonald's Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+        "Image": "https://i.imgur.com/reNLykz.jpg",
+        "Link": "https://en.wikipedia.org/wiki/McDonald%27s"
+    },
+    "mos_eisley": {
+        "Name": "Mos Eisley Cantina",
+        "Tagline": " in Mos Eisley Cantina",
+        "Description": "The Mos Eisley cantina is a dimly-lit tavern known for its strong drinks, hot tunes, and occasional outbreaks of shocking violence. Most star pilots visiting Tatooine spend their downtime in the cantina, making it an ideal spot to hire a starship's crew.",
+        "Image": "https://i.imgur.com/xlbAxtH.jpg",
+        "Link": "https://www.starwars.com/databank/mos-eisley-cantina"
+    },
+    "mount_doom": {
+        "Name": "Mount Doom",
+        "Tagline": " on Mount Doom",
+        "Description": "Mount Doom, also known as Orodruin and Amon Amarth, was a volcano in Mordor where the One Ring was forged, and the only place it could be destroyed. It was the ultimate destination for Frodo Baggins and Samwise Gamgee in the Quest of the Ring.",
+        "Image": "https://i.imgur.com/16rwxk9.jpg",
+        "Link": "https://lotr.fandom.com/wiki/Mount_Doom"
+    },
+    "moving_train": {
+        "Name": "A moving train",
+        "Tagline": " on a moving train",
+        "Description": "A train is a form of rail transport consisting of a series of connected vehicles that generally run along a railroad (or railway) track to transport passengers or cargo (also known as 'freight' or 'goods'). The word 'train' comes from the Old French trahiner, derived from the Latin trahere meaning 'to pull' or 'to draw'.",
+        "Image": "https://i.imgur.com/8KbnXru.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Train"
+    },
+    "mustafar": {
+        "Name": "Mustafar (the site of Obi-Wan Kenobi and Anakin's duel)",
+        "Tagline": " on Mustafar (at the site of Obi-Wan and Anakin's duel)",
+        "Description": "A tiny, fiery planet in the Outer Rim, Mustafar maintains an erratic orbit between two gas giants. Mustafar is rich in unique and valuable minerals which have long been mined by the Tech Union. Its lava pits and rivers make this planet a dangerous habitat; its natives have burly, tough bodies that can withstand extreme heat. The planet became the backdrop for the fateful duel between Obi-Wan Kenobi and Anakin Skywalker. After the rise of the Empire, captured Jedi were brought to the volcanic world for interrogation and execution.",
+        "Image": "https://i.imgur.com/cOL6IRj.jpg",
+        "Link": "https://www.starwars.com/databank/mustafar"
+    },
+    "nether": {
+        "Name": "The Nether",
+        "Tagline": " in the Nether",
+        "Description": "The Nether is a dangerous hell-like dimension filled with fire, lava, fungus-based vegetation, and many hostile mobs.",
+        "Image": "https://i.imgur.com/8yXlDZL.png",
+        "Link": "https://minecraft.wiki/w/The_Nether"
+    },
+    "new_york_city": {
+        "Name": "New York City",
+        "Tagline": " in New York City",
+        "Description": "New York City (NYC), often called simply New York, is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York City is also the most densely populated major city in the United States. Located at the southern tip of the U.S. state of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass. With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations, New York is an important center for international diplomacy.",
+        "Image": "https://i.imgur.com/U7ilRUM.jpg",
+        "Link": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    "north_pole": {
+        "Name": "The Center of the North Pole",
+        "Tagline": " at the center of the north pole",
+        "Description": "The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where the Earth's axis of rotation meets its surface. It is called the True North Pole to distinguish from the Magnetic North Pole.",
+        "Image": "https://i.imgur.com/d32SE7Z.jpg",
+        "Link": "https://en.wikipedia.org/wiki/North_Pole"
+    },
+    "outer_space": {
+        "Name": "Outer Space",
+        "Tagline": " in outer space",
+        "Description": "Outer space is the expanse that exists beyond Earth and between celestial bodies. Outer space is not completely empty—it is a hard vacuum containing a low density of particles, predominantly a plasma of hydrogen and helium, as well as electromagnetic radiation, magnetic fields, neutrinos, dust, and cosmic rays. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins (−270.45 °C; −454.81 °F). The plasma between galaxies accounts for about half of the baryonic (ordinary) matter in the universe; it has a number density of less than one hydrogen atom per cubic metre and a temperature of millions of kelvins. Local concentrations of matter have condensed into stars and galaxies. Studies indicate that 90% of the mass in most galaxies is in an unknown form, called dark matter, which interacts with other matter through gravitational but not electromagnetic forces. Observations suggest that the majority of the mass-energy in the observable universe is dark energy, a type of vacuum energy that is poorly understood. Intergalactic space takes up most of the volume of the universe, but even galaxies and star systems consist almost entirely of empty space.",
+        "Image": "https://i.imgur.com/IYoPSep.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Outer_space"
+    },
+    "paris": {
+        "Name": "Paris",
+        "Tagline": " in Paris",
+        "Description": "Paris is the capital and most populous city of France, with an estimated population of 2,148,271 residents as of 2020, in an area of 105 square kilometres (41 square miles).[1] Since the 17th century, Paris has been one of Europe's major centres of finance, diplomacy, commerce, fashion, science and arts. The City of Paris is the centre and seat of government of the Île-de-France, or Paris Region, which has an estimated official 2020 population of 12,278,210, or about 18 percent of the population of France. The Paris Region had a GDP of €709 billion ($808 billion) in 2017. According to the Economist Intelligence Unit Worldwide Cost of Living Survey in 2018, Paris was the second most expensive city in the world, after Singapore, and ahead of Zurich, Hong Kong, Oslo and Geneva. Another source ranked Paris as most expensive, on a par with Singapore and Hong Kong, in 2018.",
+        "Image": "https://i.imgur.com/71ah33l.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Paris"
+    },
+    "portmagee": {
+        "Name": "Portmagee, Ireland",
+        "Tagline": " in Portmagee, Ireland",
+        "Description": "Portmagee is a village in County Kerry, Ireland. The village is located on the Iveragh peninsula south of Valentia Island, and is known locally as 'the ferry', in reference to its purpose as a crossing point to the island. Access to Valentia Island is now via the Maurice O'Neill Memorial Bridge from Portmagee, which was built in 1970 and named in memory of a member of the IRA executed in 1942 for his part in the shooting dead of Detective George Mordaunt in Dublin.",
+        "Image": "https://i.imgur.com/KXIaPTF.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Portmagee"
+    },
+    "sahara": {
+        "Name": "The Sahara Desert",
+        "Tagline": " in the middle of the Sahara Desert",
+        "Description": "The Sahara is a desert on the African continent. With an area of 9,200,000 square kilometres, it is the largest hot desert in the world and the third largest desert overall, smaller only than the deserts of Antarctica and the Arctic.",
+        "Image": "https://i.imgur.com/O4P9jj8.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Sahara"
+    },
+    "senate_chamber_rl": {
+        "Name": "The Senate Chamber (Real Life)",
+        "Tagline": " in the Senate Chamber (in Washington, D.C.)",
+        "Description": "The United States Senate Chamber is a room in the north wing of the United States Capitol that serves as the legislative chamber of the United States Senate, since January 4, 1859. The Senate first convened in its current meeting place after utilizing Federal Hall, Congress Hall, and the Old Senate Chamber in the Capitol building for the same purpose. The chamber, designed by then-Architect of the Capitol Thomas Ustick Walter, is a rectangular two-story room with 100 individual desks, one per Senator, on a multi-tiered semicircular platform facing a central rostrum in the front of the room. The Senate floor itself is overlooked on all four sides by a gallery on the second floor. The Senate floor itself is 80 by 113 feet (24 by 34 m).",
+        "Image": "https://i.imgur.com/o9W9fER.jpg",
+        "Link": "https://en.wikipedia.org/wiki/United_States_Senate_chamber"
+    },
+    "senate_chamber_sw": {
+        "Name": "The Senate Chamber (Star Wars)",
+        "Tagline": " in the Senate Chamber (from Star Wars)",
+        "Description": "The Galactic Senate Chamber, also known as the Grand Convocation Chamber, the Senate Rotunda, or simply as the Senate Chamber was a large, open area contained within the Senate Building on the planet Coruscant. The chamber was the meeting hall for the Galactic Senate of the Galactic Republic and the center of political activity. It was lined with 1,024 repulsorpods for the senators and representatives from the various political delegations, with some delegations, such as the Naboo delegation, having their own pod, while other representatives had to share. The platforms could detach from the walls of the chamber which was equipped with voice-amplifying microphones, translators, and hovercams that recorded the various proceedings. At the center of the chamber was the Chancellor's podium, itself extended from the 'working office' of the Chancellery Secretariat, where the Supreme Chancellor and the Vice Chair would preside over meetings of the Senate. It was in the Galactic Senate Chamber that Chancellor Sheev Palpatine proclaimed the formation of the Galactic Empire with himself as emperor in front of the newly christened Imperial Senate. Many of the repulsorpods were later damaged when Sidious and Jedi Master Yoda threw them at each other while dueling. The Chamber held 1,024 delegations from the worlds of the Republic.",
+        "Image": "https://i.imgur.com/cRHC28Z.png",
+        "Link": "https://starwars.fandom.com/wiki/Galactic_Senate_Chamber"
+    },
+    "small_submarine": {
+        "Name": "A small submarine in the Mariana Trench",
+        "Tagline": " in a small submarine in the Mariana Trench",
+        "Description": "A submarine (or sub) is a watercraft capable of independent operation underwater. It differs from a submersible, which has more limited underwater capability. It is also sometimes used historically or colloquially to refer to remotely operated vehicles and robots, as well as medium-sized or smaller vessels, such as the midget submarine and the wet sub. Submarines are referred to as 'boats' rather than 'ships' irrespective of their size.",
+        "Image": "https://i.imgur.com/7YLqJYN.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Submarine"
+    },
+    "space_shuttle": {
+        "Name": "Space Shuttle (in orbit)",
+        "Tagline": " in the Space Shuttle (in orbit)",
+        "Description": "The Space Shuttle was a partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was Space Transportation System (STS), taken from a 1969 plan for a system of reusable spacecraft where it was the only item funded for development. The first of four orbital test flights occurred in 1981, leading to operational flights beginning in 1982. Five complete Space Shuttle orbiter vehicles were built and flown on a total of 135 missions from 1981 to 2011, launched from the Kennedy Space Center (KSC) in Florida. Operational missions launched numerous satellites, interplanetary probes, and the Hubble Space Telescope (HST); conducted science experiments in orbit; participated in the Shuttle-Mir program with Russia; and participated in construction and servicing of the International Space Station (ISS). The Space Shuttle fleet's total mission time was 1,322 days, 19 hours, 21 minutes and 23 seconds.",
+        "Image": "https://i.imgur.com/wjn2Ymj.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Space_Shuttle"
+    },
+    "spinning_hallway": {
+        "Name": "The Spinning Hallway from Inception",
+        "Tagline": " in the spinning hallway from Inception",
+        "Description": "A hallway inside of a dream from the movie Inception. Within the hallway, the direction of gravity is prone to change abruptly and inconsistently.",
+        "Image": "https://i.imgur.com/geESorT.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Inception"
+    },
+    "sputnik": {
+        "Name": "Sputnik",
+        "Tagline": " on Sputnik",
+        "Description": "Sputnik 1 was the first artificial Earth satellite. The Soviet Union launched it into an elliptical low Earth orbit on 4 October 1957. It orbited for three weeks before its batteries died and then orbited silently for two months before it fell back into the atmosphere.",
+        "Image": "https://i.imgur.com/tyWpJXU.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Sputnik_1"
+    },
+    "statue_of_liberty": {
+        "Name": "The Statue of Liberty",
+        "Tagline": " on the Statue of Liberty",
+        "Description": "The Statue of Liberty (Liberty Enlightening the World) is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frederic Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886. Height: Height of copper statue (to torch): 151 feet 1 inch (46 meters), From ground level to torch: 305 feet 1 inch (93 meters)",
+        "Image": "https://i.imgur.com/QfUzlyc.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    "taj_mahal": {
+        "Name": "Taj Mahal",
+        "Tagline": " in the Taj Mahal",
+        "Description": "The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall. Area: 17 hectares, Height: 73 m (240 ft).",
+        "Image": "https://i.imgur.com/CNCu7t5.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    "the_colosseum": {
+        "Name": "The Colosseum",
+        "Tagline": " in the Colosseum",
+        "Description": "The Colosseum, also named the Flavian Amphitheater, is a large amphitheater in Rome. It was built during the reign of the Flavian emperors as a gift to the Roman people. Construction of the Colosseum began sometime between A.D. 70 and 72 under the emperor Vespasian. It opened nearly a decade later and was modified several times in the following years. The massive structure measured approximately 189 by 156 meters (620 by 513 feet), towered four stories high, and included eighty entrances to the amphitheater—seventy-six for the patrons, two for participants of events, and two exclusively for the emperor to use. The sheer number of entrances proved to be necessary: the Colosseum could hold more than 50,000 spectators at its maximum capacity.",
+        "Image": "https://i.imgur.com/wIpJk9T.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    "trench_wwi": {
+        "Name": "A trench in WWI",
+        "Tagline": " in a trench from WWI",
+        "Description": "After the early war of movement in the late summer of 1914, artillery and machine guns forced the armies on the Western Front to dig trenches to protect themselves. Inside a trench, all that is visible is just a few feet on either side, ending at the trench walls in front and back, with a patch of leaden sky visible above. Trenches in WWI were constructed with sandbags, wooden planks, woven sticks, tangled barbed wire or even just stinking mud.",
+        "Image": "https://i.imgur.com/zjjnwIY.jpg",
+        "Link": "https://www.theworldwar.org/learn/wwi/trenches"
+    },
+    "trenches": {
+        "Name": "Opposite trenches on a World War I Battlefield",
+        "Tagline": " in opposite trenches on a World War I Battlefield",
+        "Description": "After the early war of movement in the late summer of 1914, artillery and machine guns forced the armies on the Western Front to dig trenches to protect themselves. Inside a trench, all that is visible is just a few feet on either side, ending at the trench walls in front and back, with a patch of leaden sky visible above. Trenches in WWI were constructed with sandbags, wooden planks, woven sticks, tangled barbed wire or even just stinking mud. Being in opposite trenches requires competitors to either cross No Man's Land or accurately fire a ranged weapon into the opponent's trench.",
+        "Image": "https://i.imgur.com/GkMLMpE.jpg",
+        "Link": "https://www.theworldwar.org/learn/wwi/trenches"
+    },
+    "valhalla": {
+        "Name": "Valhalla (from Halo)",
+        "Tagline": " in Valhalla (the Halo map)",
+        "Description": "Valhalla (Riverworld in Halo Online) is a multiplayer map in Halo 3. The map itself is a sparsely forested valley with mountains in the distance, featuring a stream, rocky outcroppings, and large hills. It is said to be a 'spinoff of the Blood Gulch map from Halo: Combat Evolved.' Valhalla was remade for Halo 4 as Ragnarok.",
+        "Image": "https://i.imgur.com/Oigz8Eh.jpg",
+        "Link": "https://halo.fandom.com/wiki/Valhalla"
+    },
+    "very_smoggy": {
+        "Name": "A very smoggy city",
+        "Tagline": " in a very smoggy city",
+        "Description": "A very smoggy city is a city filled with intense smog. Smog is a type of intense air pollution. The word 'smog' was coined in the early 20th century, and is a contraction (portmanteau) of the words smoke and fog to refer to smoky fog due to its opacity, and odor. The word was then intended to refer to what was sometimes known as pea soup fog, a familiar and serious problem in London from the 19th century to the mid-20th century. This kind of visible air pollution is composed of nitrogen oxides, sulphur oxides, ozone, smoke and other particulates. Man-made smog is derived from coal combustion emissions, vehicular emissions, industrial emissions, forest and agricultural fires and photochemical reactions of these emissions.",
+        "Image": "https://i.imgur.com/ToK6f4l.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Smog"
+    },
+    "white_house": {
+        "Name": "The White House",
+        "Tagline": " in the White House",
+        "Description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800. The modern-day White House complex includes the Executive Residence, West Wing, East Wing, the Eisenhower Executive Office Building—the former State Department, which now houses offices for the president's staff and the vice president—and Blair House, a guest residence. The Executive Residence is made up of six stories—the Ground Floor, State Floor, Second Floor, and Third Floor, as well as a two-story basement. The property is a National Heritage Site owned by the National Park Service and is part of the President's Park. In 2007, it was ranked second on the American Institute of Architects list of 'America's Favorite Architecture'. Floor area: 55,000 sq ft (5,100 m2).",
+        "Image": "https://i.imgur.com/px87q9n.jpg",
+        "Link": "https://en.wikipedia.org/wiki/White_House"
+    },
+    "whoville": {
+        "Name": "Whoville",
+        "Tagline": " in Whoville",
+        "Description": "Whoville (alternatively spelled Who-ville) is the central location on the Dr. Seuss television special, How the Grinch Stole Christmas! -- The Grinch lives high above them with his dog Max on Mount Crumpit, watching them frequently. The inhabitants of this place are the Whos, very few of whom are named. One of the only differences among them is their size, ranging from small to large. In Halloween is Grinch Night, the Grinch also comes down on Grinch Night/Halloween, which happens in autumn when the 'sour-sweet wind is in the air, the Gree-Grumps growl, the Hakken-Krakks yowl, and everyone knows to stay indoors, for the Grinch will be coming down from Mount Crumpit in his 'paraphernalia wagon'. The only thing that stopped the Grinch on Grinch Night was young Euchariah Who.'",
+        "Image": "https://i.imgur.com/ZqNnsMW.jpg",
+        "Link": "https://seuss.fandom.com/wiki/Whoville"
+    }
+}

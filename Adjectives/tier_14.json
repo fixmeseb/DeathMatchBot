@@ -1,0 +1,26 @@
+{
+    "decaying": {
+        "Name": "decaying",
+        "Tagline": "decaying ",
+        "Description": "to be in the act of rotting.",
+        "Link": "https://www.dictionary.com/browse/decaying"
+    },
+    "dissipating": {
+        "Name": "dissipating",
+        "Tagline": "dissipating ",
+        "Description": "to be in the act of scattering in various directions.",
+        "Link": "https://www.dictionary.com/browse/dissipating"
+    },
+    "melting": {
+        "Name": "melting",
+        "Tagline": "melting ",
+        "Description": "to be becoming liquid; to be dissolving.",
+        "Link": "https://www.dictionary.com/browse/melting"
+    },
+    "spontaneous_combustion": {
+        "Name": "spontaneously combusting slowly",
+        "Tagline": "spontaneously combusting slowly ",
+        "Description": "slowly bursting into flame.",
+        "Link": "https://en.wikipedia.org/wiki/Spontaneous_human_combustion"
+    }    
+}

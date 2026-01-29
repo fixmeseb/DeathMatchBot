@@ -1,0 +1,50 @@
+{
+    "conical": {
+        "Name": "conical",
+        "Tagline": "conical ",
+        "Description": "Of, relating to, or shaped like a cone.",
+        "Link": "https://www.dictionary.com/browse/conical"
+    },
+    "extruded": {
+        "Name": "extruded",
+        "Tagline": "extruded ",
+        "Description": "to have been thrusted out; to have been forced or pressed out; to have been expelled.",
+        "Link": "https://www.dictionary.com/browse/extruded"
+    },
+    "flattened": {
+        "Name": "flattened",
+        "Tagline": "flattened ",
+        "Description": "to have been made flat.",
+        "Link": "https://www.dictionary.com/browse/flattened"
+    },
+    "globular": {
+        "Name": "globular",
+        "Tagline": "globular ",
+        "Description": "globe-shaped; spherical.",
+        "Link": "https://www.dictionary.com/browse/globular"
+    },
+    "hemispheric": {
+        "Name": "hemispheric",
+        "Tagline": "hemispheric ",
+        "Description": "of or relating to a hemisphere.",
+        "Link": "https://www.dictionary.com/browse/hemispheric"
+    },
+    "rectangular": {
+        "Name": "rectangular",
+        "Tagline": "rectangular ",
+        "Description": "shaped like a rectangle.",
+        "Link": "https://www.dictionary.com/browse/rectangular"
+    },
+    "rotated": {
+        "Name": "rotated",
+        "Tagline": "rotated ",
+        "Description": "to have been turned around an axis or center point; to have been revolved.",
+        "Link": "https://www.dictionary.com/browse/rotated"
+    },
+    "spherical": {
+        "Name": "spherical",
+        "Tagline": "spherical ",
+        "Description": "having the form of a sphere; globular.",
+        "Link": "https://www.dictionary.com/browse/spherical"
+    }
+}

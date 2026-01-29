@@ -1,0 +1,38 @@
+{
+    "bioluminescent": {
+        "Name": "bioluminescent",
+        "Tagline": "bioluminescent ",
+        "Description": "to be able to produce organic light.",
+        "Link": "https://www.dictionary.com/browse/bioluminescent"
+    },
+    "flourescent": {
+        "Name": "flourescent",
+        "Tagline": "flourescent ",
+        "Description": "possessing the property of fluorescence; exhibiting fluorescence.",
+        "Link": "https://www.dictionary.com/browse/fluorescent"
+    },
+    "glowing": {
+        "Name": "glowing",
+        "Tagline": "glowing ",
+        "Description": "intensely bright; brilliant.",
+        "Link": "https://www.dictionary.com/browse/glowing"
+    },
+    "lucent": {
+        "Name": "lucent",
+        "Tagline": "lucent ",
+        "Description": "shining.",
+        "Link": "https://www.dictionary.com/browse/lucent"
+    },
+    "luminous": {
+        "Name": "luminous",
+        "Tagline": "luminous ",
+        "Description": "radiating or reflecting light; shining; bright.",
+        "Link": "https://www.dictionary.com/browse/luminous"
+    },
+    "radiant": {
+        "Name": "radiant",
+        "Tagline": "radiant ",
+        "Description": "emitting rays of light; shining; bright:",
+        "Link": "https://www.dictionary.com/browse/radiant"
+    }
+}

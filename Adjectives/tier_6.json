@@ -1,0 +1,116 @@
+{
+  "anemic": {
+    "Name": "anemic",
+    "Tagline": "anemic ",
+    "Description": "suffering from anemia. Anemia is a quantitative deficiency of the hemoglobin, often accompanied by a reduced number of red blood cells and causing pallor, weakness, and breathlessness.",
+    "Link": "https://www.dictionary.com/browse/anemic"
+  },
+  "boomer": {
+    "Name": "boomer",
+    "Tagline": "boomer ",
+    "Description": "a person born during a baby boom, especially one born in the U.S. between 1946 and 1965.",
+    "Link": "https://www.dictionary.com/browse/boomer"
+  },
+  "centennial": {
+    "Name": "centennial",
+    "Tagline": "centennial ",
+    "Description": "100 years old.",
+    "Link": "https://www.dictionary.com/browse/centennial"
+  },
+  "child": {
+    "Name": "child",
+    "Tagline": "child ",
+    "Description": "a person between birth and puberty or full growth.",
+    "Link": "https://www.dictionary.com/browse/child"
+  },
+  "deaf": {
+    "Name": "deaf",
+    "Tagline": "deaf ",
+    "Description": "partially or wholly lacking or deprived of the sense of hearing; unable to hear.",
+    "Link": "https://www.dictionary.com/browse/deaf"
+  },
+  "dehydrated": {
+    "Name": "dehydrated",
+    "Tagline": "dehydrated ",
+    "Description": "to be deprived (a chemical compound) of water or the elements of water.",
+    "Link": "https://www.dictionary.com/browse/dehydrated"
+  },
+  "explosive": {
+    "Name": "explosive",
+    "Tagline": "explosive ",
+    "Description": "tending or serving to explode.",
+    "Link": "https://www.dictionary.com/browse/explosive"
+  },
+  "eyeless": {
+    "Name": "eyeless",
+    "Tagline": "eyeless ",
+    "Description": "lacking eyes.",
+    "Link": "https://www.dictionary.com/browse/eyeless"
+  },
+  "fat": {
+    "Name": "fat",
+    "Tagline": "fat ",
+    "Description": "having too much flabby tissue; corpulent; obese.",
+    "Link": "https://www.dictionary.com/browse/fat"
+  },
+  "hungry": {
+    "Name": "hungry",
+    "Tagline": "hungry ",
+    "Description": "having a desire, craving, or need for food; feeling hunger.",
+    "Link": "https://www.dictionary.com/browse/hungry"
+  },
+  "minuscule": {
+    "Name": "minuscule",
+    "Tagline": "minuscule ",
+    "Description": "very small.",
+    "Link": "https://www.dictionary.com/browse/minuscule"
+  },
+  "neurotic": {
+    "Name": "neurotic",
+    "Tagline": "neurotic ",
+    "Description": "of, relating to, or characteristic of neurosis.",
+    "Link": "https://www.dictionary.com/browse/neurotic"
+  },
+  "novice": {
+    "Name": "novice",
+    "Tagline": "novice ",
+    "Description": "a person who is new to the circumstances, work, etc., in which he or she is placed; beginner; tyro.",
+    "Link": "https://www.dictionary.com/browse/novice"
+  },
+  "obese": {
+    "Name": "obese",
+    "Tagline": "obese ",
+    "Description": "very fat or overweight; corpulent.",
+    "Link": "https://www.dictionary.com/browse/obese"
+  },
+  "old": {
+    "Name": "old",
+    "Tagline": "old ",
+    "Description": "far advanced in the years of one's or its life.",
+    "Link": "https://www.dictionary.com/browse/old"
+  },
+  "sick": {
+    "Name": "sick",
+    "Tagline": "sick ",
+    "Description": "afflicted with ill health or disease; ailing.",
+    "Link": "https://www.dictionary.com/browse/sick"
+  },
+  "small": {
+    "Name": "small",
+    "Tagline": "small ",
+    "Description": "of limited size; of comparatively restricted dimensions; not big; little.",
+    "Link": "https://www.dictionary.com/browse/small"
+  },
+  "starving": {
+    "Name": "starving",
+    "Tagline": "starving ",
+    "Description": "to be in the process of perishing or suffering severely from hunger.",
+    "Link": "https://www.dictionary.com/browse/starving"
+  },
+  "stiff": {
+    "Name": "stiff",
+    "Tagline": "stiff ",
+    "Description": "rigid or firm; difficult or impossible to bend or flex:",
+    "Link": "https://www.dictionary.com/browse/stiff"
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "inorganic": {
+        "Name": "inorganic",
+        "Tagline": "inorganic ",
+        "Description": "not having the structure or organization characteristic of living bodies.",
+        "Link": "https://www.dictionary.com/browse/inorganic"
+    },
+    "lava": {
+        "Name": "lava",
+        "Tagline": "lava ",
+        "Description": "to be made of or share characteristics with lava.",
+        "Link": "https://www.dictionary.com/browse/lava"
+    },
+    "metallic": {
+        "Name": "metallic",
+        "Tagline": "metallic ",
+        "Description": "to be made of or share characteristics with metal.",
+        "Link": "https://www.dictionary.com/browse/metallic"
+    },
+    "plastic": {
+        "Name": "plastic",
+        "Tagline": "plastic ",
+        "Description": "to be made of or share characteristics with plastic.",
+        "Link": "https://www.dictionary.com/browse/plastic"
+    },
+    "rubber": {
+        "Name": "rubber",
+        "Tagline": "rubber ",
+        "Description": "to be made of or share characteristics with rubber.",
+        "Link": "https://www.dictionary.com/browse/rubber"
+    },
+    "stone": {
+        "Name": "stone",
+        "Tagline": "stone ",
+        "Description": "to be made of or share characteristics with stone.",
+        "Link": "https://www.dictionary.com/browse/stone"
+    },
+    "wax": {
+        "Name": "wax",
+        "Tagline": "wax ",
+        "Description": "to be made of or share characteristics with wax.",
+        "Link": "https://www.dictionary.com/browse/wax"
+    },
+    "wooden": {
+        "Name": "wooden",
+        "Tagline": "wooden ",
+        "Description": "to be made of or share characteristics with wood.",
+        "Link": "https://www.dictionary.com/browse/wooden"
+    }
+}

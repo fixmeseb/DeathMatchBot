@@ -1,0 +1,632 @@
+{
+    "ak_47": {
+        "Name": "AK-47",
+        "Tagline": "an AK-47",
+        "Description": "The AK-47, officially known as the Avtomat Kalashnikova, is a gas-operated, 7.62×39mm assault rifle developed in the Soviet Union by Mikhail Kalashnikov circa WWII. It is the originating firearm of the Kalashnikov rifle family. The number 47 refers to the year it was finished. Design work on the AK-47 began in 1945.",
+        "Link": "https://en.wikipedia.org/wiki/AK-47",
+        "Image": "https://i.imgur.com/pA0vdu7.jpg"
+    },
+    "baby": {
+        "Name": "baby",
+        "Tagline": "a baby",
+        "Description": "A baby is, in colloquial use, an infant who is only hours, days, or up to one month old. In medical contexts, newborn or neonate (from Latin, neonatus, newborn) refers to an infant in the first 28 days after birth; the term applies to premature, full term, and postmature infants; before birth, the term 'fetus' is used. The term 'infant' is typically applied to young children under one year of age; however, definitions may vary and may include children up to two years of age. When a human child learns to walk, the term 'toddler' may be used instead.",
+        "Link": "https://en.wikipedia.org/wiki/Infant",
+        "Image": "https://i.imgur.com/OR98fVL.jpg"
+    },
+    "ball_and_chain": {
+        "Name": "ball and chain",
+        "Tagline": "a ball and chain",
+        "Description": "A ball and chain (also known as leg irons) is a physical restraint device historically used to bind prisoners of both adolescent and adult ages. Their use was prevalent in the Americas. From the 17th century until as late as the mid-20th century this form of punishment was often used in conjunction with other methods of confinement.",
+        "Link": "https://en.wikipedia.org/wiki/Ball_and_chain",
+        "Image": "https://i.imgur.com/MqxknYR.jpg"
+    },
+    "bar_stool": {
+        "Name": "bar stool",
+        "Tagline": "a bar stool",
+        "Description": "Bar stools are a type of tall stool, often with a foot rest to support the feet. The height and narrowness of bar stools make them suitable for use at bars and high tables in pubs or bars.",
+        "Link": "https://en.wikipedia.org/wiki/Bar_stool",
+        "Image": "https://i.imgur.com/6z3IV1S.jpg"
+    },
+    "batarang": {
+        "Name": "batarang",
+        "Tagline": "a batarang",
+        "Description": "A batarang is a roughly bat-shaped throwing weapon used by the DC Comics superhero Batman. The name is a portmanteau of bat and boomerang, and was originally spelled baterang. Although they are named after boomerangs, batarangs have become more like shuriken in recent interpretations. They have since become a staple of Batman's arsenal, appearing in every major Batman television and film adaptation to date. Recent interpretations of the Dark Knight find additional motivation to use the batarang as a ranged attack (alternative to firearms, which he rejects outright due to the circumstances of his parents' murder, except for certain circumstances) and is used primarily to knock guns out of an assailant's hand.",
+        "Link": "https://en.wikipedia.org/wiki/Batarang",
+        "Image": "https://i.imgur.com/cwk5smz.jpg"
+    },
+    "bayonet": {
+        "Name": "bayonet",
+        "Tagline": "a bayonet",
+        "Description": "a blade that may be fixed to the muzzle of a rifle and used to stab an opponent in hand-to-hand fighting.",
+        "Link": "https://en.wikipedia.org/wiki/Bayonet",
+        "Image": "https://imgur.com/qhmah0C"
+    },
+    "bear_hands": {
+        "Name": "their bear hands",
+        "Tagline": "their bear hands (replacing original hands)",
+        "Description": "Bears are renowned for having big sharp claws and are often sensationalized in movies, magazines, and books as using those claws primarily as a weapon to savagely rip apart anything that gets in their way. In reality though, bears use their claws for a wide variety of purposes, many of which are not quite so dramatic. A bear’s paw is incredibly dexterous, and they can use their claws much like we humans use our fingers, that is, for a wide variety of finely detailed tasks. Bears can do things like delicately pick up and manipulate small food items and skin fish with great precision. Bear claws are also designed for activities such as digging…and lots of it! Bears dig holes to bury portions of food that they find or kill to eat later…known as a bear food cache…they tear up the ground looking for roots and rodents, and they also move tons of dirt while preparing their winter dens. In a similar manner, bears use their claws to rip open tree stumps to look for insects to eat as well as digging around on beaches and other areas where a potential meal may be buried.",
+        "Link": "https://en.wikipedia.org/wiki/Claw",
+        "Image": "https://i.imgur.com/aMnE00v.jpg"
+    },
+    "bees": {
+        "Name": "jar of angry bees",
+        "Tagline": "a jar of angry bees",
+        "Description": "A jar of angry bees is exactly what it sounds like: a jar of angry bees.",
+        "Link": "https://i.imgur.com/uMZ3l5f.jpg",
+        "Image": "https://i.pinimg.com/originals/7f/67/8d/7f678d71c0654fa9271070785652402d.jpg"
+    },
+    "box_cheerios": {
+        "Name": "box of Cheerios",
+        "Tagline": "a box of Cheerios",
+        "Description": "Cheerios is a brand of cereal manufactured by General Mills in the United States, consisting of pulverized oats in the shape of a solid torus. In some countries, including the United Kingdom, Cheerios is marketed by Cereal Partners under the Nestlé brand; in Australia and New Zealand, Cheerios is sold as an Uncle Tobys product. It was first manufactured in 1941 as CheeriOats.",
+        "Link": "https://en.wikipedia.org/wiki/Cheerios",
+        "Image": "https://i.imgur.com/LjO22UM.jpg"
+    },
+    "boxing_gloves": {
+        "Name": "pair of boxing gloves",
+        "Tagline": "a pair of boxing gloves",
+        "Description": "Boxing gloves are cushioned gloves that fighters wear on their hands during boxing matches and practices. Unlike 'fist-load weapons' (such as the ancient cestus) which were designed as a lethal weapon, modern boxing gloves are non-lethal, designed to protect both the opponent's head and the fighter's hand during a bout. Sparring and other forms of boxing training have their own specialized gloves.",
+        "Link": "https://en.wikipedia.org/wiki/Boxing_glove",
+        "Image": "https://i.imgur.com/MJc2sDY.jpg"
+    },
+    "brass_knuckles": {
+        "Name": "pair of brass knuckles",
+        "Tagline": "a pair of brass knuckles",
+        "Description": "Brass knuckles (synonyms include: knuckles, knucks, brass knucks, knucklebusters, knuckledusters, knuckle daggers, an English punch, a paperweight, or a classic) are 'fist-load weapons' used in hand-to-hand combat. Brass knuckles are pieces of metal shaped to fit around the knuckles. Despite their name, they are often made from other metals, plastics or carbon fibers. Designed to preserve and concentrate a punch's force by directing it toward a harder and smaller contact area, they result in increased tissue disruption, including an increased likelihood of fracturing the intended target bones on impact. The extended and rounded palm grip also spreads across the attacker's palm the counter-force that would otherwise be absorbed primarily by the attacker's fingers, reducing the likelihood of damage to the attacker's fingers.",
+        "Link": "https://en.wikipedia.org/wiki/Brass_knuckles",
+        "Image": "https://i.imgur.com/7IZiARW.jpg"
+    },
+    "broken_wine": {
+        "Name": "broken wine bottle",
+        "Tagline": "a broken wine bottle",
+        "Description": "https://en.wikipedia.org/wiki/Wine_bottle",
+        "Link": "A wine bottle is a bottle, generally a glass bottle, that is used for holding wine. Some wines are fermented in the bottle while others are bottled only after fermentation. Recently the bottle has become a standard unit of volume to describe sales in the wine industry, measuring 750 millilitres (26.40 imp fl oz; 25.36 US fl oz). Wine bottles are produced, however, in a variety of volumes and shapes.",
+        "Image": "https://imgur.com/WFxuplV"
+    },
+    "can_of_mace": {
+        "Name": "can of mace",
+        "Tagline": "a can of mace",
+        "Description": "Mace is the brand name of an early type of aerosol self-defense spray invented by Alan Lee Litman in the 1960s. The first commercial product of its type, Litman's design packaged phenacyl chloride (CN) tear gas dissolved in hydrocarbon solvents into a small aerosol spray can, usable in many environments and strong enough to act as a deterrent and incapacitant when sprayed in the face. Its popularity led to the name 'mace' being used commonly for other defense sprays regardless of their composition, and for the term 'maced' to be used to reference being pepper sprayed. It is unrelated to the spice mace.",
+        "Link": "https://en.wikipedia.org/wiki/Mace_(spray)",
+        "Image": "https://i.imgur.com/H1UGWmS.jpg"
+    },
+    "candlestick": {
+        "Name": "candlestick",
+        "Tagline": "a candlestick",
+        "Description": "A candlestick (or candleholder) is a device used to hold a candle upright in place. Most candlesticks have a cup, a spike (called a 'pricket'), or both to secure the candle.",
+        "Link": "https://en.wikipedia.org/wiki/Candlestick",
+        "Image": "https://i.imgur.com/QkE0vdR.jpg"
+    },
+    "chainsaw": {
+        "Name": "chainsaw",
+        "Tagline": "a chainsaw",
+        "Description": "A chainsaw (or chain saw) is a portable gasoline-, electric-, or battery-powered saw that cuts with a set of teeth attached to a rotating chain driven along a guide bar. It is used in activities such as tree felling, limbing, bucking, pruning, cutting firebreaks in wildland fire suppression, and harvesting of firewood.",
+        "Link": "https://en.wikipedia.org/wiki/Chainsaw",
+        "Image": "https://i.imgur.com/BRChbqG.jpg"
+    },
+    "claymore": {
+        "Name": "claymore",
+        "Tagline": "a claymore",
+        "Description": "A claymore is either the Scottish variant of the late medieval two-handed sword or the Scottish variant of the basket-hilted sword. The former is characterised as having a cross hilt of forward-sloping quillons with quatrefoil terminations and was in use from the 15th to 17th centuries.",
+        "Link": "https://en.wikipedia.org/wiki/Claymore",
+        "Image": "https://i.imgur.com/Cezhjfo.jpg"
+    },
+    "cool_stick": {
+        "Name": "cool stick they found in the woods",
+        "Tagline": "a cool stick they found in the woods",
+        "Description": "A branch, also called a ramus in botany, is a stem that grows off from another stem, or when structures like veins in leaves are divided into smaller veins.",
+        "Link": "https://en.wikipedia.org/wiki/Branch",
+        "Image": "https://i.imgur.com/ghZ7uIE.jpg"
+    },
+    "crossbow": {
+        "Name": "crossbow",
+        "Tagline": "a crossbow",
+        "Description": "A crossbow is a ranged weapon using an elastic launching device similar to a bow; it consists of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Crossbows shoot arrow-like projectiles called bolts or quarrels. A person who shoots crossbow is called a crossbowman or an arbalist (after the arbalest, a European crossbow variant used during the 12th century).",
+        "Link": "https://en.wikipedia.org/wiki/Crossbow",
+        "Image": "https://i.imgur.com/ZCC1NlV.jpg"
+    },
+    "dagger": {
+        "Name": "dagger",
+        "Tagline": "a dagger",
+        "Description": "A dagger is a fighting knife with a very sharp point and usually one or two sharp edges, typically designed or capable of being used as a cutting or thrusting weapon. Daggers have been used throughout human history for close combat confrontations, and many cultures have used adorned daggers in ritual and ceremonial contexts. The dagger's distinctive shape and historic usage have made it iconic and symbolic. In the modern sense, a dagger is designed for close-proximity combat or self-defense; due to its use in historic weapon assemblages, it has associations with assassination and murder. However, double-edged knives play different roles in different social contexts.",
+        "Link": "https://en.wikipedia.org/wiki/Dagger",
+        "Image": "https://i.imgur.com/L4eAgnq.jpg"
+    },
+    "dead_raven": {
+        "Name": "dead raven",
+        "Tagline": "a dead raven",
+        "Description": "A raven is one of several larger-bodied species of the genus Corvus. These species do not form a single taxonomic group within the genus.",
+        "Link": "https://en.wikipedia.org/wiki/Raven",
+        "Image": "https://i.imgur.com/4QOFSer.png"
+    },
+    "diamond_sword": {
+        "Name": "diamond sword",
+        "Tagline": "a diamond sword",
+        "Description": "A sword is a melee weapon, that is mainly used to deal damage to mobs and/or players. Swords are also useful for mining cobwebs and bamboo. A sword is made from one of six materials, in order of increasing quality and expense: wood, stone, gold, iron, diamond, and netherite.",
+        "Link": "https://minecraft.wiki/w/Diamond_Sword",
+        "Image": "https://i.imgur.com/4RZNQMl.jpg"
+    },
+    "door": {
+        "Name": "door",
+        "Tagline": "a door",
+        "Description": "A door is a hinged or otherwise movable barrier that allows ingress into and egress from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the portal of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. Doors are commonly attached by hinges, but can move by other means, such as slides or counterbalancing.",
+        "Link": "https://en.wikipedia.org/wiki/Door",
+        "Image": "https://i.imgur.com/lACZpgk.jpg"
+    },
+    "dt-29_pistol": {
+        "Name": "DT-29 heavy blaster pistol",
+        "Tagline": "a DT-29 heavy blaster pistol",
+        "Description": "The DT-29 heavy blaster pistol was a heavy blaster pistol that saw use during the reign of the Galactic Empire in the hands of Director Orson Krennic, who used a non-regulation DT-29 custom-fitted with a macroscope. Unlike most blasters, it had to be manually reloaded with energy packs which contained six rounds. The DT-29 was designed to excel in dealing heavy damage in exchange for low ammo and continuous reloading.",
+        "Link": "https://starwars.fandom.com/wiki/DT-29_heavy_blaster_pistol",
+        "Image": "https://i.imgur.com/5rfVNFB.png"
+    },
+    "e_11": {
+        "Name": "E-11 Blaster Rifle",
+        "Tagline": "an E-11 Blaster Rifle",
+        "Description": "The E-11 blaster rifle was a light but powerful blaster rifle manufactured by BlasTech Industries. It served as the standard issue weapon of Imperial stormtroopers. The blaster rifle was the successor to BlasTech's E-10 blaster rifle and was based on the DC-15A blaster carbine used by clone troopers during the Clone Wars.",
+        "Link": "https://starwars.fandom.com/wiki/E-11_blaster_rifle",
+        "Image": "https://i.imgur.com/VqOL9oE.png"
+    },
+    "extension_cord": {
+        "Name": "extension cord",
+        "Tagline": "an extension cord",
+        "Description": "An extension cord, power extender, drop cord, or extension lead is a length of flexible electrical power cable with a plug on one end and one or more sockets on the other end. The term usually refers to mains extensions but is also used to refer to extensions for other types of cabling.",
+        "Link": "https://en.wikipedia.org/wiki/Extension_cord",
+        "Image": "https://i.imgur.com/rrpv5dM.jpg"
+    },
+    "falchion": {
+        "Name": "falchion",
+        "Tagline": "a falchion",
+        "Description": "A falchionis a one-handed, single-edged sword of European origin, whose design is reminiscent of the modern machete. Falchions are found in different forms from around the 13th century up to and including the 16th century. In some versions the falchion looks rather like the seax and later the sabre, and in other versions the form is irregular or like a machete with a crossguard.",
+        "Link": "https://en.wikipedia.org/wiki/Falchion",
+        "Image": "https://i.imgur.com/jOyXpbp.jpg"
+    },
+    "fencing_foil": {
+        "Name": "fencing foil",
+        "Tagline": "a fencing foil",
+        "Description": "A foil is one of the three weapons used in the sport of fencing, all of which are metal. It is flexible, rectangular in cross section, and weighs under a pound. As with the épée, points are only scored by contact with the tip, which, in electrically scored tournaments, is capped with a spring-loaded button to signal a touch. A foil fencer's uniform features the lamé (a vest, electrically wired to record hits). The foil is the most commonly used weapon in competition.",
+        "Link": "https://en.wikipedia.org/wiki/Foil_(fencing)",
+        "Image": "https://i.imgur.com/yJmHoMX.jpg"
+    },
+    "flamethrower": {
+        "Name": "flamethrower",
+        "Tagline": "a flamethrower",
+        "Description": "A flamethrower is a ranged incendiary device designed to project a controllable jet of fire. First deployed by the Byzantine Greeks in the 1st century AD, flamethrowers saw use in modern times during World War I, and more widely in World War II as a tactical siege weapon against fortifications. Most military flamethrowers use liquid fuel, typically either gasoline or diesel, but commercial flamethrowers are generally blowtorches using gaseous fuels such as propane; gases are safer in peacetime applications, because their flames have less mass flow rate and dissipate faster, and often are easier to extinguish when necessary.",
+        "Link": "https://i.imgur.com/KSu0TBf.jpg",
+        "Image": "https://i.imgur.com/KSu0TBf.jpg"
+    },
+    "fortnite_pickaxe": {
+        "Name": "Fortnite Pickaxe",
+        "Tagline": "a Fortnite Pickaxe",
+        "Description": "The Pickaxe, also known as harvesting tool, is a tool that players can use to mine and break materials in the world of Fortnite. The pickaxe tool can also be used to cause damage against enemies in-game.",
+        "Link": "https://fortnite.fandom.com/wiki/Harvesting_Tools",
+        "Image": "https://i.imgur.com/Nutx0aW.png"
+    },
+    "freddie_dead": {
+        "Name": "Freddie Mercury's Body",
+        "Tagline": "Freddie Mercury's dead and fabulous body",
+        "Description": "Freddie Mercury (born Farrokh Bulsara; 5 September 1946 – 24 November 1991) was a British singer, songwriter, record producer, and lead vocalist of the rock band Queen. Regarded as one of the greatest singers in the history of rock music, he was known for his flamboyant stage persona and four-octave vocal range. Mercury defied the conventions of a rock frontman, with his highly theatrical style influencing the artistic direction of Queen.",
+        "Link": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+        "Image": "https://i.imgur.com/hsIQ9b7.jpg"
+    },
+    "glaive": {
+        "Name": "glaive",
+        "Tagline": "a glaive",
+        "Description": "A glaive (or glave) is a European polearm, consisting of a single-edged blade on the end of a pole. It is similar to the Japanese naginata, the Chinese guandao and pudao, the Korean woldo, the Russian sovnya and the Siberian palma.",
+        "Link": "https://en.wikipedia.org/wiki/Glaive",
+        "Image": "https://i.imgur.com/XAllYeF.jpg"
+    },
+    "glock": {
+        "Name": "glock",
+        "Tagline": "a glock",
+        "Description": "The Glock is a series of polymer-framed, short recoil-operated, locked-breech semi-automatic pistols designed and produced by Austrian manufacturer Glock Ges.m.b.H. The firearm entered Austrian military and police service by 1982 after it was the top performer in reliability and safety tests.",
+        "Link": "https://en.wikipedia.org/wiki/Glock",
+        "Image": "https://i.imgur.com/xt4iQaA.jpg"
+    },
+    "great_white_shark": {
+        "Name": "great white shark",
+        "Tagline": "a great white shark",
+        "Description": "The great white shark, also known as the great white, white shark or 'white pointer', is a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans.",
+        "Link": "https://en.wikipedia.org/wiki/Great_white_shark",
+        "Image": "https://i.imgur.com/4fE5PtD.jpg"
+    },
+    "greataxe": {
+        "Name": "greataxe",
+        "Tagline": "a greataxe",
+        "Description": "A greataxe is a military two-handed melee weapon in the axe weapon group.",
+        "Link": "https://en.wikipedia.org/wiki/Battle_axe",
+        "Image": "https://i.imgur.com/dVx6L9Q.png"
+    },
+    "guandao": {
+        "Name": "guandao",
+        "Tagline": "a guandao",
+        "Description": "A guandao is a type of Chinese pole weapon that is used in some forms of Chinese martial arts. In Chinese, it is properly called a yanyuedao , the name under which it always appears in texts from the Song to Qing dynasties such as the Wujing Zongyao and Huangchao Liqi Tushi. It is comparable to the Japanese naginata and the European fauchard or glaive and consists of a heavy blade with a spike at the back and sometimes also a notch at the spike's upper base that can catch an opponent's weapon. In addition there are often irregular serrations that lead the back edge of the blade to the spike. The blade is mounted atop a 1.5 m to 1.8 m (5–6 foot) long wooden or metal pole with a pointed metal counter weight used to balance the heavy blade and for striking on the opposite end.",
+        "Link": "https://en.wikipedia.org/wiki/Guandao",
+        "Image": "https://i.imgur.com/9JykVY1.jpg"
+    },
+    "halberd": {
+        "Name": "halberd",
+        "Tagline": "a halberd",
+        "Description": "A halberd (also called halbard, halbert or Swiss voulge) is a two-handed pole weapon that came to prominent use during the 14th, 15th, and 16th centuries. The word halberd is most likely equivalent to the German word Hellebarde, deriving from Middle High German halm (handle) and barte (battleaxe) joint to helmbarte. Troops that used the weapon are called halberdiers.",
+        "Link": "https://en.wikipedia.org/wiki/Halberd",
+        "Image": "https://i.imgur.com/VMtSK3l.jpg"
+    },
+    "halibut": {
+        "Name": "halibut",
+        "Tagline": "a halibut",
+        "Description": "Halibut is the common name for two flatfish in the genus Hippoglossus from the family of right-eye flounders and, in some regions, and less commonly, other species of large flatfish. The word is derived from haly and butte, for its popularity on Catholic holy days.",
+        "Link": "https://en.wikipedia.org/wiki/Halibut",
+        "Image": "https://i.imgur.com/63pjexf.jpg"
+    },
+    "hatchet": {
+        "Name": "hatchet",
+        "Tagline": "a hatchet",
+        "Description": "A hatchet is a single-handed striking tool with a sharp blade on one side used to cut and split wood, and a hammerhead on the other side. Hatchets may also be used for hewing when making flattened surfaces on logs; when the hatchet head is optimized for this purpose it is called a hewing hatchet.",
+        "Link": "https://en.wikipedia.org/wiki/Hatchet",
+        "Image": "https://i.imgur.com/6GrPhk7.jpg"
+    },
+    "hoagie": {
+        "Name": "hoagie",
+        "Tagline": "a hoagie",
+        "Description": "A submarine sandwich, also known as a sub, hoagie, hero, or grinder, is a type of sandwich made from a cylindrical bread roll split lengthwise and filled with meats, cheeses, vegetables, and condiments. It has many different names.",
+        "Link": "https://en.wikipedia.org/wiki/Submarine_sandwich#Hoagie",
+        "Image": "https://i.imgur.com/Whv8dv3.jpg"
+    },
+    "holy_hand_grenade": {
+        "Name": "Holy Hand Grenade",
+        "Tagline": "the Holy Hand Grenade of Antioch",
+        "Description": "The Holy Hand Grenade of Antioch was a weapon in Brother Maynard's keeping. According to the Book of Armaments, chapter two, verses nine through twenty-one, it was consecrated by Saint Atilla. 'And Saint Attila raised the hand grenade up on high, saying, 'O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.' And the Lord did grin. And the people did feast upon the lambs, and sloths, and carp, and anchovies, and orangutans, and breakfast cereals, and fruit bats, and large chulapas. And the Lord spake, saying, 'First shalt thou take out the Holy Pin. Then shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in My sight, shall snuff it.'",
+        "Link": "https://montypython.fandom.com/wiki/Holy_Hand_Grenade_of_Antioch",
+        "Image": "https://i.imgur.com/5BLAxiR.jpg"
+    },
+    "hornets": {
+        "Name": "jar of indifferent murder hornets",
+        "Tagline": "a jar of indifferent murder hornets",
+        "Description": "A jar of indifferent murder hornets is a jar full of indifferent murder hornets. What, were you expecting something clever?",
+        "Link": "https://i.imgur.com/zVWRn6i.jpg",
+        "Image": "https://en.wikipedia.org/wiki/Asian_giant_hornet"
+    },
+    "hot_poker": {
+        "Name": "hot poker",
+        "Tagline": "a hot poker",
+        "Description": "A fireplace poker, (also known as a fire iron) is a short, rigid rod made of fireproof material used to adjust coal and wood fuel burning in a fireplace, and can be used to stir up a fire. A fireplace poker is usually metallic and has a point at one end for pushing burning materials (or a hook for pulling/raking, or a combination) and a handle at the opposite end, sometimes with an insulated grip. Iron is the most popular metal from which the pokers are wrought. Brass is a more expensive alternative for a home poker set.",
+        "Link": "https://en.wikipedia.org/wiki/Fire_iron",
+        "Image": "https://i.imgur.com/8EMV3sM.jpg"
+    },
+    "iPhone_X": {
+        "Name": "iPhone X",
+        "Tagline": "an iPhone X",
+        "Description": "The iPhone X (Roman numeral 'X' pronounced 'ten') is a smartphone designed, developed, and marketed by Apple Inc. The eleventh generation of the iPhone, it was available to pre-order on October 27, 2017 and was released on November 3, 2017. The iPhone X was intended to showcase what Apple considered the technology of the future. Using a glass and stainless-steel form factor and 'bezel-less' design, shrinking the bezels, and not having a 'chin', unlike many Android phones. It was the first iPhone to use an OLED screen. The home button's fingerprint sensor was replaced with a new type of authentication called Face ID, which used sensors to scan the user's face to unlock the device. This face-recognition capability also enabled emojis to be animated following the user's expression (Animoji). With a bezel-less design, iPhone user interaction changed significantly, using gestures to navigate the operating system rather than the home button used in all previous iPhones. At the time of its November 2017 launch, its price tag of $999 USD also made it the most expensive iPhone ever, with even higher prices internationally due to additional local sales and import taxes. The iPhone X received positive reviews. Its display and build quality were universally praised, and the camera also scored positively on tests. However, the sensor housing 'notch' at the top of the screen and the introduction of an all-new authentication method were polarizing for critics and consumers. The notch was heavily mocked by users on social media, although app developers responded either neutrally or positively to the changes it brought to the user experience in their apps and games. Face ID facial recognition was praised for its simple setup, but criticized for requiring direct eyes on the screen, though that option can be disabled within the system preferences.",
+        "Link": "https://en.wikipedia.org/wiki/IPhone_X",
+        "Image": "https://i.imgur.com/HoeUXFy.jpg"
+    },
+    "jar_dirt": {
+        "Name": "jar of dirt",
+        "Tagline": "a jar of dirt",
+        "Description": "A jar of dirt is, as the name suggests, a jar full of dirt.",
+        "Link": "https://www.youtube.com/watch?v=KhhewTTuzPE",
+        "Image": "https://i.imgur.com/rgSBqNt.jpg"
+    },
+    "joyeuse_unmagic": {
+        "Name": "Joyeuse (not magical)",
+        "Tagline": "Joyeuse (not magical)",
+        "Description": "Joyeuse was, in medieval legend, the sword wielded by Charlemagne as his personal weapon. The name means 'joyous'. A sword identified as Joyeuse was used in French royal coronation ceremonies since the 13th century, and is now kept at the Louvre museum.",
+        "Link": "https://en.wikipedia.org/wiki/Joyeuse",
+        "Image": "https://i.imgur.com/Ye2W3m2.jpg"
+    },
+    "katana": {
+        "Name": "katana",
+        "Tagline": "a katana",
+        "Description": "A katana is a Japanese sword characterized by a curved, single-edged blade with a circular or squared guard and long grip to accommodate two hands. It was used by the samurai of haunted and feudal Japan.",
+        "Link": "https://en.wikipedia.org/wiki/Katana",
+        "Image": "https://i.imgur.com/lAgwD2a.jpg"
+    },
+    "key": {
+        "Name": "key",
+        "Tagline": "a key",
+        "Description": "a small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it.",
+        "Link": "https://en.wikipedia.org/wiki/Lock_and_key",
+        "Image": "https://i.imgur.com/C4RncB8.jpg"
+    },
+    "large_ballpoint": {
+        "Name": "large ball point pen",
+        "Tagline": "a rather large ballpoint pen",
+        "Description": "a pen with a tiny ball as its writing point. The ball transfers ink from a cartridge to the paper. A large ballpoint pen is a novelty sized variety of this, typically being one foot long or even longer.",
+        "Link": "https://en.wikipedia.org/wiki/Ballpoint_pen",
+        "Image": "https://i.imgur.com/olSoctZ.jpg"
+    },
+    "large_rock": {
+        "Name": "very large rock",
+        "Tagline": "a very large rock",
+        "Description": "A rock is any naturally occurring solid mass or aggregate of minerals or mineraloid matter. It is categorized by the minerals included, its chemical composition and the way in which it is formed. Rocks are usually grouped into three main groups: igneous rocks, metamorphic rocks and sedimentary rocks. Rocks form the Earth's outer solid layer, the crust, and most of its interior, except for the liquid outer core and pockets of magma in the asthenosphere. A very large rock is a very large rock.",
+        "Link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "Image": "https://i.imgur.com/YDRqFsJ.jpg"
+    },
+    "large_socket_wrench": {
+        "Name": "unusually large and intimidating socket wrench",
+        "Tagline": "an unusually large and intimidating socket wrench",
+        "Description": "A socket wrench is a type of wrench (spanner in British English) that inserts into a socket to turn a fastener, typically in the form of a nut or bolt. The most prevalent form is the ratcheting socket wrench, often informally called a ratchet. A ratchet incorporates a reversible ratcheting mechanism which allows the user to pivot the tool back and forth to turn its socket instead of removing and repositioning a wrench to do so.",
+        "Link": "https://en.wikipedia.org/wiki/Socket_wrench",
+        "Image": "https://i.imgur.com/QowwAvJ.jpg"
+    },
+    "lead_pipe": {
+        "Name": "lead pipe",
+        "Tagline": "a lead pipe",
+        "Description": "A pipe is a tubular section or hollow cylinder, usually but not necessarily of circular cross-section, used mainly to convey substances which can flow — liquids and gases (fluids), slurries, powders and masses of small solids. It can also be used for structural applications; a hollow pipe is far stiffer per unit weight than the solid members.",
+        "Link": "https://en.wikipedia.org/wiki/Pipe_(fluid_conveyance)#Materials",
+        "Image": "https://i.imgur.com/2TNf9ME.jpg"
+    },
+    "lightsaber": {
+        "Name": "lightsaber",
+        "Tagline": "a lightsaber",
+        "Description": "A lightsaber is a fictional energy sword featured throughout Star Wars. A typical lightsaber is shown as a luminous laser sword about 3 feet (0.91 m) in length emitted from a metal hilt around 10.5 inches (27 cm) in length.",
+        "Link": "https://en.wikipedia.org/wiki/Lightsaber",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lightsaber_Skywalker.png/2560px-Lightsaber_Skywalker.png"
+    },
+    "longbow": {
+        "Name": "longbow",
+        "Tagline": "a longbow",
+        "Description": "A longbow is a type of bow that is tall (roughly equal to the height of the user) allowing the archer a fairly long draw. A longbow is not significantly recurved. Its limbs are relatively narrow so that they are circular or D-shaped in cross section. Flatbows can be just as long; the difference is that, in cross-section, a flatbow has limbs that are approximately rectangular. Longbows for hunting and warfare have been made from many different woods by many cultures but most famously the Welsh using Yew; in Europe they date from the Paleolithic, and since the Bronze Age were made mainly from yew, or from wych elm if yew was unavailable. The historical longbow was a self bow made of a single piece of wood, but modern longbows may also be made from modern materials or by gluing different timbers together. Organisations that run archery competitions have set out formal definitions for the various classes; many definitions of the longbow would exclude some medieval examples, materials, and techniques of use. Some archery clubs in the US classify longbows simply as bows with strings that do not come in contact with their limbs. According to the British Longbow Society, the English longbow is made so that its thickness is at least 5/8 (62.5%) of its width, as in Victorian longbows, and is widest at the handle. This differs from the Medieval longbow, which had a thickness between 33% and 75% of the width. Also, the Victorian longbow does not bend throughout the entire length, as does the medieval longbow.",
+        "Link": "https://en.wikipedia.org/wiki/Longbow",
+        "Image": "https://i.imgur.com/KvHLcah.jpg"
+    },
+    "longsword": {
+        "Name": "longsword",
+        "Tagline": "a longsword",
+        "Description": "A longsword (also spelled as long sword or long-sword) is a type of European sword characterized as having a cruciform hilt with a grip for two-handed use (around 16 to 28 cm or 6 to 11 in), a straight double-edged blade of around 85 to 110 cm (33 to 43 in), and weighing approximately 1 to 1.5 kg (2 lb 3 oz to 3 lb 5 oz).",
+        "Link": "https://en.wikipedia.org/wiki/Longsword",
+        "Image": "https://i.imgur.com/kia4XQI.png"
+    },
+    "mace_weapon": {
+        "Name": "mace",
+        "Tagline": "a mace",
+        "Description": "A mace is a blunt weapon, a type of club or virge that uses a heavy head on the end of a handle to deliver powerful strikes. A mace typically consists of a strong, heavy, wooden or metal shaft, often reinforced with metal, featuring a head made of stone, bone, copper, bronze, iron, or steel. ",
+        "Link": "https://en.wikipedia.org/wiki/Mace_(bludgeon)",
+        "Image": "https://i.imgur.com/2TNf9ME.jpg"
+    },
+    "machete": {
+        "Name": "machete",
+        "Tagline": "a machete",
+        "Description": "A machete is a broad blade used either as an agricultural implement similar to an axe, or in combat like a long-bladed knife. The blade is typically 30 to 45 centimetres (12 to 18 in) long and usually under 3 millimetres (0.12 in) thick. In the Spanish language, the word is a diminutive form of the word macho, which was used to refer to sledgehammers. In the English language, an equivalent term is matchet, though it is less commonly used. In the English-speaking Caribbean, such as Jamaica, Barbados, Guyana, and Grenada and in Trinidad and Tobago, the term cutlass is used for these agricultural tools.",
+        "Link": "https://en.wikipedia.org/wiki/Machete",
+        "Image": "https://i.imgur.com/hQpiiCH.jpg"
+    },
+    "metal_baseball_bat": {
+        "Name": "metal baseball bat",
+        "Tagline": "a metal baseball bat",
+        "Description": "A baseball bat is a smooth wooden or metal club used in the sport of baseball to hit the ball after it is thrown by the pitcher. By regulation it may be no more than 2.75 inches (7.0 cm) in diameter at the thickest part and no more than 42 inches (1.067 m) in length.",
+        "Link": "https://en.wikipedia.org/wiki/Baseball_bat",
+        "Image": "https://i.imgur.com/IllIt5j.jpg"
+    },
+    "metal_door": {
+        "Name": "metal door",
+        "Tagline": "a metal door",
+        "Description": "A door is a hinged or otherwise movable barrier that allows ingress into and egress from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the portal of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. Doors are commonly attached by hinges, but can move by other means, such as slides or counterbalancing.",
+        "Link": "https://en.wikipedia.org/wiki/Door",
+        "Image": "https://i.imgur.com/5hWcXY0.jpg"
+    },
+    "monkey_wrench": {
+        "Name": "monkey wrench",
+        "Tagline": "a monkey wrench",
+        "Description": "An adjustable wrench with large jaws that has its adjusting screw contained in the handle.",
+        "Link": "https://i.imgur.com/LrYpm3x.jpg",
+        "Image": "https://en.wikipedia.org/wiki/Monkey_wrench"
+    },
+    "morningstar": {
+        "Name": "morningstar",
+        "Tagline": "a morningstar",
+        "Description": "A morning star is any of several medieval club-like weapons consisting of a shaft with an attached ball adorned with one or more spikes. Each used, to varying degrees, a combination of blunt-force and puncture attack to kill or wound the enemy.",
+        "Link": "https://en.wikipedia.org/wiki/Morning_star_(weapon)",
+        "Image": "https://i.imgur.com/H9cTDYn.jpg"
+    },
+    "nerf_gun": {
+        "Name": "Nerf gun",
+        "Tagline": "a Nerf gun",
+        "Description": "A Nerf Blaster is a toy gun made by Hasbro that fires foam darts, discs, or foam balls. The term 'Nerf gun' is often used to describe the toy; however, it is often used as a blanket term for any foam dart blaster, regardless of whether or not it has the Nerf brand name.",
+        "Link": "https://en.wikipedia.org/wiki/Nerf",
+        "Image": "https://i.imgur.com/vTJO1iW.jpg"
+    },
+    "never_ending_box_spaghetti": {
+        "Name": "never ending box of dried spaghetti",
+        "Tagline": "a never ending box of dried spaghetti",
+        "Description": "Spaghetti is a long, thin, solid, cylindrical noodle pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. A never ending box of dried spaghetti is a small rectangular box that can produce an unlimited supply of dried spaghetti; when a piece of spaghetti is removed from the box, it is immediately replinished. ",
+        "Link": "https://en.wikipedia.org/wiki/Spaghetti",
+        "Image": "https://i.imgur.com/OTy4Bwe.jpg"
+    },
+    "nothing": {
+        "Name": "nothing",
+        "Tagline": "nothing",
+        "Description": "",
+        "Link": "https://en.wikipedia.org/wiki/Nothing",
+        "Image": "https://i.imgur.com/iSQRVxF.jpg"
+    },
+    "nunchuck": {
+        "Name": "pair of nunchucks",
+        "Tagline": "a pair of nunchucks",
+        "Description": "The nunchaku is a traditional Okinawan martial arts weapon consisting of two sticks connected at one end by a short chain or rope.",
+        "Link": "https://en.wikipedia.org/wiki/Nunchaku",
+        "Image": "https://i.imgur.com/eKlhsoc.jpg"
+    },
+    "petrified_bonaparte": {
+        "Name": "Petrified Napoleon Bonaparte",
+        "Tagline": "the petrified body of Napoleon Bonaparte",
+        "Description": "Napoleon Bonaparte (15 August 1769 – 5 May 1821) was a French statesman and military leader who led many successful campaigns during the French Revolution and the French Revolutionary Wars, and was Emperor of the French (as Napoleon I) from 1804 until 1814 and again briefly in 1815 during the Hundred Days. Napoleon dominated European and global affairs for more than a decade while leading France against a series of coalitions during the Napoleonic Wars. He won many of these wars and a vast majority of his battles, building a large empire that ruled over much of continental Europe before its final collapse in 1815. Napoleon is regarded as one of the greatest military commanders in history, and his wars and campaigns are studied at military schools worldwide. His political and cultural legacy has made him one of the most celebrated and controversial leaders in human history. Napoleon Bonaparte's Petrified Body is the corpse of Napoleon Bonaparte after being turned to stone by a being such as the mythical basilisk.",
+        "Link": "https://en.wikipedia.org/wiki/Napoleon",
+        "Image": "https://i.imgur.com/W0FjmFZ.jpg"
+    },
+    "petrified_knuckles": {
+        "Name": "Petrified Knuckles the Echidna",
+        "Tagline": "the petrified body of Knuckles the Echidna",
+        "Description": "Knuckles the Echidna is a main character from the Sonic the Hedgehog series. He is an anthropomorphic echidna and the current guardian of the Master Emerald, a powerful ancient relic which is his solemn duty to protect from anyone seeking to abuse it. He is also the sole remaining descendant of the Knuckles Clan and last of the echidnas on earth. His dominant traits are his super strength, and the two spike-like knuckles on each of his hands, from which his name is derived from, which he can use to dig with and climb walls. He can also trap the wind under his dreadlocks to glide through the air. The petrified corpse of Knuckles the Echidna is the stone body of Knuckles after being turned to stone by a being such as the mythical basilisk.",
+        "Link": "https://sonic.fandom.com/wiki/Knuckles_the_Echidna",
+        "Image": "https://imgur.com/CUW3vTp"
+    },
+    "pike": {
+        "Name": "pike (fish)",
+        "Tagline": "a pike (fish)",
+        "Description": "Esox is a genus of freshwater fish, the only living genus in the family Esocidae—the esocids which were endemic to North America and Eurasia during the Paleogene through present. The species of this genus are known as pike and pickerel. The type species is E. lucius, the northern pike. The big pike species are native to the Palearctic and Nearctic realms, ranging across northern North America and from Western Europe to Siberia in Eurasia. Pikes have the elongated, torpedo-like form of predatory fishes, with sharply pointed heads and sharp teeth. Their coloration is typically grey-green with a mottled or spotted appearance with stripes along their backs, providing camouflage among weeds. Individual pike marking patterns are unique, like fingerprints. Pike can grow to a maximum recorded length of 1.83 m (6 ft), reaching a maximum recorded weight of 35 kg (77 lb).",
+        "Link": "https://en.wikipedia.org/wiki/Northern_pike",
+        "Image": "https://i.imgur.com/qZJRdgr.jpg"
+    },
+    "pike_weapon": {
+        "Name": "pike",
+        "Tagline": "a pike (weapon)",
+        "Description": "A pike is a pole weapon, a very long thrusting spear formerly used extensively by infantry. Pikes were used regularly in European warfare from the Late Middle Ages to the early 18th century, and were wielded by foot soldiers deployed in close quarters, until it was replaced by rifles, which had a longer range, and to which a bayonet could be attached. The pike found extensive use with Landsknecht armies and Swiss mercenaries, who employed it as their main weapon and used it in pike square formations. A similar weapon, the sarissa, was also used by Alexander the Great's Macedonian phalanx infantry to great effect. Generally, a spear becomes a pike when it is too long to be wielded with one hand in combat.",
+        "Link": "https://en.wikipedia.org/wiki/Pike_(weapon)",
+        "Image": "https://i.imgur.com/bkjfAct.jpg"
+    },
+    "pool_noodle": {
+        "Name": "pool noodle",
+        "Tagline": "a pool noodle",
+        "Description": "A pool noodle is a cylindrical piece of buoyant polyethylene foam, sometimes hollow. Noodles are used by people of all ages while swimming. Pool noodles are useful when learning to swim, for floating, for rescue reaching, in various forms of water play, and for aquatic exercise. The most common dimensions are about 160 centimetres (63 in) in length and 7 centimetres (2.8 in) in diameter. The pool noodle is also used for people who experience difficulties in swimming. The pool noodle is often used to protect sharp edges and corners.",
+        "Link": "https://en.wikipedia.org/wiki/Pool_noodle",
+        "Image": "https://i.imgur.com/xJl0ad6.jpg"
+    },
+    "pope_francis_arm": {
+        "Name": "Pope Francis's Left Arm",
+        "Tagline": "Pope Francis's Left Arm",
+        "Description": "Pope Francis (born Jorge Mario Bergoglio; 17 December 1936 – 21 April 2025) was head of the Catholic Church and sovereign of Vatican City from 13 March 2013 until his death in 2025. He was the first Jesuit pope, the first Latin American, and the first born or raised outside Europe since the 8th-century Syrian pope Gregory III.",
+        "Link": "https://en.wikipedia.org/wiki/Pope_Francis",
+        "Image": "https://i.imgur.com/pe2l1sG.jpg"
+    },
+    "rebar": {
+        "Name": "piece of rebar",
+        "Tagline": "a piece of rebar",
+        "Description": "Rebar (short for reinforcing bar), known when massed as reinforcing steel or reinforcement steel, is a steel bar or mesh of steel wires used as a tension device in reinforced concrete and reinforced masonry structures to strengthen and aid the concrete under tension. Concrete is strong under compression, but has weak tensile strength. Rebar significantly increases the tensile strength of the structure. Rebar's surface is often 'deformed' with ribs, lugs or indentations to promote a better bond with the concrete and reduce the risk of slippage.",
+        "Link": "https://en.wikipedia.org/wiki/Rebar",
+        "Image": "https://i.imgur.com/kdAdIoj.jpg"
+    },
+    "revolver": {
+        "Name": "revolver",
+        "Tagline": "a revolver",
+        "Description": "A revolver (also called a six shooter or a wheel gun) is a repeating handgun that has a revolving cylinder containing multiple chambers (each holding a single cartridge) and at least one barrel for firing. Before firing a round, the hammer is cocked and the cylinder rotates partially, indexing one of the cylinder chambers into alignment with the barrel, which allows the bullet to be fired through the bore. The hammer cocking can be achieved by either the user manually pulling the hammer back (as in single-action), via internal linkage relaying a rearward movement of the trigger (as in double-action), or both (as in double/single-action). By sequentially rotating through each chamber, the revolver allows the user to fire multiple times until having to reload the gun, unlike older single-shot firearms that had to be reloaded after each shot.",
+        "Link": "https://en.wikipedia.org/wiki/Revolver",
+        "Image": "https://i.imgur.com/zwhw1T8.jpg"
+    },
+    "screwdriver": {
+        "Name": "screwdriver",
+        "Tagline": "a screwdriver",
+        "Description": "A screwdriver is a tool, manual or powered, used for screwing and unscrewing screws. A typical simple screwdriver has a handle and a shaft, ending in a tip the user puts into the screw head before turning the handle.",
+        "Link": "https://en.wikipedia.org/wiki/Screwdriver",
+        "Image": "https://i.imgur.com/jLkgJWL.jpg"
+    },
+    "shotgun": {
+        "Name": "shotgun",
+        "Tagline": "a shotgun",
+        "Description": "A shotgun (also known as a scattergun, or historically as a fowling piece) is a long-barreled firearm designed to shoot a straight-walled cartridge known as a shotshell, which usually discharges numerous small spherical pellet-like sub-projectiles called shots, or sometimes a single solid projectile called slug. Shotguns are most commonly smoothbore firearms, meaning that their gun barrels have no riflings on the inner wall, but rifled barrels for shooting slugs (slug barrels) are also available.",
+        "Link": "https://en.wikipedia.org/wiki/Shotgun",
+        "Image": "https://i.imgur.com/CH94ftb.jpg"
+    },
+    "slingshot": {
+        "Name": "slingshot",
+        "Tagline": "a slingshot",
+        "Description": "A slingshot (US) or catapult (UK), ging (primarily Australian and New Zealand), gulel (India), shanghai (Australian and New Zealand), or kettie (South Africa) is normally a small hand-powered projectile weapon. The classic form consists of a Y-shaped frame held in the off hand (non-dominant hand), with two natural-rubber strips attached to the uprights. The other ends of the strips lead back to a pocket that holds the projectile. The non dominant hand grasps the pocket and draws it back to the desired extent to provide power for the projectile—up to a full span of the arm with sufficiently long bands.",
+        "Link": "https://en.wikipedia.org/wiki/Slingshot",
+        "Image": "https://i.imgur.com/63PT5cF.png"
+    },
+    "sniper_rifle": {
+        "Name": "sniper rifle",
+        "Tagline": "a sniper rifle",
+        "Description": "A sniper rifle is a high-precision, long range rifle. Requirements include accuracy, reliability, mobility, concealment and optics for anti-personnel, anti-materiel and surveillance uses of the military sniper. The modern sniper rifle is a portable shoulder-fired weapon system with a choice between bolt-action or semi-automatic action, fitted with a telescopic sight for extreme accuracy and chambered for a high-ballistic performance centerfire cartridge.",
+        "Link": "https://en.wikipedia.org/wiki/Sniper_rifle",
+        "Image": "https://i.imgur.com/8EGkJVW.jpg"
+    },
+    "swordfish": {
+        "Name": "swordfish",
+        "Tagline": "a swordfish",
+        "Description": "Swordfish (Xiphias gladius), also known as broadbills in some countries, are large, highly migratory, predatory fish characterized by a long, flat, pointed bill. They are a popular sport fish of the billfish category, though elusive. Swordfish are elongated, round-bodied, and lose all teeth and scales by adulthood. These fish are found widely in tropical and temperate parts of the Atlantic, Pacific, and Indian Oceans, and can typically be found from near the surface to a depth of 550 m (1,800 ft), and exceptionally up to depths of 2,234 m. They commonly reach 3 m (9.8 ft) in length, and the maximum reported is 4.55 m (14.9 ft) in length and 650 kg (1,430 lb) in weight.",
+        "Link": "https://en.wikipedia.org/wiki/Swordfish",
+        "Image": "https://i.imgur.com/GQIDpmy.jpg"
+    },
+    "taser": {
+        "Name": "taser",
+        "Tagline": "a taser",
+        "Description": "A Taser is a non-lethal electroshock gun used to incapacitate targets via shocks that temporarily impair the target's physical function to a level that allows them to be approached and handled in an unresisting and thus safe manner. It is sold by Axon, formerly TASER International. It fires two small barbed darts intended to puncture the skin and remain attached to the target, at 180 feet (55 m) per second. Their range extends from 15 feet (4.57 m) for non-law enforcement Tasers to 35 feet (10.67 m) for police officer Tasers. The darts are connected to the main unit by thin insulated copper wire and deliver a modulated electric current designed to disrupt voluntary control of muscles, causing 'neuromuscular incapacitation', which is often mistaken for unconsciousness by police officers and bystanders. The effects of a Taser device may only be localized pain or strong involuntary long muscle contractions, based on the mode of use and connectivity of the darts.",
+        "Link": "https://en.wikipedia.org/wiki/Taser",
+        "Image": "https://i.imgur.com/UW8OQf4.jpg"
+    },
+    "telescope": {
+        "Name": "handheld telescope",
+        "Tagline": "a handheld telescope",
+        "Description": "A handheld telescope is a modified refracting telescope used to magnify the images of distant objects by passing light through a series of lenses and usually prisms, the application of prisms resulting in a lightweight, compact telescope.",
+        "Link": "https://en.wikipedia.org/wiki/Monocular",
+        "Image": "https://i.imgur.com/lIIiIE7.jpg"
+    },
+    "trident_net": {
+        "Name": "trident and net",
+        "Tagline": "a trident and net",
+        "Description": "A retiarius (plural retiarii; literally, 'net-man' in Latin) was a Roman gladiator who fought with equipment styled on that of a fisherman: a weighted net (rete (3rd decl.), hence the name), a three-pointed trident (fuscina or tridens), and a dagger (pugio). The retiarius was lightly armoured, wearing an arm guard (manica) and a shoulder guard (galerus). Typically, his clothing consisted only of a loincloth (subligaculum) held in place by a wide belt, or of a short tunic with light padding. He wore no head protection or footwear.",
+        "Link": "https://en.wikipedia.org/wiki/Retiarius",
+        "Image": "https://i.imgur.com/mW2FkJu.jpg"
+    },
+    "trumpet": {
+        "Name": "trumpet",
+        "Tagline": "a trumpet",
+        "Description": "The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet with the highest register in the brass family, to the bass trumpet, which is pitched one octave below the standard B♭ or C Trumpet.",
+        "Link": "https://en.wikipedia.org/wiki/Trumpet",
+        "Image": "https://i.imgur.com/r3Bay1i.jpg"
+    },
+    "voodoo_doll": {
+        "Name": "Voodoo Doll",
+        "Tagline": "a voodoo doll of the enemy",
+        "Description": "The term Voodoo doll is commonly employed to describe an effigy into which pins are inserted. Although it comes in various different forms, such practices are found in the magical traditions of many cultures across the world.",
+        "Link": "https://en.wikipedia.org/wiki/Voodoo_doll",
+        "Image": "https://i.imgur.com/yDZaMOO.jpg"
+    },
+    "waffle_iron": {
+        "Name": "battery-powered waffle iron",
+        "Tagline": "a battery-powered waffle iron",
+        "Description": "A waffle iron or waffle maker is a utensil or appliance used to cook waffles. It comprises two metal plates with a connecting hinge, molded to create the honeycomb pattern found on waffles. The iron is heated and either batter is poured or dough is placed between the plates, which are then closed together to bake breakfast delicacies with a sweet dessert flavor, very similar to pancakes but lighter and sweeter. The appearance is much harder to achieve than a pancake; hence the waffle iron.",
+        "Link": "https://en.wikipedia.org/wiki/Waffle_iron",
+        "Image": "https://i.imgur.com/68ESOBp.jpg"
+    },
+    "walking_cane": {
+        "Name": "walking cane",
+        "Tagline": "a walking cane",
+        "Description": "A walking stick or walking cane is a device used primarily to aid walking, provide postural stability or support, or assist in maintaining a good posture, but some designs also serve as a fashion accessory, or are used for self-defense.",
+        "Link": "https://en.wikipedia.org/wiki/Assistive_cane",
+        "Image": "https://i.imgur.com/XjOiktY.jpg"
+    },
+    "war_and_peace": {
+        "Name": "hardcover copy of War and Peace",
+        "Tagline": "a hardcover copy of War and Peace",
+        "Description": "War and Peace is a novel by the Russian author Leo Tolstoy, first published serially, then published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains a classic of world literature. In popular culture, it is satirized as a massive book.",
+        "Link": "https://en.wikipedia.org/wiki/War_and_Peace",
+        "Image": "https://i.imgur.com/vD9PBmR.jpg"
+    },
+    "warhammer": {
+        "Name": "war hammer",
+        "Tagline": "a war hammer",
+        "Description": "A war hammer was a long-handled weapon used by foot-soldiers, especially in the defense of fortified walls and in action against mounted men-at-arms. It is a very ancient weapon and gave its name, owing to its constant use, to one of the rulers of France. In the fifteenth and sixteenth centuries the war hammer became an elaborately decorated and handsome weapon.",
+        "Link": "https://en.wikipedia.org/wiki/War_hammer",
+        "Image": "https://i.imgur.com/YV9dJHB.jpg"
+    },
+    "wasps": {
+        "Name": "jar of slightly annoyed wasps",
+        "Tagline": "a jar of slightly annoyed wasps",
+        "Description": "A jar of slightly annoyed wasps is a jar filled with slightly annoyed wasps. I don't get paid enough to write these, okay?",
+        "Link": "https://i.imgur.com/HH2VxmM.jpg",
+        "Image": "https://c8.alamy.com/comp/BD8X12/wasps-caught-in-jar-filled-with-sugar-and-water-BD8X12.jpg"
+    },
+    "wood_club": {
+        "Name": "wooden club",
+        "Tagline": "a wooden club",
+        "Description": "A club (also known as a cudgel, baton, bludgeon, truncheon, cosh, nightstick or impact weapon) is among the simplest of all weapons: a short staff or stick, usually made of wood, wielded as a weapon since prehistoric times. There are several examples of blunt-force trauma caused by clubs in the past, including at the site of Nataruk in Turkana, Kenya, described as the scene of a prehistoric conflict between bands of hunter-gatherers 10,000 years ago. In popular culture, clubs are associated with primitive cultures, especially cavemen.",
+        "Link": "https://en.wikipedia.org/wiki/Club_(weapon)",
+        "Image": "https://i.imgur.com/5903Gw8.png"
+    },
+    "yardstick": {
+        "Name": "yardstick",
+        "Tagline": "a yardstick",
+        "Description": "A meterstick or yardstick is either a straightedge or foldable ruler used to measure length, and is especially common in the construction industry. They are often made of wood or plastic, and often have metal or plastic joints so that they can be folded together. A yardstick is 3 feet, or one yard, in length.",
+        "Link": "https://en.wikipedia.org/wiki/Yardstick",
+        "Image": "https://i.imgur.com/6hTMuUb.jpg"
+    },
+    "yellow_fin_tuna": {
+        "Name": "yellowfin tuna",
+        "Tagline": "a yellowfin tuna",
+        "Description": "The yellowfin tuna (Thunnus albacares) is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide.",
+        "Link": "https://en.wikipedia.org/wiki/Yellowfin_tuna",
+        "Image": "https://i.imgur.com/UVMr14M.jpg"
+    }
+}

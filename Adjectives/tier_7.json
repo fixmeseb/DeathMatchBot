@@ -1,0 +1,38 @@
+{
+    "imbecilic": {
+        "Name": "imbecilic",
+        "Tagline": "imbecilic ",
+        "Description": "of, relating to, or characteristic of an imbecile.",
+        "Link": "https://www.dictionary.com/browse/imbecilic"
+    },
+    "injured": {
+        "Name": "injured",
+        "Tagline": "injured ",
+        "Description": "to have been caused harm of any kind to; to be damaged; to be hurt; to have been impaired.",
+        "Link": "https://www.dictionary.com/browse/injured"
+    },
+    "insane": {
+        "Name": "insane",
+        "Tagline": "insane ",
+        "Description": "not sane; not of sound mind; mentally deranged.",
+        "Link": "https://www.dictionary.com/browse/insane"
+    },
+    "mostly_harmless": {
+        "Name": "mostly harmless",
+        "Tagline": "mostly harmless ",
+        "Description": "for the most part incapable of causing harm.",
+        "Link": "https://www.dictionary.com/browse/mostly_harmless"
+    },
+    "psychotic": {
+        "Name": "psychotic",
+        "Tagline": "psychotic ",
+        "Description": "characterized by or afflicted with psychosis. Psychosis is a mental disorder characterized by symptoms, such as delusions or hallucinations, that indicate impaired contact with reality.",
+        "Link": "https://www.dictionary.com/browse/psychotic"
+    },
+    "stupid": {
+        "Name": "stupid",
+        "Tagline": "stupid ",
+        "Description": "lacking ordinary quickness and keenness of mind; dull.",
+        "Link": "https://www.dictionary.com/browse/stupid"
+    }    
+}

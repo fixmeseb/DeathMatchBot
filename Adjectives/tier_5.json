@@ -1,0 +1,290 @@
+{
+  "abandoned": {
+    "Name": "abandoned",
+    "Tagline": "abandoned ",
+    "Description": "forsaken or deserted.",
+    "Link": "https://www.dictionary.com/browse/abandoned"
+  },
+  "AFK": {
+    "Name": "AFK",
+    "Tagline": "AFK ",
+    "Description": "away from keyboard.",
+    "Link": "https://www.dictionary.com/browse/AFK"
+  },
+  "ailing": {
+    "Name": "ailing",
+    "Tagline": "ailing ",
+    "Description": "sickly; unwell.",
+    "Link": "https://www.dictionary.com/browse/ailing"
+  },
+  "alchoholic": {
+    "Name": "alchoholic",
+    "Tagline": "alchoholic ",
+    "Description": "of or like a person with alcoholism or alcohol use disorder.",
+    "Link": "https://www.dictionary.com/browse/alchoholic"
+  },
+  "allergenic": {
+    "Name": "allergenic",
+    "Tagline": "allergenic ",
+    "Description": "causing allergic sensitization.",
+    "Link": "https://www.dictionary.com/browse/allergenic"
+  },
+  "animalistic": {
+    "Name": "animalistic",
+    "Tagline": "animalistic ",
+    "Description": "of, relating to, or resembling an animal or animals; brutish.",
+    "Link": "https://www.dictionary.com/browse/animalistic"
+  },
+  "annoyed": {
+    "Name": "annoyed",
+    "Tagline": "annoyed ",
+    "Description": "irritated, disturbed, or bothered.",
+    "Link": "https://www.dictionary.com/browse/annoyed"
+  },
+  "anti-mask": {
+    "Name": "anti-mask",
+    "Tagline": "anti-mask ",
+    "Description": "Anti-mask is someone who is opposed to wearing masks, such as face masks, in public.",
+    "Link": "https://www.dictionary.com/browse/anti-mask"
+  },
+  "anti-vax": {
+    "Name": "anti-vax",
+    "Tagline": "anti-vax ",
+    "Description": "anti-vax is someone who is opposed to vaccinations.",
+    "Link": "https://www.dictionary.com/browse/anti-vax"
+  },
+  "antsy": {
+    "Name": "antsy",
+    "Tagline": "antsy ",
+    "Description": "unable to sit or stand still; fidgety.",
+    "Link": "https://www.dictionary.com/browse/antsy"
+  },
+  "bad": {
+    "Name": "bad",
+    "Tagline": "bad ",
+    "Description": "not good in any manner or degree.",
+    "Link": "https://www.dictionary.com/browse/bad"
+  },
+  "bedeviled": {
+    "Name": "bedeviled",
+    "Tagline": "bedeviled ",
+    "Description": "to be tormented or harassed maliciously or diabolically, as with doubts, distractions, or worries.",
+    "Link": "https://www.dictionary.com/browse/bedeviled"
+  },
+  "blighted": {
+    "Name": "blighted",
+    "Tagline": "blighted ",
+    "Description": "to have been caused to wither or decay; blast.",
+    "Link": "https://www.dictionary.com/browse/blighted"
+  },
+  "chicken": {
+    "Name": "chicken",
+    "Tagline": "chicken ",
+    "Description": "of or relating to qualities of a chicken.",
+    "Link": "https://www.dictionary.com/browse/chicken"
+  },
+  "climate-change-denying": {
+    "Name": "climate change denying",
+    "Tagline": "climate change denying ",
+    "Description": "someone who denies the existence of climate change.",
+    "Link": "https://www.dictionary.com/browse/climate-change-denying"
+  },
+  "confused": {
+    "Name": "confused",
+    "Tagline": "confused ",
+    "Description": "feeling or exhibiting an inability to understand; bewildered; perplexed.",
+    "Link": "https://www.dictionary.com/browse/confused"
+  },
+  "constipated": {
+    "Name": "constipated",
+    "Tagline": "constipated ",
+    "Description": "suffering from constipation.",
+    "Link": "https://www.dictionary.com/browse/constipated"
+  },
+  "corrupted": {
+    "Name": "corrupted",
+    "Tagline": "corrupted ",
+    "Description": "infected; tainted.",
+    "Link": "https://www.dictionary.com/browse/corrupted"
+  },
+  "cursed": {
+    "Name": "cursed",
+    "Tagline": "cursed ",
+    "Description": "under a curse; damned.",
+    "Link": "https://www.dictionary.com/browse/cursed"
+  },
+  "defunct": {
+    "Name": "defunct",
+    "Tagline": "defunct ",
+    "Description": "no longer in effect or use; not operating or functioning.",
+    "Link": "https://www.dictionary.com/browse/defunct"
+  },
+  "deprecated": {
+    "Name": "deprecated",
+    "Tagline": "deprecated ",
+    "Description": "to have been expressed disapproval of.",
+    "Link": "https://www.dictionary.com/browse/deprecated"
+  },
+  "depressing": {
+    "Name": "depressing",
+    "Tagline": "depressing ",
+    "Description": "serving to depress; inducing a state of depression.",
+    "Link": "https://www.dictionary.com/browse/depressing"
+  },
+  "disappointing": {
+    "Name": "disappointing",
+    "Tagline": "disappointing ",
+    "Description": "failing to fulfill one's hopes or expectations.",
+    "Link": "https://www.dictionary.com/browse/disappointing"
+  },
+  "evitable": {
+    "Name": "evitable",
+    "Tagline": "evitable ",
+    "Description": "capable of being avoided; avoidable.",
+    "Link": "https://www.dictionary.com/browse/evitable"
+  },
+  "hecked": {
+    "Name": "hecked",
+    "Tagline": "hecked ",
+    "Description": "to have been hecked.",
+    "Link": "https://www.dictionary.com/browse/hecked"
+  },
+  "hecking hecked": {
+    "Name": "hecking hecked",
+    "Tagline": "hecking hecked ",
+    "Description": "to have been hecked but in a hecking way.",
+    "Link": "https://www.dictionary.com/browse/hecking hecked"
+  },
+  "high": {
+    "Name": "high",
+    "Tagline": "high ",
+    "Description": "intoxicated with narcotics.",
+    "Link": "https://www.dictionary.com/browse/high"
+  },
+  "incomplete": {
+    "Name": "incomplete",
+    "Tagline": "incomplete ",
+    "Description": "not complete; lacking some part.",
+    "Link": "https://www.dictionary.com/browse/incomplete"
+  },
+  "inconsistent": {
+    "Name": "inconsistent",
+    "Tagline": "inconsistent ",
+    "Description": "not consistent in principles, conduct, etc.",
+    "Link": "https://www.dictionary.com/browse/inconsistent"
+  },
+  "inferior": {
+    "Name": "inferior",
+    "Tagline": "inferior ",
+    "Description": "less important, valuable, or worthy.",
+    "Link": "https://www.dictionary.com/browse/inferior"
+  },
+  "insufficient": {
+    "Name": "insufficient",
+    "Tagline": "insufficient ",
+    "Description": "not sufficient; lacking in what is necessary or required.",
+    "Link": "https://www.dictionary.com/browse/insufficient"
+  },
+  "irascible": {
+    "Name": "irascible",
+    "Tagline": "irascible ",
+    "Description": "easily provoked to anger; very irritable.",
+    "Link": "https://www.dictionary.com/browse/irascible"
+  },
+  "irrational": {
+    "Name": "irrational",
+    "Tagline": "irrational ",
+    "Description": "without the faculty of reason; deprived of reason.",
+    "Link": "https://www.dictionary.com/browse/irrational"
+  },
+  "lost": {
+    "Name": "lost",
+    "Tagline": "lost ",
+    "Description": "having gone astray or missed the way; bewildered as to place, direction, etc.",
+    "Link": "https://www.dictionary.com/browse/lost"
+  },
+  "maniacal": {
+    "Name": "maniacal",
+    "Tagline": "maniacal ",
+    "Description": "of or relating to mania or a maniac.",
+    "Link": "https://www.dictionary.com/browse/maniacal"
+  },
+  "monopedal": {
+    "Name": "monopedal",
+    "Tagline": "monopedal ",
+    "Description": "having one foot.",
+    "Link": "https://www.dictionary.com/browse/monopedal"
+  },
+  "nauseating": {
+    "Name": "nauseating",
+    "Tagline": "nauseating ",
+    "Description": "causing sickness of the stomach; nauseous.",
+    "Link": "https://www.dictionary.com/browse/nauseating"
+  },
+  "pathetic": {
+    "Name": "pathetic",
+    "Tagline": "pathetic ",
+    "Description": "causing or evoking pity, sympathetic sadness, sorrow, etc.; pitiful; pitiable.",
+    "Link": "https://www.dictionary.com/browse/pathetic"
+  },
+  "subpar": {
+    "Name": "subpar",
+    "Tagline": "subpar ",
+    "Description": "below an average, usual, or normal level, quality, or the like; below par.",
+    "Link": "https://www.dictionary.com/browse/subpar"
+  },
+  "superfluous": {
+    "Name": "superfluous",
+    "Tagline": "superfluous ",
+    "Description": "being more than is sufficient or required; excessive.",
+    "Link": "https://www.dictionary.com/browse/superfluous"
+  },
+  "transient": {
+    "Name": "transient",
+    "Tagline": "transient ",
+    "Description": "not lasting, enduring, or permanent; transitory.",
+    "Link": "https://www.dictionary.com/browse/transient"
+  },
+  "tripedal": {
+    "Name": "tripedal",
+    "Tagline": "tripedal ",
+    "Description": "having three feet.",
+    "Link": "https://www.dictionary.com/browse/tripedal"
+  },
+  "uncoordinated": {
+    "Name": "uncoordinated",
+    "Tagline": "uncoordinated ",
+    "Description": "lacking muscular or emotional coordination.",
+    "Link": "https://www.dictionary.com/browse/uncoordinated"
+  },
+  "uninspiring": {
+    "Name": "uninspiring",
+    "Tagline": "uninspiring ",
+    "Description": "not stimulating or invigorating.",
+    "Link": "https://www.dictionary.com/browse/uninspiring"
+  },
+  "unpopular": {
+    "Name": "unpopular",
+    "Tagline": "unpopular ",
+    "Description": "not popular; disliked or ignored by the public or by persons generally.",
+    "Link": "https://www.dictionary.com/browse/unpopular"
+  },
+  "unrespected": {
+    "Name": "unrespected",
+    "Tagline": "unrespected ",
+    "Description": "to not be held in esteem or honor.",
+    "Link": "https://www.dictionary.com/browse/unrespected"
+  },
+  "unsupported": {
+    "Name": "unsupported",
+    "Tagline": "unsupported ",
+    "Description": "not supported physically, financially, or emotionally.",
+    "Link": "https://www.dictionary.com/browse/unsupported"
+  },
+  "vulnerable": {
+    "Name": "vulnerable",
+    "Tagline": "vulnerable ",
+    "Description": "capable of or susceptible to being wounded or hurt, as by a weapon.",
+    "Link": "https://www.dictionary.com/browse/vulnerable"
+  }
+}

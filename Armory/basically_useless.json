@@ -1,0 +1,240 @@
+{
+    "baby": {
+        "Name": "baby",
+        "Tagline": "a baby",
+        "Description": "A baby is, in colloquial use, an infant who is only hours, days, or up to one month old. In medical contexts, newborn or neonate (from Latin, neonatus, newborn) refers to an infant in the first 28 days after birth; the term applies to premature, full term, and postmature infants; before birth, the term 'fetus' is used. The term 'infant' is typically applied to young children under one year of age; however, definitions may vary and may include children up to two years of age. When a human child learns to walk, the term 'toddler' may be used instead.",
+        "Link": "https://en.wikipedia.org/wiki/Infant",
+        "Image": "https://i.imgur.com/OR98fVL.jpg"
+    },
+    "waffle_iron": {
+        "Name": "battery-powered waffle iron",
+        "Tagline": "a battery-powered waffle iron",
+        "Description": "A waffle iron or waffle maker is a utensil or appliance used to cook waffles. It comprises two metal plates with a connecting hinge, molded to create the honeycomb pattern found on waffles. The iron is heated and either batter is poured or dough is placed between the plates, which are then closed together to bake breakfast delicacies with a sweet dessert flavor, very similar to pancakes but lighter and sweeter. The appearance is much harder to achieve than a pancake; hence the waffle iron.",
+        "Link": "https://en.wikipedia.org/wiki/Waffle_iron",
+        "Image": "https://i.imgur.com/68ESOBp.jpg"
+    },
+    "box_cheerios": {
+        "Name": "box of Cheerios",
+        "Tagline": "a box of Cheerios",
+        "Description": "Cheerios is a brand of cereal manufactured by General Mills in the United States, consisting of pulverized oats in the shape of a solid torus. In some countries, including the United Kingdom, Cheerios is marketed by Cereal Partners under the Nestlé brand; in Australia and New Zealand, Cheerios is sold as an Uncle Tobys product. It was first manufactured in 1941 as CheeriOats.",
+        "Link": "https://en.wikipedia.org/wiki/Cheerios",
+        "Image": "https://i.imgur.com/LjO22UM.jpg"
+    },
+    "dead_raven": {
+        "Name": "dead raven",
+        "Tagline": "a dead raven",
+        "Description": "A raven is one of several larger-bodied species of the genus Corvus. These species do not form a single taxonomic group within the genus.",
+        "Link": "https://en.wikipedia.org/wiki/Raven",
+        "Image": "https://i.imgur.com/4QOFSer.png"
+    },
+    "door": {
+        "Name": "door",
+        "Tagline": "a door",
+        "Description": "A door is a hinged or otherwise movable barrier that allows ingress into and egress from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the portal of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. Doors are commonly attached by hinges, but can move by other means, such as slides or counterbalancing.",
+        "Link": "https://en.wikipedia.org/wiki/Door",
+        "Image": "https://i.imgur.com/lACZpgk.jpg"
+    },
+    "great_white_shark": {
+        "Name": "great white shark",
+        "Tagline": "a great white shark",
+        "Description": "The great white shark, also known as the great white, white shark or 'white pointer', is a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans.",
+        "Link": "https://en.wikipedia.org/wiki/Great_white_shark",
+        "Image": "https://i.imgur.com/4fE5PtD.jpg"
+    },
+    "halibut": {
+        "Name": "halibut",
+        "Tagline": "a halibut",
+        "Description": "Halibut is the common name for two flatfish in the genus Hippoglossus from the family of right-eye flounders and, in some regions, and less commonly, other species of large flatfish. The word is derived from haly and butte, for its popularity on Catholic holy days.",
+        "Link": "https://en.wikipedia.org/wiki/Halibut",
+        "Image": "https://i.imgur.com/63pjexf.jpg"
+    },
+    "telescope": {
+        "Name": "handheld telescope",
+        "Tagline": "a handheld telescope",
+        "Description": "A handheld telescope is a modified refracting telescope used to magnify the images of distant objects by passing light through a series of lenses and usually prisms, the application of prisms resulting in a lightweight, compact telescope.",
+        "Link": "https://en.wikipedia.org/wiki/Monocular",
+        "Image": "https://i.imgur.com/lIIiIE7.jpg"
+    },
+    "war_and_peace": {
+        "Name": "hardcover copy of War and Peace",
+        "Tagline": "a hardcover copy of War and Peace",
+        "Description": "War and Peace is a novel by the Russian author Leo Tolstoy, first published serially, then published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains a classic of world literature. In popular culture, it is satirized as a massive book.",
+        "Link": "https://en.wikipedia.org/wiki/War_and_Peace",
+        "Image": "https://i.imgur.com/vD9PBmR.jpg"
+    },
+    "hoagie": {
+        "Name": "hoagie",
+        "Tagline": "a hoagie",
+        "Description": "A submarine sandwich, also known as a sub, hoagie, hero, or grinder, is a type of sandwich made from a cylindrical bread roll split lengthwise and filled with meats, cheeses, vegetables, and condiments. It has many different names.",
+        "Link": "https://en.wikipedia.org/wiki/Submarine_sandwich#Hoagie",
+        "Image": "https://i.imgur.com/Whv8dv3.jpg"
+    },
+    "jar_dirt": {
+        "Name": "jar of dirt",
+        "Tagline": "a jar of dirt",
+        "Description": "A jar of dirt is, as the name suggests, a jar full of dirt.",
+        "Link": "https://www.youtube.com/watch?v=KhhewTTuzPE",
+        "Image": "https://i.imgur.com/rgSBqNt.jpg"
+    },
+    "key": {
+        "Name": "key",
+        "Tagline": "a key",
+        "Description": "a small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it.",
+        "Link": "https://en.wikipedia.org/wiki/Lock_and_key",
+        "Image": "https://i.imgur.com/C4RncB8.jpg"
+    },
+    "large_ballpoint": {
+        "Name": "large ball point pen",
+        "Tagline": "a rather large ballpoint pen",
+        "Description": "a pen with a tiny ball as its writing point. The ball transfers ink from a cartridge to the paper. A large ballpoint pen is a novelty sized variety of this, typically being one foot long or even longer.",
+        "Link": "https://en.wikipedia.org/wiki/Ballpoint_pen",
+        "Image": "https://i.imgur.com/olSoctZ.jpg"
+    },
+    "metal_door": {
+        "Name": "metal door",
+        "Tagline": "a metal door",
+        "Description": "A door is a hinged or otherwise movable barrier that allows ingress into and egress from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the portal of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. Doors are commonly attached by hinges, but can move by other means, such as slides or counterbalancing.",
+        "Link": "https://en.wikipedia.org/wiki/Door",
+        "Image": "https://i.imgur.com/5hWcXY0.jpg"
+    },
+    "nerf_gun": {
+        "Name": "Nerf gun",
+        "Tagline": "a Nerf gun",
+        "Description": "A Nerf Blaster is a toy gun made by Hasbro that fires foam darts, discs, or foam balls. The term 'Nerf gun' is often used to describe the toy; however, it is often used as a blanket term for any foam dart blaster, regardless of whether or not it has the Nerf brand name.",
+        "Link": "https://en.wikipedia.org/wiki/Nerf",
+        "Image": "https://i.imgur.com/vTJO1iW.jpg"
+    },
+    "never_ending_box_spaghetti": {
+        "Name": "never ending box of dried spaghetti",
+        "Tagline": "a never ending box of dried spaghetti",
+        "Description": "Spaghetti is a long, thin, solid, cylindrical noodle pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. A never ending box of dried spaghetti is a small rectangular box that can produce an unlimited supply of dried spaghetti; when a piece of spaghetti is removed from the box, it is immediately replinished. ",
+        "Link": "https://en.wikipedia.org/wiki/Spaghetti",
+        "Image": "https://i.imgur.com/OTy4Bwe.jpg"
+    },
+    "boxing_gloves": {
+        "Name": "pair of boxing gloves",
+        "Tagline": "a pair of boxing gloves",
+        "Description": "Boxing gloves are cushioned gloves that fighters wear on their hands during boxing matches and practices. Unlike 'fist-load weapons' (such as the ancient cestus) which were designed as a lethal weapon, modern boxing gloves are non-lethal, designed to protect both the opponent's head and the fighter's hand during a bout. Sparring and other forms of boxing training have their own specialized gloves.",
+        "Link": "https://en.wikipedia.org/wiki/Boxing_glove",
+        "Image": "https://i.imgur.com/MJc2sDY.jpg"
+    },
+    "brass_knuckles": {
+        "Name": "pair of brass knuckles",
+        "Tagline": "a pair of brass knuckles",
+        "Description": "Brass knuckles (synonyms include: knuckles, knucks, brass knucks, knucklebusters, knuckledusters, knuckle daggers, an English punch, a paperweight, or a classic) are 'fist-load weapons' used in hand-to-hand combat. Brass knuckles are pieces of metal shaped to fit around the knuckles. Despite their name, they are often made from other metals, plastics or carbon fibers. Designed to preserve and concentrate a punch's force by directing it toward a harder and smaller contact area, they result in increased tissue disruption, including an increased likelihood of fracturing the intended target bones on impact. The extended and rounded palm grip also spreads across the attacker's palm the counter-force that would otherwise be absorbed primarily by the attacker's fingers, reducing the likelihood of damage to the attacker's fingers.",
+        "Link": "https://en.wikipedia.org/wiki/Brass_knuckles",
+        "Image": "https://i.imgur.com/7IZiARW.jpg"
+    },
+    "pike": {
+        "Name": "pike (fish)",
+        "Tagline": "a pike (fish)",
+        "Description": "Esox is a genus of freshwater fish, the only living genus in the family Esocidae—the esocids which were endemic to North America and Eurasia during the Paleogene through present. The species of this genus are known as pike and pickerel. The type species is E. lucius, the northern pike. The big pike species are native to the Palearctic and Nearctic realms, ranging across northern North America and from Western Europe to Siberia in Eurasia. Pikes have the elongated, torpedo-like form of predatory fishes, with sharply pointed heads and sharp teeth. Their coloration is typically grey-green with a mottled or spotted appearance with stripes along their backs, providing camouflage among weeds. Individual pike marking patterns are unique, like fingerprints. Pike can grow to a maximum recorded length of 1.83 m (6 ft), reaching a maximum recorded weight of 35 kg (77 lb).",
+        "Link": "https://en.wikipedia.org/wiki/Northern_pike",
+        "Image": "https://i.imgur.com/qZJRdgr.jpg"
+    },
+    "pool_noodle": {
+        "Name": "pool noodle",
+        "Tagline": "a pool noodle",
+        "Description": "A pool noodle is a cylindrical piece of buoyant polyethylene foam, sometimes hollow. Noodles are used by people of all ages while swimming. Pool noodles are useful when learning to swim, for floating, for rescue reaching, in various forms of water play, and for aquatic exercise. The most common dimensions are about 160 centimetres (63 in) in length and 7 centimetres (2.8 in) in diameter. The pool noodle is also used for people who experience difficulties in swimming. The pool noodle is often used to protect sharp edges and corners.",
+        "Link": "https://en.wikipedia.org/wiki/Pool_noodle",
+        "Image": "https://i.imgur.com/xJl0ad6.jpg"
+    },
+    "screwdriver": {
+        "Name": "screwdriver",
+        "Tagline": "a screwdriver",
+        "Description": "A screwdriver is a tool, manual or powered, used for screwing and unscrewing screws. A typical simple screwdriver has a handle and a shaft, ending in a tip the user puts into the screw head before turning the handle.",
+        "Link": "https://en.wikipedia.org/wiki/Screwdriver",
+        "Image": "https://i.imgur.com/jLkgJWL.jpg"
+    },
+    "swordfish": {
+        "Name": "swordfish",
+        "Tagline": "a swordfish",
+        "Description": "Swordfish (Xiphias gladius), also known as broadbills in some countries, are large, highly migratory, predatory fish characterized by a long, flat, pointed bill. They are a popular sport fish of the billfish category, though elusive. Swordfish are elongated, round-bodied, and lose all teeth and scales by adulthood. These fish are found widely in tropical and temperate parts of the Atlantic, Pacific, and Indian Oceans, and can typically be found from near the surface to a depth of 550 m (1,800 ft), and exceptionally up to depths of 2,234 m. They commonly reach 3 m (9.8 ft) in length, and the maximum reported is 4.55 m (14.9 ft) in length and 650 kg (1,430 lb) in weight.",
+        "Link": "https://en.wikipedia.org/wiki/Swordfish",
+        "Image": "https://i.imgur.com/GQIDpmy.jpg"
+    },
+    "trumpet": {
+        "Name": "trumpet",
+        "Tagline": "a trumpet",
+        "Description": "The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet with the highest register in the brass family, to the bass trumpet, which is pitched one octave below the standard B♭ or C Trumpet.",
+        "Link": "https://en.wikipedia.org/wiki/Trumpet",
+        "Image": "https://i.imgur.com/r3Bay1i.jpg"
+    },
+    "large_rock": {
+        "Name": "very large rock",
+        "Tagline": "a very large rock",
+        "Description": "A rock is any naturally occurring solid mass or aggregate of minerals or mineraloid matter. It is categorized by the minerals included, its chemical composition and the way in which it is formed. Rocks are usually grouped into three main groups: igneous rocks, metamorphic rocks and sedimentary rocks. Rocks form the Earth's outer solid layer, the crust, and most of its interior, except for the liquid outer core and pockets of magma in the asthenosphere. A very large rock is a very large rock.",
+        "Link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "Image": "https://i.imgur.com/YDRqFsJ.jpg"
+    },
+    "voodoo_doll": {
+        "Name": "Voodoo Doll",
+        "Tagline": "a voodoo doll of the enemy",
+        "Description": "The term Voodoo doll is commonly employed to describe an effigy into which pins are inserted. Although it comes in various different forms, such practices are found in the magical traditions of many cultures across the world.",
+        "Link": "https://en.wikipedia.org/wiki/Voodoo_doll",
+        "Image": "https://i.imgur.com/yDZaMOO.jpg"
+    },
+    "yardstick": {
+        "Name": "yardstick",
+        "Tagline": "a yardstick",
+        "Description": "A meterstick or yardstick is either a straightedge or foldable ruler used to measure length, and is especially common in the construction industry. They are often made of wood or plastic, and often have metal or plastic joints so that they can be folded together. A yardstick is 3 feet, or one yard, in length.",
+        "Link": "https://en.wikipedia.org/wiki/Yardstick",
+        "Image": "https://i.imgur.com/6hTMuUb.jpg"
+    },
+    "yellow_fin_tuna": {
+        "Name": "yellowfin tuna",
+        "Tagline": "a yellowfin tuna",
+        "Description": "The yellowfin tuna (Thunnus albacares) is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide.",
+        "Link": "https://en.wikipedia.org/wiki/Yellowfin_tuna",
+        "Image": "https://i.imgur.com/UVMr14M.jpg"
+    },
+    "extension_cord": {
+        "Name": "extension cord",
+        "Tagline": "an extension cord",
+        "Description": "An extension cord, power extender, drop cord, or extension lead is a length of flexible electrical power cable with a plug on one end and one or more sockets on the other end. The term usually refers to mains extensions but is also used to refer to extensions for other types of cabling.",
+        "Link": "https://en.wikipedia.org/wiki/Extension_cord",
+        "Image": "https://i.imgur.com/rrpv5dM.jpg"
+    },
+    "iPhone_X": {
+        "Name": "iPhone X",
+        "Tagline": "an iPhone X",
+        "Description": "The iPhone X (Roman numeral 'X' pronounced 'ten') is a smartphone designed, developed, and marketed by Apple Inc. The eleventh generation of the iPhone, it was available to pre-order on October 27, 2017 and was released on November 3, 2017. The iPhone X was intended to showcase what Apple considered the technology of the future. Using a glass and stainless-steel form factor and 'bezel-less' design, shrinking the bezels, and not having a 'chin', unlike many Android phones. It was the first iPhone to use an OLED screen. The home button's fingerprint sensor was replaced with a new type of authentication called Face ID, which used sensors to scan the user's face to unlock the device. This face-recognition capability also enabled emojis to be animated following the user's expression (Animoji). With a bezel-less design, iPhone user interaction changed significantly, using gestures to navigate the operating system rather than the home button used in all previous iPhones. At the time of its November 2017 launch, its price tag of $999 USD also made it the most expensive iPhone ever, with even higher prices internationally due to additional local sales and import taxes. The iPhone X received positive reviews. Its display and build quality were universally praised, and the camera also scored positively on tests. However, the sensor housing 'notch' at the top of the screen and the introduction of an all-new authentication method were polarizing for critics and consumers. The notch was heavily mocked by users on social media, although app developers responded either neutrally or positively to the changes it brought to the user experience in their apps and games. Face ID facial recognition was praised for its simple setup, but criticized for requiring direct eyes on the screen, though that option can be disabled within the system preferences.",
+        "Link": "https://en.wikipedia.org/wiki/IPhone_X",
+        "Image": "https://i.imgur.com/HoeUXFy.jpg"
+    },
+    "freddie_dead": {
+        "Name": "Freddie Mercury's Body",
+        "Tagline": "Freddie Mercury's dead and fabulous body",
+        "Description": "Freddie Mercury (born Farrokh Bulsara; 5 September 1946 – 24 November 1991) was a British singer, songwriter, record producer, and lead vocalist of the rock band Queen. Regarded as one of the greatest singers in the history of rock music, he was known for his flamboyant stage persona and four-octave vocal range. Mercury defied the conventions of a rock frontman, with his highly theatrical style influencing the artistic direction of Queen.",
+        "Link": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+        "Image": "https://i.imgur.com/hsIQ9b7.jpg"
+    },
+    "petrified_bonaparte": {
+        "Name": "Petrified Napoleon Bonaparte",
+        "Tagline": "the petrified body of Napoleon Bonaparte",
+        "Description": "Napoleon Bonaparte (15 August 1769 – 5 May 1821) was a French statesman and military leader who led many successful campaigns during the French Revolution and the French Revolutionary Wars, and was Emperor of the French (as Napoleon I) from 1804 until 1814 and again briefly in 1815 during the Hundred Days. Napoleon dominated European and global affairs for more than a decade while leading France against a series of coalitions during the Napoleonic Wars. He won many of these wars and a vast majority of his battles, building a large empire that ruled over much of continental Europe before its final collapse in 1815. Napoleon is regarded as one of the greatest military commanders in history, and his wars and campaigns are studied at military schools worldwide. His political and cultural legacy has made him one of the most celebrated and controversial leaders in human history. Napoleon Bonaparte's Petrified Body is the corpse of Napoleon Bonaparte after being turned to stone by a being such as the mythical basilisk.",
+        "Link": "https://en.wikipedia.org/wiki/Napoleon",
+        "Image": "https://i.imgur.com/W0FjmFZ.jpg"
+    },
+    "nothing": {
+        "Name": "nothing",
+        "Tagline": "nothing",
+        "Description": "",
+        "Link": "https://en.wikipedia.org/wiki/Nothing",
+        "Image": "https://i.imgur.com/iSQRVxF.jpg"
+    },
+    "petrified_knuckles": {
+        "Name": "Petrified Knuckles the Echidna",
+        "Tagline": "the petrified body of Knuckles the Echidna",
+        "Description": "Knuckles the Echidna is a main character from the Sonic the Hedgehog series. He is an anthropomorphic echidna and the current guardian of the Master Emerald, a powerful ancient relic which is his solemn duty to protect from anyone seeking to abuse it. He is also the sole remaining descendant of the Knuckles Clan and last of the echidnas on earth. His dominant traits are his super strength, and the two spike-like knuckles on each of his hands, from which his name is derived from, which he can use to dig with and climb walls. He can also trap the wind under his dreadlocks to glide through the air. The petrified corpse of Knuckles the Echidna is the stone body of Knuckles after being turned to stone by a being such as the mythical basilisk.",
+        "Link": "https://sonic.fandom.com/wiki/Knuckles_the_Echidna",
+        "Image": "https://imgur.com/CUW3vTp"
+    },
+    "pope_francis_arm": {
+        "Name": "Pope Francis's Left Arm",
+        "Tagline": "Pope Francis's Left Arm",
+        "Description": "Pope Francis (born Jorge Mario Bergoglio; 17 December 1936 – 21 April 2025) was head of the Catholic Church and sovereign of Vatican City from 13 March 2013 until his death in 2025. He was the first Jesuit pope, the first Latin American, and the first born or raised outside Europe since the 8th-century Syrian pope Gregory III.",
+        "Link": "https://en.wikipedia.org/wiki/Pope_Francis",
+        "Image": "https://i.imgur.com/pe2l1sG.jpg"
+    }    
+}

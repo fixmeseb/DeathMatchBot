@@ -1,0 +1,114 @@
+{
+    "ball_and_chain": {
+        "Name": "ball and chain",
+        "Tagline": "a ball and chain",
+        "Description": "A ball and chain (also known as leg irons) is a physical restraint device historically used to bind prisoners of both adolescent and adult ages. Their use was prevalent in the Americas. From the 17th century until as late as the mid-20th century this form of punishment was often used in conjunction with other methods of confinement.",
+        "Link": "https://en.wikipedia.org/wiki/Ball_and_chain",
+        "Image": "https://i.imgur.com/MqxknYR.jpg"
+    },
+    "bar_stool": {
+        "Name": "bar stool",
+        "Tagline": "a bar stool",
+        "Description": "Bar stools are a type of tall stool, often with a foot rest to support the feet. The height and narrowness of bar stools make them suitable for use at bars and high tables in pubs or bars.",
+        "Link": "https://en.wikipedia.org/wiki/Bar_stool",
+        "Image": "https://i.imgur.com/6z3IV1S.jpg"
+    },
+    "broken_wine": {
+        "Name": "broken wine bottle",
+        "Tagline": "a broken wine bottle",
+        "Description": "https://en.wikipedia.org/wiki/Wine_bottle",
+        "Link": "A wine bottle is a bottle, generally a glass bottle, that is used for holding wine. Some wines are fermented in the bottle while others are bottled only after fermentation. Recently the bottle has become a standard unit of volume to describe sales in the wine industry, measuring 750 millilitres (26.40 imp fl oz; 25.36 US fl oz). Wine bottles are produced, however, in a variety of volumes and shapes.",
+        "Image": "https://imgur.com/WFxuplV"
+    },
+    "candlestick": {
+        "Name": "candlestick",
+        "Tagline": "a candlestick",
+        "Description": "A candlestick (or candleholder) is a device used to hold a candle upright in place. Most candlesticks have a cup, a spike (called a 'pricket'), or both to secure the candle.",
+        "Link": "https://en.wikipedia.org/wiki/Candlestick",
+        "Image": "https://i.imgur.com/QkE0vdR.jpg"
+    },
+    "cool_stick": {
+        "Name": "cool stick they found in the woods",
+        "Tagline": "a cool stick they found in the woods",
+        "Description": "A branch, also called a ramus in botany, is a stem that grows off from another stem, or when structures like veins in leaves are divided into smaller veins.",
+        "Link": "https://en.wikipedia.org/wiki/Branch",
+        "Image": "https://i.imgur.com/ghZ7uIE.jpg"
+    },
+    "dagger": {
+        "Name": "dagger",
+        "Tagline": "a dagger",
+        "Description": "A dagger is a fighting knife with a very sharp point and usually one or two sharp edges, typically designed or capable of being used as a cutting or thrusting weapon. Daggers have been used throughout human history for close combat confrontations, and many cultures have used adorned daggers in ritual and ceremonial contexts. The dagger's distinctive shape and historic usage have made it iconic and symbolic. In the modern sense, a dagger is designed for close-proximity combat or self-defense; due to its use in historic weapon assemblages, it has associations with assassination and murder. However, double-edged knives play different roles in different social contexts.",
+        "Link": "https://en.wikipedia.org/wiki/Dagger",
+        "Image": "https://i.imgur.com/L4eAgnq.jpg"
+    },
+    "fortnite_pickaxe": {
+        "Name": "Fortnite Pickaxe",
+        "Tagline": "a Fortnite Pickaxe",
+        "Description": "The Pickaxe, also known as harvesting tool, is a tool that players can use to mine and break materials in the world of Fortnite. The pickaxe tool can also be used to cause damage against enemies in-game.",
+        "Link": "https://fortnite.fandom.com/wiki/Harvesting_Tools",
+        "Image": "https://i.imgur.com/Nutx0aW.png"
+    },
+    "lead_pipe": {
+        "Name": "lead pipe",
+        "Tagline": "a lead pipe",
+        "Description": "A pipe is a tubular section or hollow cylinder, usually but not necessarily of circular cross-section, used mainly to convey substances which can flow — liquids and gases (fluids), slurries, powders and masses of small solids. It can also be used for structural applications; a hollow pipe is far stiffer per unit weight than the solid members.",
+        "Link": "https://en.wikipedia.org/wiki/Pipe_(fluid_conveyance)#Materials",
+        "Image": "https://i.imgur.com/2TNf9ME.jpg"
+    },
+    "mace_weapon": {
+        "Name": "mace",
+        "Tagline": "a mace",
+        "Description": "A mace is a blunt weapon, a type of club or virge that uses a heavy head on the end of a handle to deliver powerful strikes. A mace typically consists of a strong, heavy, wooden or metal shaft, often reinforced with metal, featuring a head made of stone, bone, copper, bronze, iron, or steel. ",
+        "Link": "https://en.wikipedia.org/wiki/Mace_(bludgeon)",
+        "Image": "https://i.imgur.com/2TNf9ME.jpg"
+    },
+    "metal_baseball_bat": {
+        "Name": "metal baseball bat",
+        "Tagline": "a metal baseball bat",
+        "Description": "A baseball bat is a smooth wooden or metal club used in the sport of baseball to hit the ball after it is thrown by the pitcher. By regulation it may be no more than 2.75 inches (7.0 cm) in diameter at the thickest part and no more than 42 inches (1.067 m) in length.",
+        "Link": "https://en.wikipedia.org/wiki/Baseball_bat",
+        "Image": "https://i.imgur.com/IllIt5j.jpg"
+    },
+    "monkey_wrench": {
+        "Name": "monkey wrench",
+        "Tagline": "a monkey wrench",
+        "Description": "An adjustable wrench with large jaws that has its adjusting screw contained in the handle.",
+        "Link": "https://i.imgur.com/LrYpm3x.jpg",
+        "Image": "https://en.wikipedia.org/wiki/Monkey_wrench"
+    },
+    "nunchuck": {
+        "Name": "pair of nunchucks",
+        "Tagline": "a pair of nunchucks",
+        "Description": "The nunchaku is a traditional Okinawan martial arts weapon consisting of two sticks connected at one end by a short chain or rope.",
+        "Link": "https://en.wikipedia.org/wiki/Nunchaku",
+        "Image": "https://i.imgur.com/eKlhsoc.jpg"
+    },
+    "rebar": {
+        "Name": "piece of rebar",
+        "Tagline": "a piece of rebar",
+        "Description": "Rebar (short for reinforcing bar), known when massed as reinforcing steel or reinforcement steel, is a steel bar or mesh of steel wires used as a tension device in reinforced concrete and reinforced masonry structures to strengthen and aid the concrete under tension. Concrete is strong under compression, but has weak tensile strength. Rebar significantly increases the tensile strength of the structure. Rebar's surface is often 'deformed' with ribs, lugs or indentations to promote a better bond with the concrete and reduce the risk of slippage.",
+        "Link": "https://en.wikipedia.org/wiki/Rebar",
+        "Image": "https://i.imgur.com/kdAdIoj.jpg"
+    },
+    "walking_cane": {
+        "Name": "walking cane",
+        "Tagline": "a walking cane",
+        "Description": "A walking stick or walking cane is a device used primarily to aid walking, provide postural stability or support, or assist in maintaining a good posture, but some designs also serve as a fashion accessory, or are used for self-defense.",
+        "Link": "https://en.wikipedia.org/wiki/Assistive_cane",
+        "Image": "https://i.imgur.com/XjOiktY.jpg"
+    },
+    "wood_club": {
+        "Name": "wooden club",
+        "Tagline": "a wooden club",
+        "Description": "A club (also known as a cudgel, baton, bludgeon, truncheon, cosh, nightstick or impact weapon) is among the simplest of all weapons: a short staff or stick, usually made of wood, wielded as a weapon since prehistoric times. There are several examples of blunt-force trauma caused by clubs in the past, including at the site of Nataruk in Turkana, Kenya, described as the scene of a prehistoric conflict between bands of hunter-gatherers 10,000 years ago. In popular culture, clubs are associated with primitive cultures, especially cavemen.",
+        "Link": "https://en.wikipedia.org/wiki/Club_(weapon)",
+        "Image": "https://i.imgur.com/5903Gw8.png"
+    },
+    "large_socket_wrench": {
+        "Name": "unusually large and intimidating socket wrench",
+        "Tagline": "an unusually large and intimidating socket wrench",
+        "Description": "A socket wrench is a type of wrench (spanner in British English) that inserts into a socket to turn a fastener, typically in the form of a nut or bolt. The most prevalent form is the ratcheting socket wrench, often informally called a ratchet. A ratchet incorporates a reversible ratcheting mechanism which allows the user to pivot the tool back and forth to turn its socket instead of removing and repositioning a wrench to do so.",
+        "Link": "https://en.wikipedia.org/wiki/Socket_wrench",
+        "Image": "https://i.imgur.com/QowwAvJ.jpg"
+    }
+}
