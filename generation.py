@@ -1,193 +1,173 @@
-import discord
-from discord.utils import get
+# Random generation for a variety of items.
+import json
+from objects import Person
+from objects import Weapon
+from objects import Adjective
+from objects import Place
+from objects import Match
 
 import random
 
-def generatePerson():
-    peerFile = open("peer.txt", "r", encoding='utf-8')
-    peerArray = peerFile.read()
-    peerFinal = peerArray.split("\n")
-    personFile = open("people.txt", "r")
-    personArray = personFile.read().split("\n")
-    randomNum = random.randint(0, len(personArray)-1)
-    person = personArray[randomNum]
-    indexOfID = peerArray.index(person) + 1
-    personInfo = [person, "DEPRECATED", peerArray[indexOfID]]
-    return personInfo
+def generatePerson(data):
+    print("Generating a person!")
+    randomKey = random.choice(list(data.keys()))
+    person = Person(randomKey, data[randomKey]["Name"], data[randomKey]["Emoji_ID"], data[randomKey]["Description"], data[randomKey]["Link"], data[randomKey]["Image"])
+    return person
 #Returns a list with the person, emoji object, and the person's emoji id. 
-def generateWeapon(publicMatches=False):
-    weaponTierFile = open("Armory\\Tiers\\weaponTiers.txt", "r")
-    if publicMatches == True:
-        weaponTierFile = open("Armory\\Tiers\\weaponTiers TEACHERS.txt", "r")
-    weaponTierFull = weaponTierFile.read()
-    weaponTierArray = weaponTierFull.split('\n')
-    weaponTier1Num = random.randint(0, len(weaponTierArray)-1)
-    weaponTier1Name = "Armory\\Tiers\\" + weaponTierArray[weaponTier1Num] + ".txt"
-    weaponFile1 = open(weaponTier1Name, "r")
-    weaponSet1 = weaponFile1.read().split('\n')
-    randomNum = random.randint(0, len(weaponSet1)-1)
-    weapon = weaponSet1[randomNum]
+def generateWeapon():
+    print("Generating a weapon!")
+    with open("Armory\\generate.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    selected = random.choices(list(data.keys()), weights=list(data.values()))[0]
+    with open(f"Armory\\{selected}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    randomKey = random.choice(list(data.keys()))
+    weapon = Weapon(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Image"], data[randomKey]["Link"])
     return weapon
 #Returns a random weapon
-def generateWeaponPair(publicMatches=False):
-    weaponTierFile = open("Armory\\Tiers\\weaponTiers.txt", "r")
-    if publicMatches == True:
-        weaponTierFile = open("Armory\\Tiers\\weaponTiers TEACHERS.txt", "r")
-    weaponTierFull = weaponTierFile.read()
-    weaponTierArray = weaponTierFull.split('\n')
-    weaponTier1Num = random.randint(0, len(weaponTierArray)-1)
-    weaponTier1Name = "Armory\\Tiers\\" + weaponTierArray[weaponTier1Num] + ".txt"
-    weaponFile1 = open(weaponTier1Name, "r")
-    weaponSet1 = weaponFile1.read().split('\n')
-    randomNum1 = random.randint(0, len(weaponSet1)-1)
-    randomNum2 = random.randint(0, len(weaponSet1)-1)
-    if randomNum1 == randomNum2:
-        while randomNum1 == randomNum2:
-            randomNum2 = random.randint(0, len(weaponSet1)-1)
-    weapon1 = weaponSet1[randomNum1]
-    weapon2 = weaponSet1[randomNum2]
-    weaponPair = [weapon1, weapon2]
-    return weaponPair
+def generateWeaponPair(numOfWeapons=2):
+    print(f"Generating {numOfWeapons} of weapon(s)!")
+    with open("Armory\\generate.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    selected = random.choices(list(data.keys()), weights=list(data.values()))[0]
+    with open(f"Armory\\{selected}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    weapons = []
+    for i in range(numOfWeapons):
+        randomKey = random.choice(list(data.keys()))
+        weapon = Weapon(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Image"], data[randomKey]["Link"])
+        weapons.append(weapon)
+    return weapons
 #Generates a tiered pair of weapons. 
 def generateAdjective():
-    adjectiveTierFile = open("Adjectives\\adjectiveTiers.txt", "r")
-    adjectiveTierFull = adjectiveTierFile.read()
-    adjectiveTierArray = adjectiveTierFull.split('\n')
-    adjectiveTier1Num = random.randint(0, len(adjectiveTierArray)-1)
-    adjectiveTier1Name = adjectiveTierArray[adjectiveTier1Num] + ".txt"
-    adjectiveFile1 = open("Adjectives\\" + adjectiveTier1Name, "r")
-    adjectiveSet1 = adjectiveFile1.read().split('\n')
-    randomNum = random.randint(0, len(adjectiveSet1)-1)
-    adjective = adjectiveSet1[randomNum]
+    print("Generating an adjective!")
+    with open("Adjectives\\generate.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    selected = random.choices(list(data.keys()), weights=list(data.values()))[0]
+    with open(f"Adjectives\\{selected}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    randomKey = random.choice(list(data.keys()))
+    adjective = Adjective(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Link"])
     return adjective
 #Returns a random Adjective
-def generateAdjectivePair():
-    adjectiveTierFile = open("Adjectives\\adjectiveTiers.txt", "r")
-    adjectiveTierFull = adjectiveTierFile.read()
-    adjectiveTierArray = adjectiveTierFull.split('\n')
-    adjectiveTier1Num = random.randint(0, len(adjectiveTierArray)-1)
-    adjectiveTier1Name = adjectiveTierArray[adjectiveTier1Num] + ".txt"
-    adjectiveFile1 = open("Adjectives\\" + adjectiveTier1Name, "r")
-    adjectiveSet1 = adjectiveFile1.read().split('\n')
-    randomNum1 = random.randint(0, len(adjectiveSet1)-1)
-    randomNum2 = random.randint(0, len(adjectiveSet1)-1)
-    if randomNum1 == randomNum2:
-        while randomNum1 == randomNum2:
-            randomNum2 = random.randint(0, len(adjectiveSet1)-1)
-    adjective1 = adjectiveSet1[randomNum1]
-    adjective2 = adjectiveSet1[randomNum2]
-    adjectivePair = [adjective1, adjective2]
-    return adjectivePair
+def generateAdjectivePair(numOfAdjectives=2):
+    print(f"Generating {numOfAdjectives} of adjective(s)!")
+    with open("Adjectives\\generate.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    selected = random.choices(list(data.keys()), weights=list(data.values()))[0]
+    with open(f"Adjectives\\{selected}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    adjectives = []
+    for i in range(numOfAdjectives):
+        randomKey = random.choice(list(data.keys()))
+        adjective = Adjective(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Link"])
+        adjectives.append(adjective)
+    return adjectives
 #Returns a random tiered Adjective pair
 def generatePlace():
-    places = "Atlas\\places.txt"
-    placesFile = open(places, "r")
-    placeArray = placesFile.read().split('\n')
-    randomNum = random.randint(0, len(placeArray)-1)
-    place = placeArray[randomNum]
+    print("Generating a location!")
+    with open("Atlas\\atlas.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    randomKey = random.choice(list(data.keys()))
+    place = Place(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Link"], data[randomKey]["Image"])
     return place
 #Returns a random place
-def generatePlaceAdverb():
-    places = "Atlas\\placesName.txt"
-    placesFile = open(places, "r")
-    placeArray = placesFile.read().split('\n')
-    randomNum = random.randint(0, len(placeArray)-1)
-    place = placeArray[randomNum]
-    return place
-#Returns a random place without the proposition thing ("in", "on", etc.)
-def generateWeaponPairTier(tier,publicMatches=False):
-    weaponFile1 = open("Armory\\Tiers\\" + tier + ".txt", "r")
-    if publicMatches == True:
-        try:
-            weaponFile1 = open("Armory\\Tiers\\" + tier + " TEACHERS.txt", "r")
-        except:
-            weaponFile1 = open("Armory\\Tiers\\" + tier + ".txt", "r")
-    weaponSet1 = weaponFile1.read().split('\n')
-    randomNum1 = random.randint(0, len(weaponSet1)-1)
-    randomNum2 = random.randint(0, len(weaponSet1)-1)
-    if randomNum1 == randomNum2 and len(weaponSet1) > 1:
-        while randomNum1 == randomNum2:
-            randomNum2 = random.randint(0, len(weaponSet1)-1)
-    weapon1 = weaponSet1[randomNum1]
-    weapon2 = weaponSet1[randomNum2]
-    weaponPair = [weapon1, weapon2]
-    return weaponPair
+def generateWeaponPairTier(tier, numOfWeapons=2):
+    with open(f"Armory\\{tier}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    weapons = []
+    for i in range(numOfWeapons):
+        randomKey = random.choice(list(data.keys()))
+        weapon = Weapon(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Image"], data[randomKey]["Link"])
+        weapons.append(weapon)
+    return weapons
 #Generates a pair of weapons in the specified tier.
-def generateAdjectivePairTier(tier):
-    adjectiveFile1 = open("Adjectives\\" + tier + ".txt", "r")
-    adjectiveSet1 = adjectiveFile1.read().split('\n')
-    randomNum1 = random.randint(0, len(adjectiveSet1)-1)
-    randomNum2 = random.randint(0, len(adjectiveSet1)-1)
-    if randomNum1 == randomNum2:
-        while randomNum1 == randomNum2:
-            randomNum2 = random.randint(0, len(adjectiveSet1)-1)
-    adjective1 = adjectiveSet1[randomNum1]
-    adjective2 = adjectiveSet1[randomNum2]
-    adjectivePair = [adjective1, adjective2]
-    return adjectivePair
+def generateAdjectivePairTier(tier, numOfAdjectives=2):
+    with open(f"Adjective\\{tier}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    adjectives = []
+    for i in range(numOfAdjectives):
+        randomKey = random.choice(list(data.keys()))
+        adjective = Adjective(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Link"])
+        adjectives.append(adjective)
+    return adjectives
 #Generates a pair of adjectives in the specified tier.
 def generatePlaceTier(tier):
-    places = "Atlas\\" + tier + ".txt"
-    placesFile = open(places, "r")
-    placeArray = placesFile.read().split('\n')
-    randomNum = random.randint(0, len(placeArray)-1)
-    place = placeArray[randomNum]
+    print("Generating a location!")
+    with open(f"Atlas\\{tier}.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    randomKey = random.choice(list(data.keys()))
+    place = Place(data[randomKey]["Name"], data[randomKey]["Tagline"], data[randomKey]["Description"], data[randomKey]["Link"], data[randomKey]["Image"])
     return place
 #Generates a place in the specified list.
-def generatePlaceTierCleaning(tier):
-    places = "Atlas\\" + tier + ".txt"
-    placesFile = open(places, "r")
-    placeArray = placesFile.read().split('\n')
-    randomNum = random.randint(0, len(placeArray)-1)
-    place = [placeArray[randomNum], randomNum]
-    return place
-#Generates a place in the specified list tied with the random number.
-def generateTime():
-    timeFile = open("Competition Exclusive Info\\times.txt", "r")
-    timeFull = timeFile.read()
-    times = timeFull.split("\n")
-    timeRNG = random.randint(0, len(times)-1)
-    time = times[timeRNG]
-    return time
-#Generate a time from the time files
-def generateJeopardyCategory():
-    categoryFile = open("Contests\\Jeopardy\\categories.txt", "r")
-    categoryFull = categoryFile.read()
-    categories = categoryFull.split("\n")
-    categoryRNG = random.randint(0, len(categories)-1)
-    category = categories[categoryRNG]
-    return category
-#Generate a category from the Jeopardy Contest
-def generateBachelor(genderMale):
-    bach = ""
-    if genderMale == True:
-        bachFile = open("Contests\\Lasting Longer in the Bachelor\\bachelors.txt", "r")
-        bachFull = bachFile.read()
-        baches = bachFull.split("\n")
-        bachNG = random.randint(0, len(baches)-1)
-        bach = baches[bachNG]
+def generateContest(contestants, bracket="people_dict.json"):
+    RNG = random.randint(0, 2)
+    if RNG >= 1:
+        print("Generating Death Match!")
+        RNG = random.randint(0,1)
+        weapons = "All"
+        if RNG == 0:
+            weapons = "None"
+        RNG = random.randint(0,1)
+        adjectives = "All"
+        if RNG == 0:
+            adjectives = "None"
+        contest = Match(
+            contestants, 
+            "a death match", 
+            "A death match is a fight to the death.", 
+            "https://en.wikipedia.org/wiki/Combat", 
+            "- Both contestants act in character with their real-life selves.\n- Both contestants are in the physical condition they were in when they reached the height of their fame while alive.\n- Both competitors know how to activate any weapons they have.", 
+            adjectives, 
+            "All", 
+            weapons, 
+            "death_match")
     else:
-        bachFile = open("Contests\\Lasting Longer in the Bachelorette\\bachelorettes.txt", "r")
-        bachFull = bachFile.read()
-        baches = bachFull.split("\n")
-        bachNG = random.randint(0, len(baches)-1)
-        bach = baches[bachNG]
-    return bach
-#Used for generating the bachelor/bachelorette for all 4 contest versions
-def generateLifeSpeedrunConditions():
-    speedRuns = []
-    conditionNum = 3
-    speedRunFile = open("Contests\\Life Speedrun\\conditions.txt", "r")
-    speedRunFull = speedRunFile.read()
-    speedRunConditions = speedRunFull.split("\n")
-    randomNumList = []
-    foo = False
-    while foo != True:
-        RNG = random.randint(0, len(speedRunConditions)-1)
-        if not(RNG in randomNumList):
-            randomNumList.append(RNG)
-        if len(randomNumList) >= 3:
-            foo = True
-    for x in range(len(randomNumList)):
-        speedRuns.append(speedRunConditions[randomNumList[x]])
-    return speedRuns
+        print("Generating other contest!")
+        with open("contests.json", "r", encoding='utf-8') as f:
+            data = json.load(f)
+        randomKey = random.choice(list(data.keys()))
+        contest = Match(
+            contestants, 
+            data[randomKey]["Tagline"], 
+            data[randomKey]["Description"], 
+            data[randomKey]["Link"], 
+            data[randomKey]["Rules"], 
+            data[randomKey]["Adjectives"], 
+            data[randomKey]["Locations"], 
+            data[randomKey]["Weapons"], 
+            data[randomKey]["Name"])
+
+    print(f"Generating place based on: {contest.locations_allowed}")
+    if contest.locations_allowed == "All":
+        contest.place = generatePlace()
+    elif contest.locations_allowed != "None":
+        contest.place = generatePlaceTier(contest.locations_allowed)
+    
+    print(f"Generating weapons based on: {contest.weapons_allowed}")
+    weapons = []
+    if contest.weapons_allowed == "All":
+        weapons = generateWeaponPair()
+    elif contest.weapons_allowed != "None":
+        weapons = generateWeaponPairTier(contest.weapons_allowed)
+    i = 0
+    if len(weapons) > 0:
+        for contestant in contest.fighters:
+            contestant.weapon = weapons[i]
+            i+=1
+    
+    print(f"Generating adjectives based on: {contest.adjectives_allowed}")
+    adjectives = []
+    if contest.adjectives_allowed == "All":
+        adjectives = generateAdjectivePair()
+    elif contest.adjectives_allowed != "None":
+        adjectives = generateAdjectivePairTier(contest.adjectives_allowed)
+    i = 0
+    if len(adjectives) > 0:
+        for contestant in contest.fighters:
+            contestant.adjective = adjectives[i]
+            i+=1
+
+    #print(f"Final contestants: {contestants}")
+    return(contest)
+# Generates the contest for the sake of fighting!

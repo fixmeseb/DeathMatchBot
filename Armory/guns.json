@@ -1,0 +1,51 @@
+{
+    "dt-29_pistol": {
+        "Name": "DT-29 heavy blaster pistol",
+        "Tagline": "a DT-29 heavy blaster pistol",
+        "Description": "The DT-29 heavy blaster pistol was a heavy blaster pistol that saw use during the reign of the Galactic Empire in the hands of Director Orson Krennic, who used a non-regulation DT-29 custom-fitted with a macroscope. Unlike most blasters, it had to be manually reloaded with energy packs which contained six rounds. The DT-29 was designed to excel in dealing heavy damage in exchange for low ammo and continuous reloading.",
+        "Link": "https://starwars.fandom.com/wiki/DT-29_heavy_blaster_pistol",
+        "Image": "https://i.imgur.com/5rfVNFB.png"
+    },
+    "glock": {
+        "Name": "glock",
+        "Tagline": "a glock",
+        "Description": "The Glock is a series of polymer-framed, short recoil-operated, locked-breech semi-automatic pistols designed and produced by Austrian manufacturer Glock Ges.m.b.H. The firearm entered Austrian military and police service by 1982 after it was the top performer in reliability and safety tests.",
+        "Link": "https://en.wikipedia.org/wiki/Glock",
+        "Image": "https://i.imgur.com/xt4iQaA.jpg"
+    },
+    "revolver": {
+        "Name": "revolver",
+        "Tagline": "a revolver",
+        "Description": "A revolver (also called a six shooter or a wheel gun) is a repeating handgun that has a revolving cylinder containing multiple chambers (each holding a single cartridge) and at least one barrel for firing. Before firing a round, the hammer is cocked and the cylinder rotates partially, indexing one of the cylinder chambers into alignment with the barrel, which allows the bullet to be fired through the bore. The hammer cocking can be achieved by either the user manually pulling the hammer back (as in single-action), via internal linkage relaying a rearward movement of the trigger (as in double-action), or both (as in double/single-action). By sequentially rotating through each chamber, the revolver allows the user to fire multiple times until having to reload the gun, unlike older single-shot firearms that had to be reloaded after each shot.",
+        "Link": "https://en.wikipedia.org/wiki/Revolver",
+        "Image": "https://i.imgur.com/zwhw1T8.jpg"
+    },
+    "shotgun": {
+        "Name": "shotgun",
+        "Tagline": "a shotgun",
+        "Description": "A shotgun (also known as a scattergun, or historically as a fowling piece) is a long-barreled firearm designed to shoot a straight-walled cartridge known as a shotshell, which usually discharges numerous small spherical pellet-like sub-projectiles called shots, or sometimes a single solid projectile called slug. Shotguns are most commonly smoothbore firearms, meaning that their gun barrels have no riflings on the inner wall, but rifled barrels for shooting slugs (slug barrels) are also available.",
+        "Link": "https://en.wikipedia.org/wiki/Shotgun",
+        "Image": "https://i.imgur.com/CH94ftb.jpg"
+    },
+    "sniper_rifle": {
+        "Name": "sniper rifle",
+        "Tagline": "a sniper rifle",
+        "Description": "A sniper rifle is a high-precision, long range rifle. Requirements include accuracy, reliability, mobility, concealment and optics for anti-personnel, anti-materiel and surveillance uses of the military sniper. The modern sniper rifle is a portable shoulder-fired weapon system with a choice between bolt-action or semi-automatic action, fitted with a telescopic sight for extreme accuracy and chambered for a high-ballistic performance centerfire cartridge.",
+        "Link": "https://en.wikipedia.org/wiki/Sniper_rifle",
+        "Image": "https://i.imgur.com/8EGkJVW.jpg"
+    },
+    "ak_47": {
+        "Name": "AK-47",
+        "Tagline": "an AK-47",
+        "Description": "The AK-47, officially known as the Avtomat Kalashnikova, is a gas-operated, 7.62×39mm assault rifle developed in the Soviet Union by Mikhail Kalashnikov circa WWII. It is the originating firearm of the Kalashnikov rifle family. The number 47 refers to the year it was finished. Design work on the AK-47 began in 1945.",
+        "Link": "https://en.wikipedia.org/wiki/AK-47",
+        "Image": "https://i.imgur.com/pA0vdu7.jpg"
+    },
+    "e_11": {
+        "Name": "E-11 Blaster Rifle",
+        "Tagline": "an E-11 Blaster Rifle",
+        "Description": "The E-11 blaster rifle was a light but powerful blaster rifle manufactured by BlasTech Industries. It served as the standard issue weapon of Imperial stormtroopers. The blaster rifle was the successor to BlasTech's E-10 blaster rifle and was based on the DC-15A blaster carbine used by clone troopers during the Clone Wars.",
+        "Link": "https://starwars.fandom.com/wiki/E-11_blaster_rifle",
+        "Image": "https://i.imgur.com/VqOL9oE.png"
+    }
+}

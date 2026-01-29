@@ -1,0 +1,502 @@
+{
+    "100m Dash": {
+        "Name": "100m Dash",
+        "Tagline": "a 100m dash",
+        "Description": "The winner of this competition is the first person to sprint 100m from a fixed starting line.",
+        "Link": "https://en.wikipedia.org/wiki/Racing",
+        "Rules": "- No interference with the other competitor is allowed.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "arm_wrestling": {
+        "Name": "Arm Wrestling",
+        "Tagline": "an arm wrestling competition",
+        "Description": "The winner of this competition is whoever can win an arm-wrestling competition.",
+        "Link": "https://en.wikipedia.org/wiki/Arm_wrestling",
+        "Rules": "- The competition uses a magically indestructable and immovable table.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "boxing": {
+        "Name": "Boxing",
+        "Tagline": "a boxing match",
+        "Description": "The winner of this competition is whoever can win a boxing match.",
+        "Link": "https://en.wikipedia.org/wiki/Boxing",
+        "Rules": "- Both players must follow the rules of professional boxing.",
+        "Adjectives": "None",
+        "Locations": "boxing",
+        "Weapons": "None"
+    },
+    "chainsaw_juggling": {
+        "Name": "Chainsaw Juggling",
+        "Tagline": "a chainsaw juggling competition",
+        "Description": "The winner of this competition is whoever can juggle three running chainsaws for the longest period.",
+        "Link": "https://en.wikipedia.org/wiki/Juggling",
+        "Rules": "- No interference with the other competitor is allowed.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "chess_boxing": {
+        "Name": "Chessboxing",
+        "Tagline": "a chessboxing match",
+        "Description": "The winner of this competition is whoever wins a round of chessboxing.",
+        "Link": "https://en.wikipedia.org/wiki/Chess_boxing",
+        "Rules": "\n- Competitors must follow all the rules of chessboxing.\n- No interference with opponents during the chess segment.",
+        "Adjectives": "None",
+        "Locations": "boxing",
+        "Weapons": "None"
+    },
+    "chess_cheating": {
+        "Name": "Chess (Cheating)",
+        "Tagline": "a chess match (with cheating)",
+        "Description": "The winner of this competition is whoever wins a chess game first.",
+        "Link": "https://en.wikipedia.org/wiki/Chess",
+        "Rules": "- No interference with the other competitor is allowed.\n- Each competitor doesn't need to follow all the rules of Chess; but, if caught cheating, they're immediately disqualified.\n- Assume that both competitors magically know and can follow the rules of Chess, but beyond that have no special proficiency in Chess.",
+        "Adjectives": "All",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "chess_losing": {
+        "Name": "Losing Chess",
+        "Tagline": "losing a chess match",
+        "Description": "The winner of this competition is whoever loses a chess game first.",
+        "Link": "https://en.wikipedia.org/wiki/Losing_chess",
+        "Rules": "- No interference with the other competitor is allowed.\n- \n- Each competitor must follow all the rules of Losing Chess.\n- Capturing is compulsory.\n- When more than one capture is available, the player may choose.\n- The king has no royal power and so, may be captured as any other piece (without check or checkmate), can expose itself, there is no castling, and a pawn can promote to king.\n- Stalemate is a win for the stalemated player (the player with no legal moves).",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "chess_winning": {
+        "Name": "Chess",
+        "Tagline": "a chess match",
+        "Description": "The winner of this competition is whoever wins a chess game first.",
+        "Link": "https://en.wikipedia.org/wiki/Chess",
+        "Rules": "- No interference with the other competitor is allowed.\n- Each competitor must follow all the rules of Chess.\n- Assume that both competitors magically know and can follow the rules of Chess, but beyond that have no special proficiency in Chess.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "cooking_contest": {
+        "Name": "Cooking Contest",
+        "Tagline": "a cooking contest",
+        "Description": "The winner of this competition is whoever can cook the best meal.",
+        "Link": "https://en.wikipedia.org/wiki/Food_competition",
+        "Rules": "- No interference with the other competitor is allowed.\n- Both competitors have access to any tools and ingredients, as long as neither either is the food or directly creates the food.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "dance_dance": {
+        "Name": "Dance Dance Revolution",
+        "Tagline": "a dance dance revolution match",
+        "Description": "The winner of this competition is whoever wins a round of Dance Dance Revolution",
+        "Link": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution",
+        "Rules": "- No interference with the other competitor is allowed.\n- Both competitors know how to play Dance Dance Revolution.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "dance_off": {
+        "Name": "Dance-Off",
+        "Tagline": "a dance-off",
+        "Description": "The winner of this competition is whoever can win a dance-off.",
+        "Link": "https://en.wiktionary.org/wiki/dance-off",
+        "Rules": "- No interference with the other competitor is allowed.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "deadlift": {
+        "Name": "Deadlift",
+        "Tagline": "a deadlift competition",
+        "Description": "The winner of this competition is whoever can deadlift the greatest amount of weight.",
+        "Link": "https://en.wikipedia.org/wiki/Deadlift",
+        "Rules": "- No interference with the other competitor is allowed.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "discus": {
+        "Name": "Discus",
+        "Tagline": "a discus competition",
+        "Description": "The winner of this competition is whoever can throw a discus the furthest.",
+        "Link": "https://en.wikipedia.org/wiki/Discus_throw",
+        "Rules": "- No interference with opponents.\n- The competitors get a flat area to stand on when throwing the discus.\n- Each competitor gets three attempts.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "dodgeball": {
+        "Name": "Dodgeball",
+        "Tagline": "a dodgeball match",
+        "Description": "The winner of this competition is whoever wins a dodgeball match.",
+        "Link": "https://en.wikipedia.org/wiki/Dodgeball",
+        "Rules": "- This match takes place in a school gym.\n- Neither competitor may pass over the half-court line.\n- The only weapon allowed is dodgeballs.\n- A competitor is out if they are hit with the ball and fail to catch it before it hits the floor, if a ball thrown by them is caught, or if they hit their opponent in the head.\n- If a competitor manages to score a basket on the opponent's basketball hoop, they win.\n- Competitors may use dodgeballs to block other dodgeballs.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "drinking_contest": {
+        "Name": "Drinking Contest",
+        "Tagline": "a drinking contest",
+        "Description": "The winner of this competition is the person who can drink the most shots in a row before passing out.",
+        "Link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/DrinkingContest",
+        "Rules": "- No interference with the other competitor is allowed.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "election_coup": {
+        "Name": "Presidential Election (Coup)",
+        "Tagline": "a presidential election (coup)",
+        "Description": "The winner of this contest is whoever can win a United States Presidential Election.",
+        "Link": "https://en.wikipedia.org/wiki/United_States_presidential_election",
+        "Rules": "- The winner is whoever holds the Oval Office by the end of the election period; either through legal or illegal means.\n- Both competitors start with no assests but have 50 million dollars to spend on the election.\n- Both candidates are magically allowed to run for the presidency; however, if they are later disqualified during the race, they automatically lose.\n- The election takes place during the most recent presidential election cycle.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "election_electoral": {
+        "Name": "Presidential Election (Electoral)",
+        "Tagline": "a presidential election (electoral college)",
+        "Description": "The winner of this contest is whoever can win a United States Presidential Election.",
+        "Link": "https://en.wikipedia.org/wiki/United_States_presidential_election",
+        "Rules": "- The winner is whoever wins the election through the Electoral College.\n- Both competitors start with no assests but have 50 million dollars to spend on the election.\n- No interfering directly with the competitor's election; indirect interference, such as mud slinging, is allowed.\n- No rigging of the results, through means such as bribery, is allowed. Claims of bribery or other illegal activities is allowed.\n- Both candidates are magically allowed to run for the presidency; however, if they are later disqualified during the race, they automatically lose.\n- The election takes place during the most recent presidential election cycle.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "election_losing": {
+        "Name": "Presidential Election (Losing)",
+        "Tagline": "losing a presidental election",
+        "Description": "The winner of this contest is whoever can lose a United States Presidential Election by the largest margin.",
+        "Link": "https://en.wikipedia.org/wiki/United_States_presidential_election",
+        "Rules": "- The winner is whoever loses the election by the largest margin through the Electoral College.\n- Both competitors start with no assests but have 50 million dollars to spend on the election.\n- No interfering directly with the competitor's election; indirect interference, such as mud slinging, is allowed.\n- No rigging of the results, through means such as bribery, is allowed. Claims of bribery or other illegal activities is allowed.\n- Both candidates are magically allowed to run for the presidency; however, if they are later disqualified during the race, they automatically lose.\n- The election takes place during the most recent presidential election cycle.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "election_mayoral": {
+        "Name": "Mayoral Election",
+        "Tagline": "a mayoral election",
+        "Description": "The winner of this competition is whoever can get more votes in the mayoral election in Portmagee, Ireland.",
+        "Link": "https://en.wikipedia.org/wiki/Portmagee",
+        "Rules": "- No interfering directly with the competitor's election; indirect interference, such as mud slinging, is allowed.\nNo rigging of the results, through means such as bribery, is allowed. Claims of bribery or other illegal activities is allowed.\nBoth candidates are magically allowed to run for the mayorship; however, if they are later disqualified during the race, they automatically lose.\n- The election takes place during the most recent mayoral election cycle.",
+        "Adjectives": "None",
+        "Locations": "portmagee",
+        "Weapons": "None"
+    },
+    "election_popular": {
+        "Name": "Presidential Election (Popular)",
+        "Tagline": "a presidential election (popular vote)",
+        "Description": "The winner of this contest is whoever can win a United States Presidential Election.",
+        "Link": "https://en.wikipedia.org/wiki/United_States_presidential_election",
+        "Rules": "- The winner is whoever wins the election's popular vote.\n- Both competitors start with no assests but have 50 million dollars to spend on the election.\n- No interfering directly with the competitor's election; indirect interference, such as mud slinging, is allowed.\n- No rigging of the results, through means such as bribery, is allowed. Claims of bribery or other illegal activities is allowed.\n- Both candidates are magically allowed to run for the presidency; however, if they are later disqualified during the race, they automatically lose.\n- The election takes place during the most recent presidential election cycle.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "election_superhuman": {
+        "Name": "Presidential Election (Superhuman)",
+        "Tagline": "a presidential election",
+        "Description": "The winner of this contest is whoever can win a United States Presidential Election.",
+        "Link": "https://en.wikipedia.org/wiki/United_States_presidential_election",
+        "Rules": "- The winner is whoever wins the election through the Electoral College.\n- Both competitors start with no assests but have 50 million dollars to spend on the election.\n- No interfering directly with the competitor's election; indirect interference, such as mud slinging, is allowed.\n- No rigging of the results, through means such as bribery, is allowed. Claims of bribery or other illegal activities is allowed.\n- Both candidates are magically allowed to run for the presidency; however, if they are later disqualified during the race, they automatically lose.\n- The election takes place during the most recent presidential election cycle.",
+        "Adjectives": "All",
+        "Locations": "None",
+        "Weapons": "All"
+    },
+    "fencing": {
+        "Name": "Fencing",
+        "Tagline": "a fencing match",
+        "Description": "The winner of this competition is whoever wins a standard fencing match.",
+        "Link": "LINK",
+        "Rules": "- Both opponents know and must follow the rules of fencing.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "fencing"
+    },
+    "first_to_become_saint": {
+        "Name": "First to Become a Saint",
+        "Tagline": "a race to become a Catholic Saint",
+        "Description": "The winner of this competition is the first person to be canonized or recognized as an official saint by the Catholic Church.",
+        "Link": "https://en.wikipedia.org/wiki/Canonization",
+        "Rules": "- If both contestants fail to become a saint after death, the round restarts, with both contestants having the memories of all previous runs.\n- Both contestants start in Vatican City.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "first_to_throw_one_ring": {
+        "Name": "First to Throw the One Ring in Mount Doom",
+        "Tagline": "a race to throw the One Ring in Mount Doom",
+        "Description": "The winner of this competition is the first person to travel across Middle-Earth from the Shire and drop the One Ring in Mt. Doom!",
+        "Link": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+        "Rules": "The person appears at Frodo Baggin's house in the Shire as Frodo prepares to leave.\n- The person has read the Lord of the Rings book series at least once and remembers the books.\n- In case of death, the person starts over from the beginning of the run with their memories intact.\n- No interference with opponent's run is allowed or even possible.\n- Nobody recognizes or will give special assistance to any famous people.\n- The person magically has the One Ring, and has a Hobbit's natural resistance to the possession of the ring (using Frodo Baggins as a benchmark).\n- In order to win, the person must be the one to drop the One Ring into Mount Doom- it counts as invalid if any other character from the books does it.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "holding_breath_underwater": {
+        "Name": "Holding Breath Underwater",
+        "Tagline": "a holding your breath underwater competition",
+        "Description": "The winner of this competition is whoever can hold their breath underwater for a longer period.",
+        "Link": "https://en.wikipedia.org/wiki/Static_apnea",
+        "Rules": "- No interference with opponent is allowed.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "jeopardy": {
+        "Name": "Jeopardy",
+        "Tagline": "a game of Jeopardy",
+        "Description": "The winner of this competition is whichever competitor has a highest score after a game of Jeopardy, hosted by Alex Trebeck.",
+        "Link": "https://en.wikipedia.org/wiki/Jeopardy!",
+        "Rules": "- No interference between contestants is allowed.\n- Both participants can see each other's scores.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "karaoke_contest": {
+        "Name": "Karaoke",
+        "Tagline": "a Karaoke contest",
+        "Description": "The winner of this competition is whoever can best perform Sweet Caroline by Neil Diamond.",
+        "Link": "https://en.wikipedia.org/wiki/Karaoke",
+        "Rules": "- No interference with competitor's song.\n- Song must be sung from start to finish.\n- Both competitors have heard the song and know how it should be sung.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "krispy_kreme_challenge": {
+        "Name": "Krispy Kreme Challenge",
+        "Tagline": "the Krispy Kreme Challenge",
+        "Description": "The winner of this competition is whoever places higher in the Krispy Kreme Challenge.",
+        "Link": "http://krispykremechallenge.com/#intro",
+        "Rules": "- No interference with the other competitor's race.\n- Both participants must successfully consume all dozen doughnuts.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "lasting_longer_bachelor": {
+        "Name": "The Bachelor",
+        "Tagline": "The Bachelor",
+        "Description": "The winner of this competition is whoever lasts longer in The Bachelor.",
+        "Link": "https://en.wikipedia.org/wiki/The_Bachelorette",
+        "Rules": "- The Bachelor feels romantic/sexual attraction for each competitor's gender.\n- Both competitors must follow the rules of The Bachelor.\n- The Bachelor is the most recent star of the show.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "life_speedrun": {
+        "Name": "Life Speedrun",
+        "Tagline": "a Life Speedrun starting",
+        "Description": "The winner of this competition is whoever can get a driver's license, get a college degree, get married, have a child, and die in the shortest timeframe.",
+        "Link": "https://www.youtube.com/watch?v=WzyUcXR05Z4",
+        "Rules": "- No interference with competitor's run.\n- Illegal activities are allowed.\n- Both competitors can speak English.",
+        "Adjectives": "None",
+        "Locations": "life_speedrun",
+        "Weapons": "None"
+    },
+    "mahjong": {
+        "Name": "Mahjong",
+        "Tagline": "a game of Mahjong",
+        "Description": "The winner of this competition is whoever can win a game of Mahjong.",
+        "Link": "https://en.wikipedia.org/wiki/Mahjong",
+        "Rules": "- No interference with other competitors is allowed.\n- Each competitor must follow all the rules of Mahjong.\n- Each competitor magically knows and can follow the rules of Mahjong, but beyond that has no special proficiency in Mahjong.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "mario_party": {
+        "Name": "Mario Party",
+        "Tagline": "a game of Mario Party",
+        "Description": "The winner of this competition is whoever wins a game of Mario Party on a random board.",
+        "Link": "https://en.wikipedia.org/wiki/Mario_Party_10",
+        "Rules": "- No interference with the other competitor is allowed.\n- Both competitors know how to use the controller, understand the rules of Mario Party, and understand the rules for each minigame.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "mile_race_classic": {
+        "Name": "Mile Race (Classic)",
+        "Tagline": "a mile race (classic)",
+        "Description": "The winner of this competition is the first person to run one mile total.",
+        "Link": "https://en.wikipedia.org/wiki/Racing",
+        "Rules": "No interfering with opponent.",
+        "Adjectives": "All",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "mile_race_interference": {
+        "Name": "Mile Race (Interference)",
+        "Tagline": "a mile race (interference)",
+        "Description": "The winner of this competition is the first person to run one mile total.",
+        "Link": "https://en.wikipedia.org/wiki/Racing",
+        "Rules": "Any interference with opponents is allowed.",
+        "Adjectives": "All",
+        "Locations": "All",
+        "Weapons": "All"
+    },
+    "minecraft_bedwars": {
+        "Name": "Minecraft Bedwars",
+        "Tagline": "a game of Minecraft Bedwars",
+        "Description": "The winner of this competition is whoever can win a round of 1v1 Minecraft Bedwars.",
+        "Link": "https://hypixel.fandom.com/wiki/Bed_Wars",
+        "Rules": "- Both competitors understand the controls and rules for Bedwars. \n- Each competitor has a perfect internet connection and a high-end gaming computer with which to play Bedwars.\n- Neither competitor can interfere with the other outside of the game.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "minecraft_speedrun": {
+        "Name": "Minecraft Speedrun",
+        "Tagline": "a Minecraft Speedrun",
+        "Description": "The winner of this competition is whoever can complete Minecraft in the fastest time.",
+        "Link": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+        "Rules": "- Both competitors understand the controls for Minecraft.\n- Each competitor has a perfect computer with which to play Minecraft.\n- Neither competitor can interfere with the other.\n- The speedrunning category is glitchless and random seed.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "minigolf": {
+        "Name": "Minigolf",
+        "Tagline": "a game of Minigolf",
+        "Description": "The winner of this competition is whoever gets the best score in a round of minigolf.",
+        "Link": "https://en.wikipedia.org/wiki/Miniature_golf",
+        "Rules": "- The Mini Golf takes place on a mini golf course themed around the location.\n- Both competitors know and mut follow the rules of mini golf.\n- No interference with opponents is allowed.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "monopoly": {
+        "Name": "Monopoly",
+        "Tagline": "a game of Monopoly",
+        "Description": "The winner of this competition is whoever wins a game of Monopoly.",
+        "Link": "https://en.wikipedia.org/wiki/Monopoly_(game)",
+        "Rules": "- No interference with competitors is allowed outside of the game.\n- Both competitors know and must follow the rules of Monopoly.\n- No house rules- official Monopoly rules only.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "pie_eating": {
+        "Name": "Pie Eating Contest",
+        "Tagline": "a pie eating contest",
+        "Description": "The winner of this competition is whoever can consume their meat and potato pie faster.",
+        "Link": "https://en.wikipedia.org/wiki/World_Pie_Eating_Championship",
+        "Rules": "- No interfering with the opponent.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "pillow_fight_powered": {
+        "Name": "Pillow Fight",
+        "Tagline": "a pillow fight",
+        "Description": "DESCRIPTION",
+        "Link": "https://en.wikipedia.org/wiki/Pillow_fight",
+        "Rules": "- The winner of the pillow fight is whoever gets in less trouble when both contestants' parents break up the fight.\n- Assume both contestants and their parents can understand the other contestant and their parents.\n- Assume that both contestants are ignorant of the victory conditions, and are instead attempting to win the pillow fight.",
+        "Adjectives": "All",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "pillow_fight_standard": {
+        "Name": "Pillow Fight",
+        "Tagline": "a pillow fight",
+        "Description": "The winner of this competition is whoever can win a pillow fight.",
+        "Link": "https://en.wikipedia.org/wiki/Pillow_fight",
+        "Rules": "- The winner of the pillow fight is whoever gets in less trouble when both contestants' parents break up the fight.\n- Assume both contestants and their parents can understand the other contestant and their parents.\n- Assume that both contestants are ignorant of the victory conditions, and are instead attempting to win the pillow fight.",
+        "Adjectives": "All",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "pole_vault": {
+        "Name": "Pole Vault",
+        "Tagline": "a pole vaulting competition",
+        "Description": "The winner of this competition is whoever can clear a higher bar in a standard pole vaulting competition..",
+        "Link": "https://en.wikipedia.org/wiki/Pole_vault",
+        "Rules": "- Neither competitor is ever injured.\n- If both competitors fail to clear the entry bar on their original attempt, whoever clears the entry bar first wins.\n- No interference with opponents is allowed.\n- Both competitors must follow the rules of pole vault.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "pumpkin_carving": {
+        "Name": "Pumpkin Carving",
+        "Tagline": "a pumpkin carving competition",
+        "Description": "The winner of this contest is whoever can carve a more artistic pumpkin.",
+        "Link": "https://en.wikipedia.org/wiki/Jack-o'-lantern",
+        "Rules": "- Both competitors know what a carved pumpkin looks like, and understand the tools they are given.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "race_walking": {
+        "Name": "Race Walking",
+        "Tagline": "a race walking competition",
+        "Description": "The winner of this contest is whoever wins in a Racewalking competition. Racewalking, or race walking, is a long-distance discipline within the sport of athletics. Although a foot race, it is different from running in that one foot must appear to be in contact with the ground at all times. This is assessed by race judges. Typically held on either roads or running tracks, common distances range from 3,000 metres (1.9 mi) up to 100 kilometres (62.1 mi).",
+        "Link": "https://en.wikipedia.org/wiki/Racewalking",
+        "Rules": "- No interference with opponent is allowed.\n- Both competitors must follow the Olympic rules of racewalking.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "rap_battle": {
+        "Name": "a rap battle",
+        "Tagline": "a rap battle",
+        "Description": "The winner of this competition is whoever performs better in a rap battle.",
+        "Link": "https://en.wikipedia.org/wiki/Battle_rap",
+        "Rules": "- Both contestants must follow the rules of a rap battle.\n- Physical contact is not allowed.\n- Both competitors can understand each other.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "shouting_match": {
+        "Name": "Shouting Match",
+        "Tagline": "a shouting match",
+        "Description": "The winner of this competition is whoever can yell the loudest, measured in decibels.",
+        "Link": "https://en.wikipedia.org/wiki/Screaming",
+        "Rules": "- No interfering with opponent.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "staring_contest": {
+        "Name": "Staring Contest",
+        "Tagline": "a staring contest",
+        "Description": "The winner of this contest is whoever can win a staring contest by not looking away or blinking first.",
+        "Link": "https://en.wikipedia.org/wiki/Staring#Staring_contests",
+        "Rules": "- No physical contact is allowed.\n- Both competitors must stare into each other's eyes until forced to stop.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    },
+    "sumo_classic": {
+        "Name": "Sumo Wrestling",
+        "Tagline": "a sumo wrestling match",
+        "Description": "The winner of this contest is whoever can win in a match of sumo wrestling.",
+        "Link": "https://en.wikipedia.org/wiki/Sumo",
+        "Rules": "- Both competitors must follow all the rules of Sumo Wrestling.\n- Both competitors know the rules of Sumo Wrestling.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "None"
+    },
+    "sumo_inflatable": {
+        "Name": "Inflatable Sumo Wrestling",
+        "Tagline": "a sumo wrestling match",
+        "Description": "The winner of this contest is whoever can win in a match of sumo wrestling while wearing an inflatable bodysuit.",
+        "Link": "https://en.wikipedia.org/wiki/Sumo",
+        "Rules": "- Both competitors must follow all the rules of Sumo Wrestling.\n- Both competitors know the rules of Sumo Wrestling.",
+        "Adjectives": "None",
+        "Locations": "All",
+        "Weapons": "sumo_inflatable"
+    },
+    "super_smash_bros": {
+        "Name": "Super Smash Brothers",
+        "Tagline": "a match of Super Smash Brothers",
+        "Description": "The winner of this competition is the winner of a round of Super Smash Bros. Ultimate.",
+        "Link": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+        "Rules": "- Best of 5 matches.\n- Stock Battle with 3 Lives.\n- 8:00 Time Limit.\n- Random Stage Selection.\n- All Items.\n- Neither competitor gets to choose their fighter- they must select random.\n- Otherwise, tournament rules apply.",
+        "Adjectives": "None",
+        "Locations": "None",
+        "Weapons": "None"
+    }
+}

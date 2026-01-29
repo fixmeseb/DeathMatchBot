@@ -1,0 +1,74 @@
+{
+    "boiled": {
+        "Name": "boiled",
+        "Tagline": "boiled ",
+        "Description": "to have been boiled in hot water.",
+        "Link": "https://www.dictionary.com/browse/boiled"
+    },
+    "crafted": {
+        "Name": "crafted",
+        "Tagline": "crafted ",
+        "Description": "to have been created in a system, such as in Minecraft.",
+        "Link": "https://www.dictionary.com/browse/crafted"
+    },
+    "deep_fried": {
+        "Name": "deep-fried",
+        "Tagline": "deep-fried ",
+        "Description": "to have been deep fried.",
+        "Link": "https://www.dictionary.com/browse/deep-fried"
+    },
+    "fried": {
+        "Name": "fried",
+        "Tagline": "fried ",
+        "Description": "to have been fried.",
+        "Link": "https://www.dictionary.com/browse/fried"
+    },
+    "hewn": {
+        "Name": "hewn",
+        "Tagline": "hewn ",
+        "Description": "to have been hewn, especially as from stone.",
+        "Link": "https://www.dictionary.com/browse/hewn"
+    },
+    "pan_fried": {
+        "Name": "pan-fried",
+        "Tagline": "pan-fried ",
+        "Description": "to have been pan-fried.",
+        "Link": "https://www.dictionary.com/browse/pan-fried"
+    },
+    "peeled": {
+        "Name": "peeled",
+        "Tagline": "peeled ",
+        "Description": "to have been peeled.",
+        "Link": "https://www.dictionary.com/browse/peeled"
+    },
+    "rebuilt": {
+        "Name": "rebuilt",
+        "Tagline": "rebuilt ",
+        "Description": "to have been rebuilt.",
+        "Link": "https://www.dictionary.com/browse/rebuilt"
+    },
+    "rolled": {
+        "Name": "rolled",
+        "Tagline": "rolled ",
+        "Description": "to have been rolled.",
+        "Link": "https://www.dictionary.com/browse/rolled"
+    },
+    "smelted": {
+        "Name": "smelted",
+        "Tagline": "smelted ",
+        "Description": "to have been smelted in a furnace.",
+        "Link": "https://www.dictionary.com/browse/smelted"
+    },
+    "welded": {
+        "Name": "welded",
+        "Tagline": "welded ",
+        "Description": "to have been welded.",
+        "Link": "https://www.dictionary.com/browse/welded"
+    },
+    "wok_fried": {
+        "Name": "wok-fried",
+        "Tagline": "wok-fried ",
+        "Description": "to have been fried in a wok.",
+        "Link": "https://www.dictionary.com/browse/wok-fried"
+    }
+}

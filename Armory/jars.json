@@ -1,0 +1,23 @@
+{
+    "bees": {
+        "Name": "jar of angry bees",
+        "Tagline": "a jar of angry bees",
+        "Description": "A jar of angry bees is exactly what it sounds like: a jar of angry bees.",
+        "Link": "https://i.imgur.com/uMZ3l5f.jpg",
+        "Image": "https://i.pinimg.com/originals/7f/67/8d/7f678d71c0654fa9271070785652402d.jpg"
+    },
+    "hornets": {
+        "Name": "jar of indifferent murder hornets",
+        "Tagline": "a jar of indifferent murder hornets",
+        "Description": "A jar of indifferent murder hornets is a jar full of indifferent murder hornets. What, were you expecting something clever?",
+        "Link": "https://i.imgur.com/zVWRn6i.jpg",
+        "Image": "https://en.wikipedia.org/wiki/Asian_giant_hornet"
+    },
+    "wasps": {
+        "Name": "jar of slightly annoyed wasps",
+        "Tagline": "a jar of slightly annoyed wasps",
+        "Description": "A jar of slightly annoyed wasps is a jar filled with slightly annoyed wasps. I don't get paid enough to write these, okay?",
+        "Link": "https://i.imgur.com/HH2VxmM.jpg",
+        "Image": "https://c8.alamy.com/comp/BD8X12/wasps-caught-in-jar-filled-with-sugar-and-water-BD8X12.jpg"
+    }
+}

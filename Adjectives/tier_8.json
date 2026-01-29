@@ -1,0 +1,32 @@
+{
+    "bottled": {
+        "Name": "bottled",
+        "Tagline": "bottled ",
+        "Description": "to be have been trapped in a bottle.",
+        "Link": "https://www.dictionary.com/browse/bottled"
+    },
+    "boxed": {
+        "Name": "boxed",
+        "Tagline": "boxed ",
+        "Description": "to be have been trapped in a box.",
+        "Link": "https://www.dictionary.com/browse/boxed"
+    },
+    "caged": {
+        "Name": "caged",
+        "Tagline": "caged ",
+        "Description": "to be have been trapped in a cage.",
+        "Link": "https://www.dictionary.com/browse/caged"
+    },
+    "canned": {
+        "Name": "canned",
+        "Tagline": "canned ",
+        "Description": "to be have been trapped in a can.",
+        "Link": "https://www.dictionary.com/browse/canned"
+    },
+    "gift_wrapped": {
+        "Name": "gift wrapped",
+        "Tagline": "gift wrapped ",
+        "Description": "to be have been wrapped in gift wrapping paper.",
+        "Link": "https://www.dictionary.com/browse/gift-wrapped"
+    }
+}

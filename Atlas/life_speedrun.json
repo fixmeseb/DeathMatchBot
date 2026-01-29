@@ -1,0 +1,79 @@
+{
+    "kosciusko": {
+        "Name": "Kosciusko, St. Louis",
+        "Tagline": " in Kosciusko, St. Louis",
+        "Description": "Kosciusko (Pronounced: kuh-SHOO-sco) is a mostly non-residential neighborhood located in St. Louis, Missouri. It begins at the Mississippi River front in the east and goes up to 7th Boulevard and 8th Street in the west. Interstate 55 is a northern border, and St. George and Dorcas Streets border the south of this neighborhood. Kosciusko is named in honor of Tadeusz Kościuszko, an American Revolutionary war general of Polish descent.",
+        "Image": "https://i.imgur.com/WllKyE3.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Kosciusko,_St._Louis"
+    },
+    "buckingham_palace": {
+        "Name": "Buckingham Palace",
+        "Tagline": " in Buckingham Palace",
+        "Description": "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning. The palace has 775 rooms, and the garden is the largest private garden in London. The state rooms, used for official and state entertaining, are open to the public each year for most of August and September and on some days in winter and spring.",
+        "Image": "https://i.imgur.com/RJVlqny.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Buckingham_Palace"
+    },
+    "mcdonalds": {
+        "Name": "a McDonald's",
+        "Tagline": " in a McDonald's",
+        "Description": "McDonald's Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+        "Image": "https://i.imgur.com/reNLykz.jpg",
+        "Link": "https://en.wikipedia.org/wiki/McDonald%27s"
+    },
+    "costco": {
+        "Name": "a Costco",
+        "Tagline": " in a Costco",
+        "Description": "Costco Wholesale Corporation (trading as Costco) is an American multinational corporation which operates a chain of membership-only warehouse clubs. As of 2015, Costco was the second largest retailer in the world after Walmart, and the world's largest retailer of choice and prime beef, organic foods, rotisserie chicken, and wine as of 2016. In 2019, Costco was ranked #14 on the Fortune 500 rankings of the largest United States corporations by total revenue.",
+        "Image": "https://i.imgur.com/LSsl7n3.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Costco"
+    },
+    "white_house": {
+        "Name": "The White House",
+        "Tagline": " in the White House",
+        "Description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800. The modern-day White House complex includes the Executive Residence, West Wing, East Wing, the Eisenhower Executive Office Building—the former State Department, which now houses offices for the president's staff and the vice president—and Blair House, a guest residence. The Executive Residence is made up of six stories—the Ground Floor, State Floor, Second Floor, and Third Floor, as well as a two-story basement. The property is a National Heritage Site owned by the National Park Service and is part of the President's Park. In 2007, it was ranked second on the American Institute of Architects list of 'America's Favorite Architecture'. Floor area: 55,000 sq ft (5,100 m2).",
+        "Image": "https://i.imgur.com/px87q9n.jpg",
+        "Link": "https://en.wikipedia.org/wiki/White_House"
+    },
+    "statue_of_liberty": {
+        "Name": "The Statue of Liberty",
+        "Tagline": " on the Statue of Liberty",
+        "Description": "The Statue of Liberty (Liberty Enlightening the World) is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frederic Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886. Height: Height of copper statue (to torch): 151 feet 1 inch (46 meters), From ground level to torch: 305 feet 1 inch (93 meters)",
+        "Image": "https://i.imgur.com/QfUzlyc.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    "sahara": {
+        "Name": "The Sahara Desert",
+        "Tagline": " in the middle of the Sahara Desert",
+        "Description": "The Sahara is a desert on the African continent. With an area of 9,200,000 square kilometres, it is the largest hot desert in the world and the third largest desert overall, smaller only than the deserts of Antarctica and the Arctic.",
+        "Image": "https://i.imgur.com/O4P9jj8.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Sahara"
+    },
+    "eiffel_tower": {
+        "Name": "The Eiffel Tower",
+        "Tagline": " on The Eiffel Tower",
+        "Description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. The tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris. Its base is square, measuring 125 metres (410 ft) on each side. During its construction, the Eiffel Tower surpassed the Washington Monument to become the tallest man-made structure in the world, a title it held for 41 years until the Chrysler Building in New York City was finished in 1930. It was the first structure to reach a height of 300 m. Due to the addition of a broadcasting aerial at the top of the tower in 1957, it is now taller than the Chrysler Building by 5.2 metres (17 ft). Excluding transmitters, the Eiffel Tower is the second tallest free-standing structure in France after the Millau Viaduct.",
+        "Image": "https://i.imgur.com/FjclBtF.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    "north_pole": {
+        "Name": "The Center of the North Pole",
+        "Tagline": " at the center of the north pole",
+        "Description": "The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where the Earth's axis of rotation meets its surface. It is called the True North Pole to distinguish from the Magnetic North Pole.",
+        "Image": "https://i.imgur.com/d32SE7Z.jpg",
+        "Link": "https://en.wikipedia.org/wiki/North_Pole"
+    },
+    "new_york_city": {
+        "Name": "New York City",
+        "Tagline": " in New York City",
+        "Description": "New York City (NYC), often called simply New York, is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York City is also the most densely populated major city in the United States. Located at the southern tip of the U.S. state of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass. With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations, New York is an important center for international diplomacy.",
+        "Image": "https://i.imgur.com/U7ilRUM.jpg",
+        "Link": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    "portmagee": {
+        "Name": "Portmagee, Ireland",
+        "Tagline": " in Portmagee, Ireland",
+        "Description": "Portmagee is a village in County Kerry, Ireland. The village is located on the Iveragh peninsula south of Valentia Island, and is known locally as 'the ferry', in reference to its purpose as a crossing point to the island. Access to Valentia Island is now via the Maurice O'Neill Memorial Bridge from Portmagee, which was built in 1970 and named in memory of a member of the IRA executed in 1942 for his part in the shooting dead of Detective George Mordaunt in Dublin.",
+        "Image": "https://i.imgur.com/KXIaPTF.jpg",
+        "Link": "https://en.wikipedia.org/wiki/Portmagee"
+    }
+}

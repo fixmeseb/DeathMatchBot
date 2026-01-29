@@ -1,0 +1,149 @@
+{
+    "bayonet": {
+        "Name": "bayonet",
+        "Tagline": "a bayonet",
+        "Description": "a blade that may be fixed to the muzzle of a rifle and used to stab an opponent in hand-to-hand fighting.",
+        "Link": "https://en.wikipedia.org/wiki/Bayonet",
+        "Image": "https://imgur.com/qhmah0C"
+    },
+    "chainsaw": {
+        "Name": "chainsaw",
+        "Tagline": "a chainsaw",
+        "Description": "A chainsaw (or chain saw) is a portable gasoline-, electric-, or battery-powered saw that cuts with a set of teeth attached to a rotating chain driven along a guide bar. It is used in activities such as tree felling, limbing, bucking, pruning, cutting firebreaks in wildland fire suppression, and harvesting of firewood.",
+        "Link": "https://en.wikipedia.org/wiki/Chainsaw",
+        "Image": "https://i.imgur.com/BRChbqG.jpg"
+    },
+    "claymore": {
+        "Name": "claymore",
+        "Tagline": "a claymore",
+        "Description": "A claymore is either the Scottish variant of the late medieval two-handed sword or the Scottish variant of the basket-hilted sword. The former is characterised as having a cross hilt of forward-sloping quillons with quatrefoil terminations and was in use from the 15th to 17th centuries.",
+        "Link": "https://en.wikipedia.org/wiki/Claymore",
+        "Image": "https://i.imgur.com/Cezhjfo.jpg"
+    },
+    "falchion": {
+        "Name": "falchion",
+        "Tagline": "a falchion",
+        "Description": "A falchionis a one-handed, single-edged sword of European origin, whose design is reminiscent of the modern machete. Falchions are found in different forms from around the 13th century up to and including the 16th century. In some versions the falchion looks rather like the seax and later the sabre, and in other versions the form is irregular or like a machete with a crossguard.",
+        "Link": "https://en.wikipedia.org/wiki/Falchion",
+        "Image": "https://i.imgur.com/jOyXpbp.jpg"
+    },
+    "fencing_foil": {
+        "Name": "fencing foil",
+        "Tagline": "a fencing foil",
+        "Description": "A foil is one of the three weapons used in the sport of fencing, all of which are metal. It is flexible, rectangular in cross section, and weighs under a pound. As with the épée, points are only scored by contact with the tip, which, in electrically scored tournaments, is capped with a spring-loaded button to signal a touch. A foil fencer's uniform features the lamé (a vest, electrically wired to record hits). The foil is the most commonly used weapon in competition.",
+        "Link": "https://en.wikipedia.org/wiki/Foil_(fencing)",
+        "Image": "https://i.imgur.com/yJmHoMX.jpg"
+    },
+    "glaive": {
+        "Name": "glaive",
+        "Tagline": "a glaive",
+        "Description": "A glaive (or glave) is a European polearm, consisting of a single-edged blade on the end of a pole. It is similar to the Japanese naginata, the Chinese guandao and pudao, the Korean woldo, the Russian sovnya and the Siberian palma.",
+        "Link": "https://en.wikipedia.org/wiki/Glaive",
+        "Image": "https://i.imgur.com/XAllYeF.jpg"
+    },
+    "greataxe": {
+        "Name": "greataxe",
+        "Tagline": "a greataxe",
+        "Description": "A greataxe is a military two-handed melee weapon in the axe weapon group.",
+        "Link": "https://en.wikipedia.org/wiki/Battle_axe",
+        "Image": "https://i.imgur.com/dVx6L9Q.png"
+    },
+    "guandao": {
+        "Name": "guandao",
+        "Tagline": "a guandao",
+        "Description": "A guandao is a type of Chinese pole weapon that is used in some forms of Chinese martial arts. In Chinese, it is properly called a yanyuedao , the name under which it always appears in texts from the Song to Qing dynasties such as the Wujing Zongyao and Huangchao Liqi Tushi. It is comparable to the Japanese naginata and the European fauchard or glaive and consists of a heavy blade with a spike at the back and sometimes also a notch at the spike's upper base that can catch an opponent's weapon. In addition there are often irregular serrations that lead the back edge of the blade to the spike. The blade is mounted atop a 1.5 m to 1.8 m (5–6 foot) long wooden or metal pole with a pointed metal counter weight used to balance the heavy blade and for striking on the opposite end.",
+        "Link": "https://en.wikipedia.org/wiki/Guandao",
+        "Image": "https://i.imgur.com/9JykVY1.jpg"
+    },
+    "halberd": {
+        "Name": "halberd",
+        "Tagline": "a halberd",
+        "Description": "A halberd (also called halbard, halbert or Swiss voulge) is a two-handed pole weapon that came to prominent use during the 14th, 15th, and 16th centuries. The word halberd is most likely equivalent to the German word Hellebarde, deriving from Middle High German halm (handle) and barte (battleaxe) joint to helmbarte. Troops that used the weapon are called halberdiers.",
+        "Link": "https://en.wikipedia.org/wiki/Halberd",
+        "Image": "https://i.imgur.com/VMtSK3l.jpg"
+    },
+    "hatchet": {
+        "Name": "hatchet",
+        "Tagline": "a hatchet",
+        "Description": "A hatchet is a single-handed striking tool with a sharp blade on one side used to cut and split wood, and a hammerhead on the other side. Hatchets may also be used for hewing when making flattened surfaces on logs; when the hatchet head is optimized for this purpose it is called a hewing hatchet.",
+        "Link": "https://en.wikipedia.org/wiki/Hatchet",
+        "Image": "https://i.imgur.com/6GrPhk7.jpg"
+    },
+    "hot_poker": {
+        "Name": "hot poker",
+        "Tagline": "a hot poker",
+        "Description": "A fireplace poker, (also known as a fire iron) is a short, rigid rod made of fireproof material used to adjust coal and wood fuel burning in a fireplace, and can be used to stir up a fire. A fireplace poker is usually metallic and has a point at one end for pushing burning materials (or a hook for pulling/raking, or a combination) and a handle at the opposite end, sometimes with an insulated grip. Iron is the most popular metal from which the pokers are wrought. Brass is a more expensive alternative for a home poker set.",
+        "Link": "https://en.wikipedia.org/wiki/Fire_iron",
+        "Image": "https://i.imgur.com/8EMV3sM.jpg"
+    },
+    "katana": {
+        "Name": "katana",
+        "Tagline": "a katana",
+        "Description": "A katana is a Japanese sword characterized by a curved, single-edged blade with a circular or squared guard and long grip to accommodate two hands. It was used by the samurai of haunted and feudal Japan.",
+        "Link": "https://en.wikipedia.org/wiki/Katana",
+        "Image": "https://i.imgur.com/lAgwD2a.jpg"
+    },
+    "longsword": {
+        "Name": "longsword",
+        "Tagline": "a longsword",
+        "Description": "A longsword (also spelled as long sword or long-sword) is a type of European sword characterized as having a cruciform hilt with a grip for two-handed use (around 16 to 28 cm or 6 to 11 in), a straight double-edged blade of around 85 to 110 cm (33 to 43 in), and weighing approximately 1 to 1.5 kg (2 lb 3 oz to 3 lb 5 oz).",
+        "Link": "https://en.wikipedia.org/wiki/Longsword",
+        "Image": "https://i.imgur.com/kia4XQI.png"
+    },
+    "machete": {
+        "Name": "machete",
+        "Tagline": "a machete",
+        "Description": "A machete is a broad blade used either as an agricultural implement similar to an axe, or in combat like a long-bladed knife. The blade is typically 30 to 45 centimetres (12 to 18 in) long and usually under 3 millimetres (0.12 in) thick. In the Spanish language, the word is a diminutive form of the word macho, which was used to refer to sledgehammers. In the English language, an equivalent term is matchet, though it is less commonly used. In the English-speaking Caribbean, such as Jamaica, Barbados, Guyana, and Grenada and in Trinidad and Tobago, the term cutlass is used for these agricultural tools.",
+        "Link": "https://en.wikipedia.org/wiki/Machete",
+        "Image": "https://i.imgur.com/hQpiiCH.jpg"
+    },
+    "morningstar": {
+        "Name": "morningstar",
+        "Tagline": "a morningstar",
+        "Description": "A morning star is any of several medieval club-like weapons consisting of a shaft with an attached ball adorned with one or more spikes. Each used, to varying degrees, a combination of blunt-force and puncture attack to kill or wound the enemy.",
+        "Link": "https://en.wikipedia.org/wiki/Morning_star_(weapon)",
+        "Image": "https://i.imgur.com/H9cTDYn.jpg"
+    },
+    "pike_weapon": {
+        "Name": "pike",
+        "Tagline": "a pike (weapon)",
+        "Description": "A pike is a pole weapon, a very long thrusting spear formerly used extensively by infantry. Pikes were used regularly in European warfare from the Late Middle Ages to the early 18th century, and were wielded by foot soldiers deployed in close quarters, until it was replaced by rifles, which had a longer range, and to which a bayonet could be attached. The pike found extensive use with Landsknecht armies and Swiss mercenaries, who employed it as their main weapon and used it in pike square formations. A similar weapon, the sarissa, was also used by Alexander the Great's Macedonian phalanx infantry to great effect. Generally, a spear becomes a pike when it is too long to be wielded with one hand in combat.",
+        "Link": "https://en.wikipedia.org/wiki/Pike_(weapon)",
+        "Image": "https://i.imgur.com/bkjfAct.jpg"
+    },
+    "trident_net": {
+        "Name": "trident and net",
+        "Tagline": "a trident and net",
+        "Description": "A retiarius (plural retiarii; literally, 'net-man' in Latin) was a Roman gladiator who fought with equipment styled on that of a fisherman: a weighted net (rete (3rd decl.), hence the name), a three-pointed trident (fuscina or tridens), and a dagger (pugio). The retiarius was lightly armoured, wearing an arm guard (manica) and a shoulder guard (galerus). Typically, his clothing consisted only of a loincloth (subligaculum) held in place by a wide belt, or of a short tunic with light padding. He wore no head protection or footwear.",
+        "Link": "https://en.wikipedia.org/wiki/Retiarius",
+        "Image": "https://i.imgur.com/mW2FkJu.jpg"
+    },
+    "warhammer": {
+        "Name": "war hammer",
+        "Tagline": "a war hammer",
+        "Description": "A war hammer was a long-handled weapon used by foot-soldiers, especially in the defense of fortified walls and in action against mounted men-at-arms. It is a very ancient weapon and gave its name, owing to its constant use, to one of the rulers of France. In the fifteenth and sixteenth centuries the war hammer became an elaborately decorated and handsome weapon.",
+        "Link": "https://en.wikipedia.org/wiki/War_hammer",
+        "Image": "https://i.imgur.com/YV9dJHB.jpg"
+    },
+    "joyeuse_unmagic": {
+        "Name": "Joyeuse (not magical)",
+        "Tagline": "Joyeuse (not magical)",
+        "Description": "Joyeuse was, in medieval legend, the sword wielded by Charlemagne as his personal weapon. The name means 'joyous'. A sword identified as Joyeuse was used in French royal coronation ceremonies since the 13th century, and is now kept at the Louvre museum.",
+        "Link": "https://en.wikipedia.org/wiki/Joyeuse",
+        "Image": "https://i.imgur.com/Ye2W3m2.jpg"
+    },
+    "diamond_sword": {
+        "Name": "diamond sword",
+        "Tagline": "a diamond sword",
+        "Description": "A sword is a melee weapon, that is mainly used to deal damage to mobs and/or players. Swords are also useful for mining cobwebs and bamboo. A sword is made from one of six materials, in order of increasing quality and expense: wood, stone, gold, iron, diamond, and netherite.",
+        "Link": "https://minecraft.wiki/w/Diamond_Sword",
+        "Image": "https://i.imgur.com/4RZNQMl.jpg"
+    },
+    "bear_hands": {
+        "Name": "their bear hands",
+        "Tagline": "their bear hands (replacing original hands)",
+        "Description": "Bears are renowned for having big sharp claws and are often sensationalized in movies, magazines, and books as using those claws primarily as a weapon to savagely rip apart anything that gets in their way. In reality though, bears use their claws for a wide variety of purposes, many of which are not quite so dramatic. A bear’s paw is incredibly dexterous, and they can use their claws much like we humans use our fingers, that is, for a wide variety of finely detailed tasks. Bears can do things like delicately pick up and manipulate small food items and skin fish with great precision. Bear claws are also designed for activities such as digging…and lots of it! Bears dig holes to bury portions of food that they find or kill to eat later…known as a bear food cache…they tear up the ground looking for roots and rodents, and they also move tons of dirt while preparing their winter dens. In a similar manner, bears use their claws to rip open tree stumps to look for insects to eat as well as digging around on beaches and other areas where a potential meal may be buried.",
+        "Link": "https://en.wikipedia.org/wiki/Claw",
+        "Image": "https://i.imgur.com/aMnE00v.jpg"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "bayonet": {
+        "Name": "bayonet",
+        "Tagline": "a bayonet",
+        "Description": "a blade that may be fixed to the muzzle of a rifle and used to stab an opponent in hand-to-hand fighting.",
+        "Link": "https://en.wikipedia.org/wiki/Bayonet",
+        "Image": "https://imgur.com/qhmah0C"
+    },
+    "claymore": {
+        "Name": "claymore",
+        "Tagline": "a claymore",
+        "Description": "A claymore is either the Scottish variant of the late medieval two-handed sword or the Scottish variant of the basket-hilted sword. The former is characterised as having a cross hilt of forward-sloping quillons with quatrefoil terminations and was in use from the 15th to 17th centuries.",
+        "Link": "https://en.wikipedia.org/wiki/Claymore",
+        "Image": "https://i.imgur.com/Cezhjfo.jpg"
+    },
+    "falchion": {
+        "Name": "falchion",
+        "Tagline": "a falchion",
+        "Description": "A falchionis a one-handed, single-edged sword of European origin, whose design is reminiscent of the modern machete. Falchions are found in different forms from around the 13th century up to and including the 16th century. In some versions the falchion looks rather like the seax and later the sabre, and in other versions the form is irregular or like a machete with a crossguard.",
+        "Link": "https://en.wikipedia.org/wiki/Falchion",
+        "Image": "https://i.imgur.com/jOyXpbp.jpg"
+    },
+    "fencing_foil": {
+        "Name": "fencing foil",
+        "Tagline": "a fencing foil",
+        "Description": "A foil is one of the three weapons used in the sport of fencing, all of which are metal. It is flexible, rectangular in cross section, and weighs under a pound. As with the épée, points are only scored by contact with the tip, which, in electrically scored tournaments, is capped with a spring-loaded button to signal a touch. A foil fencer's uniform features the lamé (a vest, electrically wired to record hits). The foil is the most commonly used weapon in competition.",
+        "Link": "https://en.wikipedia.org/wiki/Foil_(fencing)",
+        "Image": "https://i.imgur.com/yJmHoMX.jpg"
+    },
+    "guandao": {
+        "Name": "guandao",
+        "Tagline": "a guandao",
+        "Description": "A guandao is a type of Chinese pole weapon that is used in some forms of Chinese martial arts. In Chinese, it is properly called a yanyuedao , the name under which it always appears in texts from the Song to Qing dynasties such as the Wujing Zongyao and Huangchao Liqi Tushi. It is comparable to the Japanese naginata and the European fauchard or glaive and consists of a heavy blade with a spike at the back and sometimes also a notch at the spike's upper base that can catch an opponent's weapon. In addition there are often irregular serrations that lead the back edge of the blade to the spike. The blade is mounted atop a 1.5 m to 1.8 m (5–6 foot) long wooden or metal pole with a pointed metal counter weight used to balance the heavy blade and for striking on the opposite end.",
+        "Link": "https://en.wikipedia.org/wiki/Guandao",
+        "Image": "https://i.imgur.com/9JykVY1.jpg"
+    },
+    "katana": {
+        "Name": "katana",
+        "Tagline": "a katana",
+        "Description": "A katana is a Japanese sword characterized by a curved, single-edged blade with a circular or squared guard and long grip to accommodate two hands. It was used by the samurai of haunted and feudal Japan.",
+        "Link": "https://en.wikipedia.org/wiki/Katana",
+        "Image": "https://i.imgur.com/lAgwD2a.jpg"
+    },
+    "longsword": {
+        "Name": "longsword",
+        "Tagline": "a longsword",
+        "Description": "A longsword (also spelled as long sword or long-sword) is a type of European sword characterized as having a cruciform hilt with a grip for two-handed use (around 16 to 28 cm or 6 to 11 in), a straight double-edged blade of around 85 to 110 cm (33 to 43 in), and weighing approximately 1 to 1.5 kg (2 lb 3 oz to 3 lb 5 oz).",
+        "Link": "https://en.wikipedia.org/wiki/Longsword",
+        "Image": "https://i.imgur.com/kia4XQI.png"
+    },
+    "machete": {
+        "Name": "machete",
+        "Tagline": "a machete",
+        "Description": "A machete is a broad blade used either as an agricultural implement similar to an axe, or in combat like a long-bladed knife. The blade is typically 30 to 45 centimetres (12 to 18 in) long and usually under 3 millimetres (0.12 in) thick. In the Spanish language, the word is a diminutive form of the word macho, which was used to refer to sledgehammers. In the English language, an equivalent term is matchet, though it is less commonly used. In the English-speaking Caribbean, such as Jamaica, Barbados, Guyana, and Grenada and in Trinidad and Tobago, the term cutlass is used for these agricultural tools.",
+        "Link": "https://en.wikipedia.org/wiki/Machete",
+        "Image": "https://i.imgur.com/hQpiiCH.jpg"
+    },
+    "joyeuse_unmagic": {
+        "Name": "Joyeuse (not magical)",
+        "Tagline": "Joyeuse (not magical)",
+        "Description": "Joyeuse was, in medieval legend, the sword wielded by Charlemagne as his personal weapon. The name means 'joyous'. A sword identified as Joyeuse was used in French royal coronation ceremonies since the 13th century, and is now kept at the Louvre museum.",
+        "Link": "https://en.wikipedia.org/wiki/Joyeuse",
+        "Image": "https://i.imgur.com/Ye2W3m2.jpg"
+    }
+}
